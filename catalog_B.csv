@@ -1,0 +1,1027 @@
+Observation_start_date,Observation_start_time,Proposal_ID,Target_ID,RA,Dec,Observation_ID,Proposal_Title,Abstract,Source_Name,Prime_instrument
+10-01-2020,01:16:47,T03_231,T01,288.798125,10.945767,T03_231T01_9000003910,Target of Opportunity,ToO,GRS 1915+105,laxpc2
+10-02-2020,13:32:02,T03_244,T01,308.063642,37.637456,T03_244T01_9000003912,Target of Opportunity,ToO,EXO 2030+375,sxt
+10-05-2020,01:37:26,T03_247,T01,12.08,85.223917,T03_247T01_9000003914,Target of Opportunity,ToO,NGC 188,uvit1
+10-05-2020,07:29:44,T03_245,T01,264.495,-37.772,T03_245T01_9000003916,Target of Opportunity,ToO,IGR J17379-3747,laxpc2
+10-07-2020,01:05:46,T03_243,T01,295.66935,-10.323492,T03_243T01_9000003918,Target of Opportunity,ToO,NGC 6814,sxt
+10/15/2020,20:37:43,C05_013,T06,12.08,85.223917,C05_013T06_9000003920,Calibration,CAL,NGC 188,uvit1
+10/16/2020,03:08:43,T03_255,T01,277.673792,-6.754861,T03_255T01_9000003922,Target of Opportunity,ToO,SGR 1830-0645,laxpc2
+11-01-2020,05:42:53,C05_019,T04,237.391917,70.348089,C05_019T04_9000003956,Calibration,CAL,Blank Sky-8,laxpc2
+11-03-2020,01:53:31,T03_259,T01,11.37,41.902806,T03_259T01_9000003972,Target of Opportunity,ToO,M31N 2008-12a,uvit1
+11-03-2020,12:41:11,C05_019,T04,237.391917,70.348089,C05_019T04_9000003974,Calibration,CAL,Blank Sky-8,laxpc2
+11-04-2020,04:27:31,T03_257,T01,340.726697,29.712317,T03_257T01_9000003976,Target of Opportunity,ToO,Blank Sky-8,uvit1
+11-10-2020,17:43:11,T03_262,T01,11.37,41.902806,T03_262T01_9000003988,Target of Opportunity,ToO,M31N 2008-12a,sxt
+11-12-2020,19:11:21,T03_263,T01,84.727393,26.315789000000002,T03_263T01_9000003990,Target of Opportunity,ToO,M31N 2008-12a,laxpc1
+11/14/2020,11:05:13,A10_002,T05,11.037,41.557347,A10_002T05_9000004000,ASTROSAT multi-epoch imaging survey of M31: high FUV sensitivity and FUV-variable sources,"M31 is the nearest giant spiral galaxy for which we can study the stellar populations, X-ray sources, and supernova remnants. At a distance of 780 kpc, M31 is far enough away that the brightest stars are safe to observe with UVIT, yet close enough to obtain a good census of the the above populations. The high spatial resolution of UVIT is yielding outstanding data on the stellar populations, X-ray sources and supernova remnants of M31. The multi-wavelength images of M31 is forming a legacy dataset for study of the stellar populations of M31, it star formation history and the structure of the galaxy. For this proposal we are requesting to observe for a second epoch, with UVIT and the X-ray instruments, the bulge and the inner NE spiral arms of M31. The two goals are to obtain significantly higher sensitivity and to identify and study FUV variable sources.",M31 Field No. 2,uvit1
+11/16/2020,04:27:40,A10_024,T01,334.9625,-48.711110999999995,A10_024T01_9000004010,ASTROSAT-UVIT follow-up observations of transient J221951-484240,"We request monthly Astrosat FUV monitoring of J221951-484240. Originally this source was a candidate to GW event S190930t, but HST spectroscopy shows this to be a very distant (and bright) source, likely a TDE or new quasar. We request monthly monitoring in two FUV filters for the A10 period. This will compliment our continuing observations by Swift and allow us to follow the slowly evolving spectral evolution from the optical through to the FUV.",GW Candidate Transient,uvit1
+11/16/2020,13:02:55,A10_009,T02,21.742062,-32.543177,A10_009T02_9000004014,Bow Shocks around Asymptotic Giant Branch (AGB) Stars: U Hya and R Scl in the Ultraviolet,"We propose to observe bow shocks around the runaway AGB stars, U Hya and R Scl. While both are detached shell sources, U Hya&",R Scl,uvit1
+11/16/2020,21:10:56,A10_016,T01,174.81196699999998,17.143669,A10_016T01_9000004016,UVIT Observation of Giant Low Surface Brightness Galaxies UGC 6614 and NGC 1042,The origin and evolution of Giant Low Surface Brightness galaxies (GLSBs) is still debated. This important population of galaxies is,R Scl,uvit1
+11/18/2020,13:43:30,A10_016,T02,40.099863,-8.433544,A10_016T02_9000004018,UVIT Observation of Giant Low Surface Brightness Galaxies UGC 6614 and NGC 1042,The origin and evolution of Giant Low Surface Brightness galaxies (GLSBs) is still debated. This important population of galaxies is,R Scl,uvit2
+11/19/2020,02:11:28,A10_048,T08,334.12125,-21.430694,A10_048T08_9000004020,Assessing feedback and recent star formation in nuclear rings with UVIT observations of the MUSE-TIMER galaxy sample,Context: The TIMER program uses VLT?s MUSE spectrograph to study the gas/stellar kinematics and energetics of nuclear rings in nearby galaxies. The impact of stellar feedback in fueling the galaxies? nuclear regions is unclear,IC 1438,uvit1
+11/20/2020,12:22:14,A10_002,T04,10.710708,41.250228,A10_002T04_9000004022,ASTROSAT multi-epoch imaging survey of M31: high FUV sensitivity and FUV-variable sources,"M31 is the nearest giant spiral galaxy for which we can study the stellar populations, X-ray sources, and supernova remnants. At a distance of 780 kpc, M31 is far enough away that the brightest stars are safe to observe with UVIT, yet close enough to obtain a good census of the the above populations. The high spatial resolution of UVIT is yielding outstanding data on the stellar populations, X-ray sources and supernova remnants of M31. The multi-wavelength images of M31 is forming a legacy dataset for study of the stellar populations of M31, it star formation history and the structure of the galaxy. For this proposal we are requesting to observe for a second epoch, with UVIT and the X-ray instruments, the bulge and the inner NE spiral arms of M31. The two goals are to obtain significantly higher sensitivity and to identify and study FUV variable sources.",M31 Field No. 1,uvit1
+11/21/2020,21:01:51,A10_002,T05,11.037,41.557347,A10_002T05_9000004024,ASTROSAT multi-epoch imaging survey of M31: high FUV sensitivity and FUV-variable sources,"M31 is the nearest giant spiral galaxy for which we can study the stellar populations, X-ray sources, and supernova remnants. At a distance of 780 kpc, M31 is far enough away that the brightest stars are safe to observe with UVIT, yet close enough to obtain a good census of the the above populations. The high spatial resolution of UVIT is yielding outstanding data on the stellar populations, X-ray sources and supernova remnants of M31. The multi-wavelength images of M31 is forming a legacy dataset for study of the stellar populations of M31, it star formation history and the structure of the galaxy. For this proposal we are requesting to observe for a second epoch, with UVIT and the X-ray instruments, the bulge and the inner NE spiral arms of M31. The two goals are to obtain significantly higher sensitivity and to identify and study FUV variable sources.",M31 Field No. 2,uvit1
+11/23/2020,11:53:18,A10_024,T01,334.9625,-48.711110999999995,A10_024T01_9000004026,ASTROSAT-UVIT follow-up observations of transient J221951-484240,"We request monthly Astrosat FUV monitoring of J221951-484240. Originally this source was a candidate to GW event S190930t, but HST spectroscopy shows this to be a very distant (and bright) source, likely a TDE or new quasar. We request monthly monitoring in two FUV filters for the A10 period. This will compliment our continuing observations by Swift and allow us to follow the slowly evolving spectral evolution from the optical through to the FUV.",GW Candidate Transient,uvit1
+11/23/2020,19:53:41,A10_048,T01,23.575833,-29.4185,A10_048T01_9000004028,Assessing feedback and recent star formation in nuclear rings with UVIT observations of the MUSE-TIMER galaxy sample,"Context: The TIMER program uses VLT?s MUSE spectrograph to study the gas/stellar kinematics and energetics of nuclear rings in nearby galaxies. The impact of stellar feedback in fueling the galaxies? nuclear regions is unclear, as the brightest UV sources are poorly characterized.  UVIT is well matched to MUSE resolution, allowing characterization of young ionizing sources in the galaxy centers.",NGC 0613,uvit1
+11/24/2020,20:07:50,A10_048,T06,356.965417,-30.522,A10_048T06_9000004030,Assessing feedback and recent star formation in nuclear rings with UVIT observations of the MUSE-TIMER galaxy sample,"Context: The TIMER program uses VLT?s MUSE spectrograph to study the gas/stellar kinematics and energetics of nuclear rings in nearby galaxies. The impact of stellar feedback in fueling the galaxies? nuclear regions is unclear, as the brightest UV sources are poorly characterized.  UVIT is well matched to MUSE resolution, allowing characterization of young ionizing sources in the galaxy centers.",NGC 7755,uvit1
+11/26/2020,06:17:25,A10_049,T01,66.50295799999999,-57.200492000000004,A10_049T01_9000004032,To probe strong gravitational effect near the black hole in Seyfert galaxy 1H 0419-577,"We request a 30 ks observation of Seyfert galaxy 1H 0419-577 with SXT as a primary instrument, and simultaneously with LAXPC and UVIT. 1H 0419-577 is well feasible for {\it AstroSat} observation as per mandatory tests, though it has never been observed so far. The studies previously done with {\it XMM-Newton} observations revealed that \textbf{this source is ideal one to observe strong gravitational light bending in the vicinity of its rapidly spinning black hole. We will take the advantage of simultaneous observation from SXT and LAXPC and conduct a detailed broadband spectral analysis.} This will provide us unique opportunity to conclusively establish the highly predicted strong light bending model existed in 1H 0419-577. Further, we will extend our analysis to investigate the spectral variability of the source, also, will observe how the emitted component become more and more reflection dominated as the flux drops.",1H 0419-577,sxt
+11/27/2020,12:02:58,A10_016,T01,174.81196699999998,17.143669,A10_016T01_9000004034,UVIT Observation of Giant Low Surface Brightness Galaxies UGC 6614 and NGC 1042,The origin and evolution of Giant Low Surface Brightness galaxies (GLSBs) is still debated. This important population of galaxies is,1H 0419-577,uvit1
+11/28/2020,20:24:38,A10_021,T02,71.427083,-59.247181000000005,A10_021T02_9000004036,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 1672,uvit1
+11/29/2020,04:17:42,A10_021,T03,160.99041699999998,11.703806,A10_021T03_9000004038,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 3351,uvit1
+11/29/2020,15:54:21,A10_065,T03,46.01,-12.07,A10_065T03_9000004040,Imaging very extended galaxy clusters selected from ROSAT,"The  tension between the cosmological parameters derived from the primary cosmic microwave background (CMB) and from cluster samples is a pressing issue. One possible discrepancy is likely the incompleteness of detected clusters is higher than estimated, and certain types of clusters or groups of galaxies were missed. The inaccuracy of the selection function will bias the corresponding mass function of galaxy clusters, and will further affect the cosmological parameter constraints. Recently, we have discovered a new set of 1308 extended clusters with flat profile by employing our state of art algorithm on the data of ROSAT All Survey (RASS). Here, we propose the 5 very extended galaxy clusters, with physical extension of more than 1 Mpc. The proposed ASTROSAT/SXT observations will not only  enable us to understand the formation of extended diffuse X-ray clusters, but also explain the tension between cosmological parameter constraints.",Cluster 3,sxt
+12-02-2020,17:08:34,A10_021,T01,41.579375,-30.274889,A10_021T01_9000004044,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 1097,uvit1
+12-03-2020,00:38:21,A10_045,T01,25.76,13.645056,A10_045T01_9000004046,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",NGC 660,uvit1
+12-03-2020,08:59:17,A10_045,T02,37.083791999999995,-31.881028000000004,A10_045T02_9000004048,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",NGC 660,uvit1
+12-03-2020,15:19:24,A10_048,T02,41.579583,-30.274889,A10_048T02_9000004050,Assessing feedback and recent star formation in nuclear rings with UVIT observations of the MUSE-TIMER galaxy sample,"Context: The TIMER program uses VLT?s MUSE spectrograph to study the gas/stellar kinematics and energetics of nuclear rings in nearby galaxies. The impact of stellar feedback in fueling the galaxies? nuclear regions is unclear, as the brightest UV sources are poorly characterized.  UVIT is well matched to MUSE resolution, allowing characterization of young ionizing sources in the galaxy centers.",NGC 1097,uvit1
+12-04-2020,17:44:22,A10_045,T03,159.862042,47.947111,A10_045T03_9000004052,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",UGC 5791,uvit1
+12-05-2020,09:45:01,A10_057,T02,110.75583300000001,36.35475,A10_057T02_9000004054,Probing galaxy interactions on small scales: UV views of interacting dwarfs in the Lynx-Cancer Void,"Theoretically, the galaxy assembly process is scale-free and expected to be proceeded over all mass ranges. The effect of interactions on the scales of dwarf galaxies is best studied in low-density environments where the effects of nearby massive galaxies are minimal. To understand galaxy interactions and associated star formation on smaller scales, we propose an FUV study of three dwarf galaxy pairs, along with two single dwarfs as control sample, in the Lynx-Cancer Void region and request a total observing time of 82500 seconds. From UVIT observations we plan to identify star forming knots in smaller scales and their spatial distribution in pair and single galaxies to understand the effects of interactions on star formation. We plan to combine UV data with optical, near-infrared and HI observations to further understand and characterise these galaxies. This study can provide valuable insights to our understanding of the hierarchical galaxy assembly process.",UGC 5791,uvit1
+12-06-2020,11:47:26,A10_073,T01,96.3175,73.577472,A10_073T01_9000004056,A Survey of Hard Intermediate Polars,"We propose to use Astrosat to study eight relatively un-studied magnetic cataclysmic variables (CVs) of the intermediate polar (IP) subclass using all four Astrosat instruments.  The requested observations will cover a fixed time block for each target.  The observations will observe the FUV for the white dwarf and lower-energy accretion processes, and detect the spectrum from ${\sim}0.3-30$ keV. The proposed study will be the first connecting the FUV to the soft and hard X-ray bands.",MU Cam,sxt
+12-07-2020,19:55:27,A10_073,T04,175.909583,71.688806,A10_073T04_9000004058,A Survey of Hard Intermediate Polars,"We propose to use Astrosat to study eight relatively un-studied magnetic cataclysmic variables (CVs) of the intermediate polar (IP) subclass using all four Astrosat instruments.  The requested observations will cover a fixed time block for each target.  The observations will observe the FUV for the white dwarf and lower-energy accretion processes, and detect the spectrum from ${\sim}0.3-30$ keV. The proposed study will be the first connecting the FUV to the soft and hard X-ray bands.",YY Dra,sxt
+12-08-2020,00:37:58,A10_057,T05,135.100417,25.614806,A10_057T05_9000004060,Probing galaxy interactions on small scales: UV views of interacting dwarfs in the Lynx-Cancer Void,"Theoretically, the galaxy assembly process is scale-free and expected to be proceeded over all mass ranges. The effect of interactions on the scales of dwarf galaxies is best studied in low-density environments where the effects of nearby massive galaxies are minimal. To understand galaxy interactions and associated star formation on smaller scales, we propose an FUV study of three dwarf galaxy pairs, along with two single dwarfs as control sample, in the Lynx-Cancer Void region and request a total observing time of 82500 seconds. From UVIT observations we plan to identify star forming knots in smaller scales and their spatial distribution in pair and single galaxies to understand the effects of interactions on star formation. We plan to combine UV data with optical, near-infrared and HI observations to further understand and characterise these galaxies. This study can provide valuable insights to our understanding of the hierarchical galaxy assembly process.",UGC 4722,uvit1
+12-09-2020,11:17:43,A10_024,T01,334.9625,-48.711110999999995,A10_024T01_9000004062,ASTROSAT-UVIT follow-up observations of transient J221951-484240,"We request monthly Astrosat FUV monitoring of J221951-484240. Originally this source was a candidate to GW event S190930t, but HST spectroscopy shows this to be a very distant (and bright) source, likely a TDE or new quasar. We request monthly monitoring in two FUV filters for the A10 period. This will compliment our continuing observations by Swift and allow us to follow the slowly evolving spectral evolution from the optical through to the FUV.",GW Candidate Transient,uvit1
+12-09-2020,19:14:50,A10_090,T14,351.473333,42.535,A10_090T14_9000004064,Far-UV Imaging Observations of Galactic Planetary Nebulae with the UVIT,"%latex% We will propose a comprehensive spatially-resolved analysis of the circumstellar matter in 7 Galactic planetary nebulae (PNe) to understand the stellar evolution based on the UVIT far-UV images along with a large number of emission lines detected from our own IFU spectra in optical, mid-IR, and far-IR wavelengths. The UVIT data are essential to our success because the F154W/F169M/F172M images allow us to directly estimate the spatial-distribution of the C$^{3+}$ and N$^{2+}$ abundances using the C\,{\sc iv}\,1548/50\,{\AA} and $[$N\,{\sc iii}$]$\,1745-55\,{\AA} line images solely extracted from these images. The obtaining C and N abundance maps will greatly help us in understanding our sample PNe. Our study will firstly reveal (1) spatial-distribution of elements synthesised in the PN progenitors from the hot plasma gas in the vicinity of the central star to the cold interstellar medium and (2) spatial gas and dust mass maps in each PN.",GW Candidate Transient,uvit1
+12-10-2020,11:24:55,A10_045,T04,177.900192,16.664285999999997,A10_045T04_9000004066,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",LEDA 37112,uvit1
+12-12-2020,18:50:28,A10_073,T05,129.54458300000002,48.634444,A10_073T05_9000004068,A Survey of Hard Intermediate Polars,"We propose to use Astrosat to study eight relatively un-studied magnetic cataclysmic variables (CVs) of the intermediate polar (IP) subclass using all four Astrosat instruments.  The requested observations will cover a fixed time block for each target.  The observations will observe the FUV for the white dwarf and lower-energy accretion processes, and detect the spectrum from ${\sim}0.3-30$ keV. The proposed study will be the first connecting the FUV to the soft and hard X-ray bands.",EI UMa,sxt
+12/14/2020,11:10:27,A10_090,T16,269.639183,66.632986,A10_090T16_9000004070,Far-UV Imaging Observations of Galactic Planetary Nebulae with the UVIT,"%latex% We will propose a comprehensive spatially-resolved analysis of the circumstellar matter in 7 Galactic planetary nebulae (PNe) to understand the stellar evolution based on the UVIT far-UV images along with a large number of emission lines detected from our own IFU spectra in optical, mid-IR, and far-IR wavelengths. The UVIT data are essential to our success because the F154W/F169M/F172M images allow us to directly estimate the spatial-distribution of the C$^{3+}$ and N$^{2+}$ abundances using the C\,{\sc iv}\,1548/50\,{\AA} and $[$N\,{\sc iii}$]$\,1745-55\,{\AA} line images solely extracted from these images. The obtaining C and N abundance maps will greatly help us in understanding our sample PNe. Our study will firstly reveal (1) spatial-distribution of elements synthesised in the PN progenitors from the hot plasma gas in the vicinity of the central star to the cold interstellar medium and (2) spatial gas and dust mass maps in each PN.",EI UMa,uvit1
+12/15/2020,00:36:06,A10_045,T09,222.81004199999998,35.542269,A10_045T09_9000004072,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",UGC 9562,uvit1
+12/16/2020,20:21:14,C05_019,T04,237.391917,70.348089,C05_019T04_9000004074,Calibration,CAL,Blank Sky-8,laxpc2
+12/18/2020,03:21:48,A10_067,T01,133.703646,20.108511,A10_067T01_9000004076,Detailed Spectro-temporal Study and Characterization of the new broadband Emission in BL-Lac OJ 287,"BL Lac type blazar OJ 287 has been active in optical to X-ray wavelengths since mid-November 2015, concurrent with its 12-yr recurring optical outbursts, but with poorly understood spectral behaviour. Outbursts recorded in 2015 in 2019 followed the predictions of the disk-impact binary SMBH model, and were followed by an intense long-term X-ray activity. A multi-wavelength study in 2017 identified a new non-thermal emission component in the source. The ongoing X-ray activity peaked in April 2020, and is predicted to continue till mid-2021. We request four {\it AstroSat} observations each of 50 ks in a montoring mode. Near-simultaneous observations in near-infrared with  Mt. Abu Telescope and in hard X-rays with {\it NuSTAR} are proposed. Multi-wave capabilities of {\it AstroSat} are needed to explore time scales of accretion processes, strength and nature of non-thermal component and its connections with broad-band X-ray spectrum and its variability.",Blank Sky-8,sxt
+12/20/2020,12:01:50,A10_102,T06,170.889833,67.186083,A10_102T06_9000004078,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",Blank Sky-8,uvit1
+12/23/2020,13:08:10,A10_116,T01,41.579375,-30.274889,A10_116T01_9000004082,To understand the AGN Feedback processes in nearby LINER type galaxy NGC 1097,"Active galactic nuclei (AGN) influences the properties of the host galaxy which is termed as ''AGN feedback''. The energy from the central region can either reduce the star formation (negative feedback) or, can enhance the star formation (positive feedback). Theoretically, there are predictions for both positive and negative AGN feedback. However, observational studies of AGN feedback is very limited. A detailed observational study of the star formation properties of the inner and outer region of active galaxies will be necessary to validate/verify various theoretical predictions. Here we propose a deep UV observation of a nearby active galaxy NGC 1097 to study star formation both inner and outer part of the host galaxy. Also, observations from X-ray payloads onboard AstroSat will be used construct and model the",NGC 1097,uvit1
+12/25/2020,18:32:25,A10_101,T02,13.395554,12.693313,A10_101T02_9000004084,Far UV emission and the origin of soft X-ray excess emission in PG quasars,"The origin of soft X-ray excess emission (SE) has remained a major problem in AGN research. Two physical models -- blurred reflection and Intrinsic Comptonised disk emission both describe the SE well but predict different FUV emission. We aim to measure simultaneously the FUV and soft X-ray spectra of the PG sample of UV/X-ray bright quasars that are relatively free of internal reddening. These observations will allow predicting the UV continuum based on the models for the observed SE. A comparison of the predicted and observed FUV emission will result in a definitive test of the SE models. Additionally, we will also derive SEDs, bolometric luminosity, accretion rate and measure correlations between fundamental parameters of accretion physics. Our proposed deep observations (18-30ks UVIT exposures)  of 25 fields will result in rich simultaneous UV/X-ray datasets for a variety of sources that will be useful for a number of research problems.",PG 0050+124,uvit1
+12/27/2020,12:41:31,A10_045,T05,197.524333,34.181111,A10_045T05_9000004086,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",SDSSCGB 6435.1,uvit1
+12/28/2020,13:25:00,A10_058,T13,17.033625,-15.511869,A10_058T13_9000004088,ASTROSAT survey of GASP jelly_x005F_x000C_fish galaxies,"Galaxies with a morphology suggestive of ram pressure stripping found mostly in clusters are known as Jellyfish galaxies. The optical and H$\alpha$ imaging of these galaxies reveals tails of ionised gas up to 150 kpc long where new stars are born in knots and end up contributing to the intracluster light. The ongoing star formation in Jellyfish galaxies can be better understood in UV and making use of the spatial resolution of UVIT we have been quite successfully studying the spatial variation of star formation in these systems as part of the GASP survey. Here we propose to complete this survey by observing 15 jellyfish galaxies at redshift $\sim$ 0.05 for which we have data from ALMA,VLA and VLT/MUSE. The combined UVIT/SXT imaging data from the proposed observation will fill the gap in multi-wavelength data and shed more light into triggered star formation and galaxy evolution in dense environments.",SDSSCGB 6435.1,uvit1
+12/30/2020,05:41:14,A10_101,T21,243.488246,65.719432,A10_101T21_9000004090,Far UV emission and the origin of soft X-ray excess emission in PG quasars,"The origin of soft X-ray excess emission (SE) has remained a major problem in AGN research. Two physical models -- blurred reflection and Intrinsic Comptonised disk emission both describe the SE well but predict different FUV emission. We aim to measure simultaneously the FUV and soft X-ray spectra of the PG sample of UV/X-ray bright quasars that are relatively free of internal reddening. These observations will allow predicting the UV continuum based on the models for the observed SE. A comparison of the predicted and observed FUV emission will result in a definitive test of the SE models. Additionally, we will also derive SEDs, bolometric luminosity, accretion rate and measure correlations between fundamental parameters of accretion physics. Our proposed deep observations (18-30ks UVIT exposures)  of 25 fields will result in rich simultaneous UV/X-ray datasets for a variety of sources that will be useful for a number of research problems.",PG 1613+658,uvit1
+01-02-2021,16:42:25,A10_050,T06,124.59583300000001,-11.19415,A10_050T06_9000004092,Far UV Spectroscopy of the Suspected Symbiotic Systems,"Till recently, presence of high excitation lines in the ground based optical spectra was considered to be a standard way to detect and characterize the symbiotic systems. However, the recent detection of SU Lyn - an ordinary red giant from ground-based observations with no emission lines ? in X-ray opened a door to a new class of symbiotics. We have successfully utilized the UVIT-FUV grism spectra of SU Lyn, from the previous proposals, to firmly establish SU Lyn as a member of a new rare kind of accretion powered non-burning symbiotic. The success of UVIT-spectroscopy has encouraged us to use this method to characterize and determine the parameters of the sources whose symbiotic natures are in question. Here we propose UVIT-FUV grism spectroscopy of five suspected and one known symbiotic systems with exposure time of $\sim$10,000s each. These observations would be utilized for the Ph.D. research work of the PI.",UCAC2 27827162,uvit1
+01-03-2021,08:50:56,A10_110,T04,161.325,35.320278,A10_110T04_9000004094,An FUV Study of Star Formation and Stellar/AGN Feedback in Double Nuclei Galaxies.,"We propose to study the UV emission in 5 double nuclei galaxies that represent the final stages of galaxy mergers. It is now well established from observations and simulations that during galaxy interactions, gas is driven into the central regions of the merging galaxies resulting in star formation, and the formation of active galactic nuclei (AGN). Our main aim is to study star formation induced by stellar or AGN outflows and hence detect AGN feedback on kiloparsec scales in these merger remnants. We have chosen three of these sources for deep, follow-up observations, and included two dual active galactic nuclei (AGN) as well. The high spatial resolution of the UVIT will help us resolve the star forming regions, detect super star clusters, and enable us to separate the AGN emission from the disk UV emission. Hence, we request 75 ks of observing time to do FUV observations of our sample.",SDSS J104518.43+351913.5,uvit1
+01-04-2021,02:42:02,A10_123,T03,168.950208,29.18825,A10_123T03_9000004096,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",SDSS J104518.43+351913.5,uvit1
+01-04-2021,17:20:52,A10_110,T05,166.805,65.10194399999999,A10_110T05_9000004098,An FUV Study of Star Formation and Stellar/AGN Feedback in Double Nuclei Galaxies.,"We propose to study the UV emission in 5 double nuclei galaxies that represent the final stages of galaxy mergers. It is now well established from observations and simulations that during galaxy interactions, gas is driven into the central regions of the merging galaxies resulting in star formation, and the formation of active galactic nuclei (AGN). Our main aim is to study star formation induced by stellar or AGN outflows and hence detect AGN feedback on kiloparsec scales in these merger remnants. We have chosen three of these sources for deep, follow-up observations, and included two dual active galactic nuclei (AGN) as well. The high spatial resolution of the UVIT will help us resolve the star forming regions, detect super star clusters, and enable us to separate the AGN emission from the disk UV emission. Hence, we request 75 ks of observing time to do FUV observations of our sample.",SDSS J110713.22+650606.6,uvit1
+01-05-2021,12:46:43,A10_058,T09,10.520912,-9.534464,A10_058T09_9000004100,ASTROSAT survey of GASP jelly_x005F_x000C_fish galaxies,"Galaxies with a morphology suggestive of ram pressure stripping found mostly in clusters are known as Jellyfish galaxies. The optical and H$\alpha$ imaging of these galaxies reveals tails of ionised gas up to 150 kpc long where new stars are born in knots and end up contributing to the intracluster light. The ongoing star formation in Jellyfish galaxies can be better understood in UV and making use of the spatial resolution of UVIT we have been quite successfully studying the spatial variation of star formation in these systems as part of the GASP survey. Here we propose to complete this survey by observing 15 jellyfish galaxies at redshift $\sim$ 0.05 for which we have data from ALMA,VLA and VLT/MUSE. The combined UVIT/SXT imaging data from the proposed observation will fill the gap in multi-wavelength data and shed more light into triggered star formation and galaxy evolution in dense environments.",SDSS J110713.22+650606.6,uvit1
+01-07-2021,11:28:24,A10_102,T07,37.206292,-9.031611,A10_102T07_9000004102,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",SDSS J110713.22+650606.6,uvit1
+01-08-2021,20:17:12,A10_110,T01,155.88583300000002,10.959722,A10_110T01_9000004104,An FUV Study of Star Formation and Stellar/AGN Feedback in Double Nuclei Galaxies.,"We propose to study the UV emission in 5 double nuclei galaxies that represent the final stages of galaxy mergers. It is now well established from observations and simulations that during galaxy interactions, gas is driven into the central regions of the merging galaxies resulting in star formation, and the formation of active galactic nuclei (AGN). Our main aim is to study star formation induced by stellar or AGN outflows and hence detect AGN feedback on kiloparsec scales in these merger remnants. We have chosen three of these sources for deep, follow-up observations, and included two dual active galactic nuclei (AGN) as well. The high spatial resolution of the UVIT will help us resolve the star forming regions, detect super star clusters, and enable us to separate the AGN emission from the disk UV emission. Hence, we request 75 ks of observing time to do FUV observations of our sample.",MRK 721,uvit1
+01-09-2021,17:13:21,A10_102,T03,166.880125,13.786889000000002,A10_102T03_9000004106,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",MRK 721,uvit1
+01-10-2021,21:02:50,A10_045,T06,211.228042,12.704689,A10_045T06_9000004108,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",Mrk 803,uvit1
+1/13/2021,12:15:36,A10_045,T07,211.223833,12.721694,A10_045T07_9000004110,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",UGC 9002,uvit1
+1/14/2021,14:31:20,A10_073,T08,81.34375,24.2255,A10_073T08_9000004112,A Survey of Hard Intermediate Polars,"We propose to use Astrosat to study eight relatively un-studied magnetic cataclysmic variables (CVs) of the intermediate polar (IP) subclass using all four Astrosat instruments.  The requested observations will cover a fixed time block for each target.  The observations will observe the FUV for the white dwarf and lower-energy accretion processes, and detect the spectrum from ${\sim}0.3-30$ keV. The proposed study will be the first connecting the FUV to the soft and hard X-ray bands.",UGC 9002,sxt
+1/15/2021,21:20:21,A10_110,T03,174.55375,12.111944,A10_110T03_9000004114,An FUV Study of Star Formation and Stellar/AGN Feedback in Double Nuclei Galaxies.,"We propose to study the UV emission in 5 double nuclei galaxies that represent the final stages of galaxy mergers. It is now well established from observations and simulations that during galaxy interactions, gas is driven into the central regions of the merging galaxies resulting in star formation, and the formation of active galactic nuclei (AGN). Our main aim is to study star formation induced by stellar or AGN outflows and hence detect AGN feedback on kiloparsec scales in these merger remnants. We have chosen three of these sources for deep, follow-up observations, and included two dual active galactic nuclei (AGN) as well. The high spatial resolution of the UVIT will help us resolve the star forming regions, detect super star clusters, and enable us to separate the AGN emission from the disk UV emission. Hence, we request 75 ks of observing time to do FUV observations of our sample.",MRK 743,uvit1
+1/16/2021,21:24:53,A10_021,T04,185.3865,14.606167000000001,A10_021T04_9000004116,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 4298,uvit1
+1/18/2021,00:57:20,A10_021,T08,191.8,13.900356,A10_021T08_9000004118,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 4689,uvit1
+1/18/2021,13:59:28,A10_123,T03,168.950208,29.18825,A10_123T03_9000004120,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",NGC 4689,uvit1
+1/19/2021,09:17:26,A10_123,T06,172.54725,44.25525,A10_123T06_9000004122,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",NGC 4689,uvit1
+1/19/2021,21:00:20,A10_123,T07,182.681792,42.264225,A10_123T07_9000004124,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",NGC 4689,uvit1
+1/20/2021,17:53:21,A10_123,T08,197.749458,51.487233,A10_123T08_9000004126,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",NGC 4689,uvit1
+1/21/2021,18:26:58,A10_093,T01,80.48575,43.989444,A10_093T01_9000004128,A non-interacting red giant$+$black hole (?)  binary: refining system parameters,"Requested-observation:  UVIT/FUV imaging of the only strong candidate non-interactive black-hole+red-giant system, to detect a postulated UV-emitting hot white-dwarf (WD)  companion, and to attempt catching a possible eclipse to refine orbital parameters and the nature of the system.",NGC 4689,uvit1
+1/22/2021,15:33:42,C05_019,T04,237.391917,70.348089,C05_019T04_9000004130,Calibration,CAL,Blank Sky-8,laxpc2
+1/23/2021,22:33:00,A10_103,T01,201.696833,-47.479583,A10_103T01_9000004132,Globular cluster UVIT Legacy Survey (GlobULeS),"Globular Clusters  (GCs) harbor exotic stars such as blue straggler stars (BSS), horizontal branch (HB), and extreme HB (EHB) stars which are found concentrated in the core of the GCs.  The  HST UV Globular cluster survey (Nardiello et al. 2018)  has 55 GC  observed in near-UV to optical filters. This treasury lacks FUV coverage, which is necessary to characterize the hot HB stars and BSS population.  UVIT has the unique capability to create a complimentary treasury in the Far-UV passbands for the hot stars in the core of each cluster.",NGC 5139,uvit1
+1/25/2021,01:10:07,A10_121,T01,215.303333,-62.698333,A10_121T01_9000004134,Quiescence study of Be/X-ray binary pulsars 2S~1417-624 and EXO~2030+375 with Astrosat,"We propose two 50 ks observations, one each for the Be/X-ray binary pulsars 2S~1417-624 and EXO~2030+375 with Astrosat during the quiescence phase of the binary system. Like other Be/XRPs, these systems show various outburst activities in their X-ray light curve and regularly transit into the quiescence state. The orbital parameters of these binary systems are well known, enabling us to observe them close to their apastron passages, i.e. when the pulsar is expected to be in the quiescence state. Recent investigations have shown that a few Be/X-ray binary pulsars show pulsed X-ray emission during quiescence, which challenges our current understanding about the emission mechanism from these sources during quiescence. Although, these sources have been studied extensively during their various outburst activities, a systematic study of their quiescence properties (spectral and timing) have not been explored till date. Therefore, it would be interesting to investigate them during their quiescence phases.",2S 1417-624,sxt
+1/27/2021,18:45:40,A10_103,T08,225.076875,-82.21369399999999,A10_103T08_9000004136,Globular cluster UVIT Legacy Survey (GlobULeS),"Globular Clusters  (GCs) harbor exotic stars such as blue straggler stars (BSS), horizontal branch (HB), and extreme HB (EHB) stars which are found concentrated in the core of the GCs.  The  HST UV Globular cluster survey (Nardiello et al. 2018)  has 55 GC  observed in near-UV to optical filters. This treasury lacks FUV coverage, which is necessary to characterize the hot HB stars and BSS population.  UVIT has the unique capability to create a complimentary treasury in the Far-UV passbands for the hot stars in the core of each cluster.",IC 4499,uvit1
+1/28/2021,22:37:19,A10_123,T06,172.54725,44.25525,A10_123T06_9000004138,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",IC 4499,uvit1
+1/29/2021,16:30:02,A10_123,T07,182.681792,42.264225,A10_123T07_9000004140,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",IC 4499,uvit1
+1/30/2021,10:17:35,A10_115,T03,191.28258300000002,45.44025,A10_115T03_9000004142,Last Gasps of AGB stars while turning into Planetary Nebulae.,"We propose to observe in FUV region, four AGB stars that are shedding their outer envelopes in the process of becoming PNs. The process of mass ejection is not quite understood. It might have been in bursts or a steady flow which starts interacting the surrounding medium. The time scales, the modes of ejections and to some extent the kinematics of the gas could be arrived at by studying the morphology of the interacting regions. The four objects proposed might have different and varied history. The AGB wind interactions with ISM might produce shocks which could excite H2 gas and thus could be mapped in FUV.",Y CVn,uvit1
+1/30/2021,17:02:52,A10_064,T01,35.3775,39.366111,A10_064T01_9000004144,Understanding Star Formation in the Disks and Tidal Arms of Closely Interacting Galaxies,"We propose to study the FUV emission from a sample of 5 interacting galaxies from the ARP catalog. Our sample consists of galaxies with bright, star-forming disks, extended tidal tails, and bridges. We find that UVIT observations can resolve the star-forming complexes in the tidal arms and inner disks. Encouraged by the initial results, we propose to increase our sample by five more sources that are bright in GALEX FUV emission.  There is already a significant amount of archival data for all our sources (SDSS-optical, archival Halpha, Galex). We will also do follow-up observations at radio frequencies, especially to resolve the star-forming knots and trace the extended arms. We have checked that the sample is safe to be observed by UVIT and that the sources have adequate UV flux in both the stellar disks and extended tidal tails. The galaxies are all nearby and have sizes of several arcminutes across.",arp 273,uvit1
+02-02-2021,21:11:43,A10_082,T04,241.110625,40.683042,A10_082T04_9000004150,"An UVIT/FUV investigation of Bipolar and multipolar Planetary Nebulae and their halos, rings and jets.","Our UVIT observations from the last 3 cycles, revealed that at least three bi-polar Planetary Nebulae (PNs) show large FUV structures, undetected in the optical and NUV images. These are attributed mainly due to molecular H${\rm 2}$ fluorescent  emission from radiation of hot central star, or even collisionally excitation in few cases. This dramatic discovery suggests that large amount of molecular and neutral gas is hidden around the PNs. The study of the morphology and  emission characteristics reveal the history of mass ejection in AGB  and early PN phase of intermediate mass stars&amp;amp;amp;",NGC 6058,uvit1
+02-03-2021,16:39:35,A10_123,T08,197.749458,51.487233,A10_123T08_9000004152,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",NGC 6058,uvit1
+02-04-2021,11:55:28,A10_048,T03,197.20291699999999,-6.7775,A10_048T03_9000004154,Assessing feedback and recent star formation in nuclear rings with UVIT observations of the MUSE-TIMER galaxy sample,"Context: The TIMER program uses VLT?s MUSE spectrograph to study the gas/stellar kinematics and energetics of nuclear rings in nearby galaxies. The impact of stellar feedback in fueling the galaxies? nuclear regions is unclear, as the brightest UV sources are poorly characterized.  UVIT is well matched to MUSE resolution, allowing characterization of young ionizing sources in the galaxy centers.",NGC 4981,uvit1
+02-05-2021,15:40:41,A10_073,T06,99.135417,35.595361,A10_073T06_9000004156,A Survey of Hard Intermediate Polars,"We propose to use Astrosat to study eight relatively un-studied magnetic cataclysmic variables (CVs) of the intermediate polar (IP) subclass using all four Astrosat instruments.  The requested observations will cover a fixed time block for each target.  The observations will observe the FUV for the white dwarf and lower-energy accretion processes, and detect the spectrum from ${\sim}0.3-30$ keV. The proposed study will be the first connecting the FUV to the soft and hard X-ray bands.",V647 Aur,sxt
+02-06-2021,06:21:53,A10_073,T06,99.135417,35.595361,A10_073T06_9000004156,A Survey of Hard Intermediate Polars,"We propose to use Astrosat to study eight relatively un-studied magnetic cataclysmic variables (CVs) of the intermediate polar (IP) subclass using all four Astrosat instruments.  The requested observations will cover a fixed time block for each target.  The observations will observe the FUV for the white dwarf and lower-energy accretion processes, and detect the spectrum from ${\sim}0.3-30$ keV. The proposed study will be the first connecting the FUV to the soft and hard X-ray bands.",V647 Aur,sxt
+02-07-2021,12:56:35,A10_103,T04,114.535292,38.882444,A10_103T04_9000004158,Globular cluster UVIT Legacy Survey (GlobULeS),"Globular Clusters  (GCs) harbor exotic stars such as blue straggler stars (BSS), horizontal branch (HB), and extreme HB (EHB) stars which are found concentrated in the core of the GCs.  The  HST UV Globular cluster survey (Nardiello et al. 2018)  has 55 GC  observed in near-UV to optical filters. This treasury lacks FUV coverage, which is necessary to characterize the hot HB stars and BSS population.  UVIT has the unique capability to create a complimentary treasury in the Far-UV passbands for the hot stars in the core of each cluster.",NGC 2419,uvit1
+02-08-2021,13:18:01,A10_123,T02,129.684375,43.372275,A10_123T02_9000004160,Search for XUV disks in Blue Compact Dwarfs,"The discovery of spatially Extended Ultra Violet (XUV) disks in nearby spiral galaxies in the recent past has opened up a new window to the understanding of galaxy mass assembly over cosmic time. Observations of XUV emission were confined so far to nearby galaxies (upto z $\sim$ 0.05 or so) due to limited resolution and depth in the Far Ultra Violet (FUV) band of GALEX. In a recent work, based on deep UV observations of the GOODS-South Field using AstroSat, we find evidence of XUV Disk present in Blue Compact Dwarfs (BCDs) upto z $\sim$0.24, which have not been previously reported. This finding motivates us to request UVIT observations, 260150 seconds over 20 pointings (under ALTKP), for a sample of 59 local (z$\sim0.03$) BCDs selected from SDSS and search for a statistically significant sample of BCDs hosting XUV disks. This will help understand stellar mass assembly in  low mass galaxies.",NGC 2419,uvit1
+02-10-2021,01:17:22,C05_019,T04,237.391917,70.348089,C05_019T04_9000004162,Calibration,CAL,Blank Sky-8,laxpc2
+02-11-2021,09:39:06,A10_094,T20,84.395425,-70.194733,A10_094T20_9000004164,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",Blank Sky-8,uvit1
+02-11-2021,11:36:03,A10_094,T21,85.45755600000001,-70.170906,A10_094T21_9000004166,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",Blank Sky-8,uvit1
+02-11-2021,13:04:23,A10_094,T22,86.516968,-70.140823,A10_094T22_9000004168,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",Blank Sky-8,uvit1
+02-11-2021,14:56:52,A10_097,T04,162.097917,-25.162056,A10_097T04_9000004170,Understanding the interplay between AGN and Star formation in Seyfert 2 galaxies with UVIT and MUSE observations,AGN driven feedback/outflow plays an important role in regulating star formation in galaxies. Understanding the interplay between the AGN and recent star formation is crucial to know the role of AGN feedback in galaxy evolution. We propose to observe four Seyfert type AGN with the AstroSat/UVIT using F148W and F172M filters. The high-resolution UV imaging will provide the unique scope to understand the recent star-forming activity in the central region of these galaxies. These UVIT observations will be combined with the MUSE optical IFU data to decipher the recent star formation in the NLR region and the outflowing component of the AGN. The kinematics of stellar and gaseous component (from MUSE) combined with the recent SFH (from UVIT) will bring out the anatomy and the energetics of the central engine and its interplay with the surrounding.,NGC 3393,uvit1
+02-12-2021,11:28:05,A10_094,T19,83.331199,-70.212284,A10_094T19_9000004172,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",NGC 3393,uvit1
+02-12-2021,13:22:09,A10_094,T18,82.265509,-70.223543,A10_094T18_9000004174,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",NGC 3393,uvit1
+02-12-2021,15:07:09,A10_094,T17,81.198998,-70.228499,A10_094T17_9000004176,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",NGC 3393,uvit1
+02-12-2021,16:42:43,A10_115,T01,94.992575,-10.637417,A10_115T01_9000004178,Last Gasps of AGB stars while turning into Planetary Nebulae.,"We propose to observe in FUV region, four AGB stars that are shedding their outer envelopes in the process of becoming PNs. The process of mass ejection is not quite understood. It might have been in bursts or a steady flow which starts interacting the surrounding medium. The time scales, the modes of ejections and to some extent the kinematics of the gas could be arrived at by studying the morphology of the interacting regions. The four objects proposed might have different and varied history. The AGB wind interactions with ISM might produce shocks which could excite H2 gas and thus could be mapped in FUV.",NGC 3393,uvit1
+2/13/2021,00:55:21,T03_275,T01,255.705667,-48.789667,T03_275T01_9000004180,Target of Opportunity,ToO,NGC 3393,laxpc1
+2/13/2021,20:41:58,A10_063,T01,211.591208,22.396254000000003,A10_063T01_9000004182,{\it AstroSat} observation of PG 1404+226 to reveal an outflowing accretion disk winds,"We propose a 32 ks observation of Narrow-line quasar PG 1404+226 with SXT as a primary instrument, and simultaneously with LAXPC and UVIT as secondary. The mandatory tests strongly recommend that PG 1404+226 is best suited for {\it AstroSat} observation though the source has never been found to set in previous cycles. It has been revealed from the observations conducted with other satellites, PG 1404+226 can be well studied for absorption features originating from the relativistic outflow of the accretion disk wind.\textbf{ {\it AstroSat} with simultaneous SXT and LAXPC exposure will allow us to explore the analysis and hence to study how the outflowing wind dominates the absorptions. Using SXT and LAXPC observation we will test for any variation in the absorption line strengths and in other parameters. Further, we will search for X-ray/UV variation and correlation using SXT and UVIT observations.}",PG 1404+226,sxt
+2/15/2021,12:38:56,A10_099,T01,193.051921,-13.41472,A10_099T01_9000004184,Nature of the accretion disk in a Seyfert 1 galaxy NGC~4748,"We request 80 ks {\it AstroSat} observations of NGC~4748, a narrow line Seyfert 1 galaxy and one of the lowest black hole mass active galactic nucleus.  This AGN exhibits strong and rapid variations in the UV/optical and X-ray bands. These variations have never been studied in detail to date in this AGN . The available observation shows dips and declining trend present in the UV and the X-ray bands. These features in the UV bands  appear to be delayed on lightcrossing timescale with respect to the X-ray bands. Due to the lack of long UV/optical and X-ray observation, we propose long observation to study these variations using unprecedented multi-wavelength capability UVIT, SXT, LAXPC and CZTI instruments onboard {\it AstroSat}. The main aim of this proposal is to study the correlation between the UV/optical and the X-ray bands, and to derive the lag spectrum to study the nature of accretion disk.",NGC 4748,uvit1
+2/19/2021,12:26:51,A10_021,T08,191.8,13.900356,A10_021T08_9000004186,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 4689,uvit1
+2/19/2021,17:05:36,A10_048,T07,186.481667,18.213889,A10_048T07_9000004188,Assessing feedback and recent star formation in nuclear rings with UVIT observations of the MUSE-TIMER galaxy sample,"Context: The TIMER program uses VLT?s MUSE spectrograph to study the gas/stellar kinematics and energetics of nuclear rings in nearby galaxies. The impact of stellar feedback in fueling the galaxies? nuclear regions is unclear, as the brightest UV sources are poorly characterized.  UVIT is well matched to MUSE resolution, allowing characterization of young ionizing sources in the galaxy centers.",NGC 4394,uvit1
+2/20/2021,16:34:08,A10_053,T19,49.897333,-32.846167,A10_053T19_9000004190,Blue Metal poor stars: Are these field blue stragglers with detectable WD companion?,"The blue straggler stars (BSSs) are main-sequence (MS) stars, which have evaded stellar evolution by acquiring mass. In star clusters, BSSs are easy to locate, whereas their identification in the Galactic field is non-trivial. Blue metal-poor (BMP) stars are bluer and more luminous MS stars than normal turn-off stars of metal poor Globular clusters. These BMP stars are thought to be post-mass transfer  BSSs or stars accreted from dwarf satellite galaxies. A large fraction of field BMP stars are found to be  binaries with mostly circular orbits and long periods, with an expected compact companion. There has not been any systematic study to search for WDs in these systems so far. Here, we propose to observe 45 BMP stars that are known/candidate binaries with chemical inhomogeneity, hence potential candidates for field BSSs. This study is expected to throw light on the formation pathways of field BSSs and BMP stars.",NGC 4394,uvit1
+2/20/2021,19:08:39,A10_053,T34,48.724083,-14.731889,A10_053T34_9000004192,Blue Metal poor stars: Are these field blue stragglers with detectable WD companion?,"The blue straggler stars (BSSs) are main-sequence (MS) stars, which have evaded stellar evolution by acquiring mass. In star clusters, BSSs are easy to locate, whereas their identification in the Galactic field is non-trivial. Blue metal-poor (BMP) stars are bluer and more luminous MS stars than normal turn-off stars of metal poor Globular clusters. These BMP stars are thought to be post-mass transfer  BSSs or stars accreted from dwarf satellite galaxies. A large fraction of field BMP stars are found to be  binaries with mostly circular orbits and long periods, with an expected compact companion. There has not been any systematic study to search for WDs in these systems so far. Here, we propose to observe 45 BMP stars that are known/candidate binaries with chemical inhomogeneity, hence potential candidates for field BSSs. This study is expected to throw light on the formation pathways of field BSSs and BMP stars.",NGC 4394,uvit1
+2/21/2021,04:53:23,A10_053,T41,112.67270800000001,24.085167000000002,A10_053T41_9000004194,Blue Metal poor stars: Are these field blue stragglers with detectable WD companion?,"The blue straggler stars (BSSs) are main-sequence (MS) stars, which have evaded stellar evolution by acquiring mass. In star clusters, BSSs are easy to locate, whereas their identification in the Galactic field is non-trivial. Blue metal-poor (BMP) stars are bluer and more luminous MS stars than normal turn-off stars of metal poor Globular clusters. These BMP stars are thought to be post-mass transfer  BSSs or stars accreted from dwarf satellite galaxies. A large fraction of field BMP stars are found to be  binaries with mostly circular orbits and long periods, with an expected compact companion. There has not been any systematic study to search for WDs in these systems so far. Here, we propose to observe 45 BMP stars that are known/candidate binaries with chemical inhomogeneity, hence potential candidates for field BSSs. This study is expected to throw light on the formation pathways of field BSSs and BMP stars.",NGC 4394,uvit1
+2/21/2021,08:14:46,A10_094,T71,87.203075,-68.88940799999999,A10_094T71_9000004196,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",NGC 4394,uvit1
+2/21/2021,10:23:24,A10_053,T43,205.43575,47.690694,A10_053T43_9000004198,Blue Metal poor stars: Are these field blue stragglers with detectable WD companion?,"The blue straggler stars (BSSs) are main-sequence (MS) stars, which have evaded stellar evolution by acquiring mass. In star clusters, BSSs are easy to locate, whereas their identification in the Galactic field is non-trivial. Blue metal-poor (BMP) stars are bluer and more luminous MS stars than normal turn-off stars of metal poor Globular clusters. These BMP stars are thought to be post-mass transfer  BSSs or stars accreted from dwarf satellite galaxies. A large fraction of field BMP stars are found to be  binaries with mostly circular orbits and long periods, with an expected compact companion. There has not been any systematic study to search for WDs in these systems so far. Here, we propose to observe 45 BMP stars that are known/candidate binaries with chemical inhomogeneity, hence potential candidates for field BSSs. This study is expected to throw light on the formation pathways of field BSSs and BMP stars.",NGC 4394,uvit1
+2/21/2021,13:05:04,A10_102,T02,258.537667,58.818389,A10_102T02_9000004200,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",NGC 4394,uvit1
+2/23/2021,04:06:40,T03_272,T01,239.45416699999998,-54.415,T03_272T01_9000004204,Target of Opportunity,ToO,2S 1553-542,laxpc2
+2/24/2021,05:13:31,A10_115,T01,94.992575,-10.637417,A10_115T01_9000004206,Last Gasps of AGB stars while turning into Planetary Nebulae.,"We propose to observe in FUV region, four AGB stars that are shedding their outer envelopes in the process of becoming PNs. The process of mass ejection is not quite understood. It might have been in bursts or a steady flow which starts interacting the surrounding medium. The time scales, the modes of ejections and to some extent the kinematics of the gas could be arrived at by studying the morphology of the interacting regions. The four objects proposed might have different and varied history. The AGB wind interactions with ISM might produce shocks which could excite H2 gas and thus could be mapped in FUV.",2S 1553-542,uvit1
+2/24/2021,14:31:05,A10_045,T08,220.329917,7.792994,A10_045T08_9000004208,A UVIT view into the formation and evolution of Polar Ring Galaxies,"In the hierarchical model of galaxy evolution, Polar Ring Galaxies (PRGs) are considered as the connecting link between the ongoing mergers and the quiescent galaxies. Interaction between galaxies is considered as the formation mechanism that leads to the creation of PRGs. It is proposed that, as the PRGs evolve through time the polar ring structure- the active region of star formation- disappears and which results in the formation of an elliptical galaxy. The lack of deep photometric observation currently constrains our understanding of the evolution of galaxies. We carried out an initial study for 306 PRGs (identified to date) using the SDSS data and made a subsample of PRGs with extended polar structure.  In this ASTROSAT proposal, we aim to observe 10 PRGs using the UVIT instrument onboard ASTROSAT and investigate the role of interaction in the formation of PRGs along with the evolution of PRGs.",LEDA 84268,uvit1
+2/26/2021,06:53:20,A10_021,T10,287.442083,-63.857528,A10_021T10_9000004210,PHANGS-AstroSat: Resolving the Effect of Galactic Environment on Cloud and Cluster Lifetimes with UVIT,"We request 240 ks of time to execute AstroSat UVIT observations of 10 nearby galaxies, revealing the population of newly formed massive stars.  When combined with archival data, this study will yield a sample of 36 galaxies with complete ALMA, HST and AstroSat FUV data, from the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) sample. ALMA maps emission from the molecular gas that is the immediate reservoir from which stars form, while the HST data provide detailed information on star cluster properties, both at 1.5 arcsec resolution.  These AstroSat FUV data will provide essential constraints on the properties and feedback from the youngest clusters. We will use these data to measure the lifetimes of molecular clouds and clusters, making the first systematic measurements of how these key physical parameters are regulated by the conditions of the interstellar medium (ISM) and the local galactic environment",NGC 6744,uvit1
+2/26/2021,18:20:25,A10_050,T01,272.68275,-27.963917,A10_050T01_9000004212,Far UV Spectroscopy of the Suspected Symbiotic Systems,"Till recently, presence of high excitation lines in the ground based optical spectra was considered to be a standard way to detect and characterize the symbiotic systems. However, the recent detection of SU Lyn - an ordinary red giant from ground-based observations with no emission lines ? in X-ray opened a door to a new class of symbiotics. We have successfully utilized the UVIT-FUV grism spectra of SU Lyn, from the previous proposals, to firmly establish SU Lyn as a member of a new rare kind of accretion powered non-burning symbiotic. The success of UVIT-spectroscopy has encouraged us to use this method to characterize and determine the parameters of the sources whose symbiotic natures are in question. Here we propose UVIT-FUV grism spectroscopy of five suspected and one known symbiotic systems with exposure time of $\sim$10,000s each. These observations would be utilized for the Ph.D. research work of the PI.",NGC 6744,uvit1
+2/28/2021,09:13:48,A10_083,T01,274.281375,-56.02335600000001,A10_083T01_9000004214,X-ray observation of nearby Black hole system QV Tel (HR 6819),"We propose observation to detect X-ray emission around the newly discovered near by blackhole HR 6819. This source may be similar to GRO J0422+32 which shows hard X-ray variability. The LAXPC instrument having a large effective area along with wide Field of View (FOV) of 1-deg x 1-deg gives us a great opportunity to explore the possible detection of X-ray emission from the HR 6819. Thus, we propose 4 observation of 10 ksec with a waiting period of 10 days for the possible X-ray emission detection from this blackhole source. As, we would like to explore the temporal and spectral properties of this source. This observation would be important to analyze as this could lead to a possible first X-ray emission detection from this source found by the AstroSat.",QV Tel (HR 6819),laxpc2
+2/28/2021,17:31:31,A10_050,T03,272.462708,-27.766858000000003,A10_050T03_9000004216,Far UV Spectroscopy of the Suspected Symbiotic Systems,"Till recently, presence of high excitation lines in the ground based optical spectra was considered to be a standard way to detect and characterize the symbiotic systems. However, the recent detection of SU Lyn - an ordinary red giant from ground-based observations with no emission lines ? in X-ray opened a door to a new class of symbiotics. We have successfully utilized the UVIT-FUV grism spectra of SU Lyn, from the previous proposals, to firmly establish SU Lyn as a member of a new rare kind of accretion powered non-burning symbiotic. The success of UVIT-spectroscopy has encouraged us to use this method to characterize and determine the parameters of the sources whose symbiotic natures are in question. Here we propose UVIT-FUV grism spectroscopy of five suspected and one known symbiotic systems with exposure time of $\sim$10,000s each. These observations would be utilized for the Ph.D. research work of the PI.",IRAS 18067-2746,uvit1
+03-02-2021,01:04:04,T03_279,T01,255.705754,-48.789767,T03_279T01_9000004218,Target of Opportunity,ToO,IRAS 18067-2746,sxt
+03-04-2021,20:37:17,A10_102,T11,246.416125,40.801167,A10_102T11_9000004220,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",IRAS 18067-2746,uvit1
+03-05-2021,01:12:00,T03_280,T01,255.75426099999999,-48.604031,T03_280T01_9000004222,Target of Opportunity,ToO,IRAS 18067-2746,uvit1
+03-05-2021,09:11:30,T03_281,T01,255.98133199999998,-48.73965,T03_281T01_9000004224,Target of Opportunity,ToO,IRAS 18067-2746,uvit1
+03-05-2021,10:53:36,T03_282,T01,255.899417,-48.972778999999996,T03_282T01_9000004226,Target of Opportunity,ToO,IRAS 18067-2746,uvit1
+03-05-2021,12:39:46,A10_101,T19,226.004975,10.437716,A10_101T19_9000004228,Far UV emission and the origin of soft X-ray excess emission in PG quasars,"The origin of soft X-ray excess emission (SE) has remained a major problem in AGN research. Two physical models -- blurred reflection and Intrinsic Comptonised disk emission both describe the SE well but predict different FUV emission. We aim to measure simultaneously the FUV and soft X-ray spectra of the PG sample of UV/X-ray bright quasars that are relatively free of internal reddening. These observations will allow predicting the UV continuum based on the models for the observed SE. A comparison of the predicted and observed FUV emission will result in a definitive test of the SE models. Additionally, we will also derive SEDs, bolometric luminosity, accretion rate and measure correlations between fundamental parameters of accretion physics. Our proposed deep observations (18-30ks UVIT exposures)  of 25 fields will result in rich simultaneous UV/X-ray datasets for a variety of sources that will be useful for a number of research problems.",PG 1501+106,uvit1
+03-06-2021,16:05:34,A10_102,T11,246.416125,40.801167,A10_102T11_9000004230,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",PG 1501+106,uvit1
+03-07-2021,18:11:13,A10_102,T05,241.382667,17.80725,A10_102T05_9000004232,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",PG 1501+106,uvit1
+03-08-2021,23:29:58,A10_110,T02,203.100833,11.106389,A10_110T02_9000004234,An FUV Study of Star Formation and Stellar/AGN Feedback in Double Nuclei Galaxies.,"We propose to study the UV emission in 5 double nuclei galaxies that represent the final stages of galaxy mergers. It is now well established from observations and simulations that during galaxy interactions, gas is driven into the central regions of the merging galaxies resulting in star formation, and the formation of active galactic nuclei (AGN). Our main aim is to study star formation induced by stellar or AGN outflows and hence detect AGN feedback on kiloparsec scales in these merger remnants. We have chosen three of these sources for deep, follow-up observations, and included two dual active galactic nuclei (AGN) as well. The high spatial resolution of the UVIT will help us resolve the star forming regions, detect super star clusters, and enable us to separate the AGN emission from the disk UV emission. Hence, we request 75 ks of observing time to do FUV observations of our sample.",MRK 789,uvit1
+03-09-2021,20:31:16,A10_094,T01,76.339345,-70.477508,A10_094T01_9000004236,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",MRK 789,uvit1
+03-09-2021,22:10:38,A10_094,T02,77.41749899999999,-70.50125,A10_094T02_9000004238,A first-look Astrosat/UVIT FUV.Silica survey of the Large Magellanic Cloud,"We request UVIT/FUV.Silica mapping of a wide area in the LMC, spanning diverse stellar populations and clusters.  Safety is ensured by GALEX not-yet-public, spatially-complete recalibrated imaging.",MRK 789,uvit1
+03-10-2021,01:39:41,A10_102,T08,138.603125,11.940417,A10_102T08_9000004240,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.",MRK 789,uvit1
+03-10-2021,20:46:22,A10_102,T09,120.99983300000001,9.979667,A10_102T09_9000004242,Far-ultraviolet imaging of host galaxies of bona fide intermediate-mass black holes,"Context: Confirmation of a population of intermediate mass black holes (IMBHs; 20,000<M<100,000 M_Sun) will solve one of the long-standing problems in modern astrophysics, the origin of supermassive black holes (SMBHs). IMBH host galaxies hold important clues to our understanding of galaxy formation and evolution processes: they must have evolved from ancient times without major merger events or intense gas accretion onto their nuclei and, therefore, represent relics of primordial galaxy formation. Only 15 of broad-line active galactic nuclei (AGN) powered by IMBHs have been identified.","MRK 789,",uvit1
+9/8/2018,0:58:44,G08_066,T02,38.657792,-8.7881,G08_066T02_9000002346,:,:,NGC 985,uvit2
+9/8/2018,10:05:00,A04_104,T03,311.0407,-10.723457000000002,A04_104T03_9000002348,:,:,Mrk 509,sxt
+9/9/2018,6:55:34,G08_081,T01,308.063667,37.637471999999995,G08_081T01_9000002350,:,:,EXO 2030+375,sxt
+9/10/2018,4:06:12,T02_087,T01,274.005787,-14.036283,T02_087T01_9000002352,:,:,GX 17+2,laxpc2
+9/11/2018,10:40:04,T02_100,T01,248.506708,-47.393,T02_100T01_9000002354,:,:,4u1630-472,laxpc1
+9/11/2018,17:33:38,T02_104,T01,356.77015,51.70497,T02_104T01_9000002356,:,:,1ES2344+5,laxpc1
+9/12/2018,2:00:12,G08_046,T09,237.370539,47.104903,G08_046T09_9000002358,:,:,Sky-9_75_50,laxpc1
+9/12/2018,13:20:00,T02_090,T01,83.633083,22.014494,T02_090T01_9000002360,:,:,Crab,sxt
+9/12/2018,23:50:00,G08_046,T09,237.370539,47.104903,G08_046T09_9000002362,:,:,Sky-9_75_50,laxpc1
+9/13/2018,8:10:26,T02_090,T01,83.633083,22.014494,T02_090T01_9000002364,:,:,Crab,sxt
+9/13/2018,23:24:16,C03_015,T03,12.08,85.223917,C03_015T03_9000002366,:,:,NGC 188,uvit1
+9/14/2018,3:51:22,T02_091,T01,83.633083,22.014494,T02_091T01_9000002368,:,:,Crab,laxpc2
+9/15/2018,6:03:32,G08_012,T01,23.461667000000002,30.726667,G08_012T01_9000002370,:,:,M33,uvit2
+9/17/2018,3:19:24,T02_101,T01,248.506708,-47.393,T02_101T01_9000002372,:,:,4u1630-472,laxpc1
+9/17/2018,8:09:52,A04_230,T01,254.457542,35.342333,A04_230T01_9000002374,:,:,Her X-1,laxpc1
+9/18/2018,13:50:00,T02_110,T01,248.811667,38.1525,T02_110T01_9000002376,:,:,4C 38.41,sxt
+9/19/2018,19:50:00,A04_209,T01,24.17395,15.783660000000001,A04_209T01_9000002378,:,:,NGC628,uvit1
+9/20/2018,19:23:22,T02_094,T01,254.457546,35.342357,T02_094T01_9000002380,:,:,Hercules X-1,uvit1
+9/21/2018,19:29:36,C03_015,T04,12.08,85.223917,C03_015T04_9000002382,:,:,NGC 188,uvit1
+9/21/2018,22:36:42,T02_092,T01,254.457542,35.342333,T02_092T01_9000002384,:,:,Her X-1,laxpc2
+9/23/2018,0:42:06,T02_109,T01,57.604029000000004,17.246509,T02_109T01_9000002386,:,:,V471 Tau,sxt
+9/27/2018,15:14:28,T02_110,T01,248.811667,38.1525,T02_110T01_9000002388,:,:,4C 38.41,sxt
+9/28/2018,0:50:00,T02_112,T01,267.60175,-29.037611,T02_112T01_9000002390,:,:,SAX 1750.8-2009,sxt
+10/1/2018,3:23:04,A05_182,T02,26.012292000000002,61.888971999999995,A05_182T02_9000002392,:,:,NGC 654(2),uvit1
+10/1/2018,9:57:14,A05_072,T05,294.998792,-30.96475,A05_072T05_9000002394,:,:,NGC 6809,uvit2
+10/2/2018,10:37:50,A05_212,T08,332.880708,18.092833,A05_212T08_9000002396,:,:,BD+17 4708,uvit2
+10/2/2018,12:34:50,A05_212,T09,340.611792,-50.066917,A05_212T09_9000002398,:,:,HE 2239-5019,uvit2
+10/2/2018,14:26:10,A05_225,T04,39.960829,18.024279999999997,A05_225T04_9000002400,:,:,NGC 1030,uvit1
+10/2/2018,20:10:22,A05_101,T04,322.680792,-60.001830000000005,A05_101T04_9000002402,:,:,IC 5110,uvit1
+10/2/2018,21:55:34,A05_101,T04,322.680792,-60.001830000000005,A05_101T04_9000002402,:,:,IC 5110,uvit1
+10/3/2018,7:36:08,A05_034,T01,310.463163,-32.43523,A05_034T01_9000002404,:,:,AT Mic,sxt
+10/4/2018,9:28:44,A05_096,T04,69.95683299999999,-68.150389,A05_096T04_9000002406,:,:,RX J0439.86809,uvit1
+10/5/2018,9:52:40,C04_007,T01,83.633208,22.01446,C04_007T01_9000002408,:,:,Crab,sxt
+10/5/2018,16:21:26,A05_149,T04,316.7575,42.236111,A05_149T04_9000002410,:,:,NGC 7027,uvit1
+10/5/2018,21:16:36,A05_101,T01,314.637079,-49.28472,A05_101T01_9000002412,:,:,ESO235-IG023,uvit1
+10/6/2018,8:35:02,A05_069,T02,312.258667,30.404971999999997,A05_069T02_9000002414,:,:,NGC 6960-IV,uvit1
+10/7/2018,5:41:56,A05_069,T03,311.885958,30.741139,A05_069T03_9000002416,:,:,NGC 6960-V,uvit1
+10/7/2018,20:33:42,A05_069,T04,312.426,29.988861,A05_069T04_9000002418,:,:,NGC 6960-VI,uvit1
+10/8/2018,18:59:24,A05_069,T05,312.791042,30.071333000000003,A05_069T05_9000002420,:,:,NGC 6960-VII,uvit1
+10/9/2018,16:18:54,A05_069,T02,312.258667,30.404971999999997,A05_069T02_9000002422,:,:,NGC 6960-IV,uvit1
+10/10/2018,14:51:20,A05_069,T01,312.881625,29.067721999999996,A05_069T01_9000002424,:,:,Cygnus S-1,uvit1
+10/11/2018,12:10:50,A05_069,T03,311.885958,30.741139,A05_069T03_9000002426,:,:,NGC 6960-V,uvit1
+10/12/2018,10:41:42,A05_069,T04,312.426,29.988861,A05_069T04_9000002428,:,:,NGC 6960-VI,uvit1
+10/13/2018,8:04:16,C04_007,T04,284.148642,-37.91015,C04_007T04_9000002430,:,:,RX J1856.6-3754,sxt
+10/14/2018,8:15:52,C04_007,T02,83.633208,22.01446,C04_007T02_9000002432,:,:,Crab,sxt
+10/14/2018,11:45:14,C04_008,T01,83.428,22.015,C04_008T01_9000002434,:,:,Crab Offset,czt1
+10/15/2018,7:04:08,A05_108,T01,359.253083,-34.680539,A05_108T01_9000002438,:,:,Abell4059,uvit1
+10/16/2018,7:23:22,A05_174,T01,359.782958,-30.627969,A05_174T01_9000002440,:,:,1H 2354-315,sxt
+10/18/2018,16:20:12,T03_018,T01,290.884121,-21.07593,T03_018T01_9000002442,:,:,PMN J1923-2104,sxt
+10/21/2018,17:20:38,T03_020,T01,65.001675,-54.937938,T03_020T01_9000002444,:,:,NGC1566,sxt
+10/22/2018,14:20:26,C04_001,T01,237.391917,70.348089,C04_001T01_9000002446,:,:,Blank Sky-8,laxpc1
+10/23/2018,7:35:48,A05_064,T01,174.11,70.1575,A05_064T01_9000002448,:,:,Mrk 180,sxt
+10/24/2018,12:50:00,A05_064,T01,174.11,70.1575,A05_064T01_9000002450,:,:,Mrk 181,sxt
+10/25/2018,21:58:28,C04_007,T07,333.879167,-17.734722,C04_007T07_9000002452,:,:,XMMBlankF8,sxt
+10/26/2018,12:23:00,A05_212,T01,2.4699169999999997,-18.270139,A05_212T01_9000002454,:,:,HE 0007-1832,uvit2
+10/26/2018,14:00:28,A05_212,T01,2.4699169999999997,-18.270139,A05_212T01_9000002454,:,:,HE 0007-1833,uvit2
+10/26/2018,14:34:56,A05_002,T09,63.938042,-55.59225,A05_002T09_9000002456,:,:,NGC 1549,uvit1
+10/26/2018,14:46:02,A05_002,T09,63.938042,-55.59225,A05_002T09_9000002456,:,:,NGC 1549,uvit1
+10/26/2018,16:12:24,A05_002,T09,63.938042,-55.59225,A05_002T09_9000002456,:,:,NGC 1549,uvit1
+10/26/2018,17:42:02,A05_002,T07,64.476458,-55.93289,A05_002T07_9000002458,:,:,IC 2058,uvit1
+10/26/2018,17:44:30,A05_002,T07,64.476458,-55.93289,A05_002T07_9000002458,:,:,IC 2058,uvit1
+10/26/2018,19:19:28,A05_002,T07,64.476458,-55.93289,A05_002T07_9000002458,:,:,IC 2058,uvit1
+10/26/2018,22:22:12,A05_002,T10,64.04362900000001,-55.78014,A05_002T10_9000002460,:,:,NGC 1533,uvit1
+10/26/2018,22:23:10,A05_002,T10,64.04362900000001,-55.78014,A05_002T10_9000002460,:,:,NGC 1533,uvit1
+10/27/2018,6:21:56,A05_078,T01,6.022329,-72.08144399999999,A05_078T01_9000002462,:,:,47 tuc,uvit1
+10/28/2018,15:00:32,A05_104,T04,356.757079,29.471109999999996,A05_104T04_9000002464,:,:,arp86,uvit1
+10/28/2018,19:58:56,A05_101,T09,355.637292,-65.9565,A05_101T09_9000002466,:,:,NGC 7733,uvit1
+10/29/2018,2:07:52,A05_225,T01,351.340621,28.495209999999997,A05_225T01_9000002468,:,:,UGC 12591,uvit1
+10/29/2018,5:39:56,A05_101,T07,24.35625,-64.89639,A05_101T07_9000002470,:,:,NGC 646,uvit1
+10/29/2018,10:16:04,A05_202,T01,58.239625,-68.521333,A05_202T01_9000002472,:,:,PKS 0352-686,sxt
+10/29/2018,17:01:12,A05_225,T01,351.340621,28.495209999999997,A05_225T01_9000002470,:,:,UGC 12591,uvit1
+10/29/2018,20:04:36,T03_024,T01,83.633083,22.0145,T03_024T01_9000002472,:,:,Crab,czt1
+10/31/2018,13:12:32,A05_059,T03,15.3725,-70.486583,A05_059T03_9000002474,:,:,SMC_Shell_3,uvit1
+10/31/2018,16:05:52,A05_059,T04,16.168332999999997,-71.225083,A05_059T04_9000002476,:,:,SMC_Shell_4,uvit1
+10/31/2018,19:21:04,A05_059,T05,17.05375,-70.969139,A05_059T05_9000002478,:,:,SMC_Shell_5,uvit1
+11/1/2018,0:50:00,A05_059,T07,18.268333,-71.038389,A05_059T07_9000002480,:,:,SMC_Shell_7,uvit1
+11/1/2018,6:36:24,A05_101,T07,24.35625,-64.89639,A05_101T07_9000002482,:,:,NGC 646,uvit1
+11/1/2018,10:10:48,A05_202,T01,58.239625,-68.521333,A05_202T01_9000002484,:,:,PKS 0352-686,sxt
+11/3/2018,0:41:24,T03_015,T01,100.56472099999999,75.62573,T03_015T01_9000002486,:,:,UGCA130,uvit1
+11/3/2018,10:31:42,A05_004,T05,9.808417,40.9869,A05_004T05_9000002488,:,:,M31 Field No. 17,uvit1
+11/4/2018,7:35:52,A05_004,T02,9.993958000000001,40.628717,A05_004T02_9000002490,:,:,M31 Field No. 14,uvit1
+11/5/2018,0:22:18,A05_004,T07,10.193625,40.250211,A05_004T07_9000002492,:,:,M31 Field No. 19,uvit1
+11/5/2018,19:31:16,A05_004,T04,10.510083,40.557781,A05_004T04_9000002494,:,:,M31 Field No. 16,uvit1
+11/6/2018,16:44:46,A05_140,T01,135.528583,-40.554694,A05_140T01_9000002496,:,:,Vela X-1,laxpc1
+11/7/2018,18:58:28,A05_056,T01,53.458332999999996,-27.966666999999998,A05_056T01_9000002498,:,:,CDFS03,uvit2
+11/10/2018,3:50:00,T03_034,T01,160.990421,11.70381,T03_034T01_9000002500,:,:,NGC 3351,uvit1
+11/10/2018,13:12:48,T03_034,T01,160.990421,11.70381,T03_034T01_9000002500,:,:,NGC 3351,uvit1
+11/10/2018,19:53:24,A05_101,T05,341.835079,-65.05872,A05_101T05_9000002502,:,:,IC 5250,uvit1
+11/11/2018,3:33:36,A05_074,T02,9.421279,-33.716331,A05_074T02_9000002504,:,:,Cartwheel,uvit1
+11/11/2018,13:26:00,A05_004,T06,9.476917,40.683486,A05_004T06_9000002506,:,:,M31 Field No. 18,uvit1
+11/12/2018,12:19:46,A05_004,T03,9.801542,40.288367,A05_004T03_9000002508,:,:,M31 Field No. 15,uvit1
+11/13/2018,11:06:16,A05_096,T06,84.429171,-70.57083,A05_096T06_9000002510,:,:,RX J0537.7-7034,uvit1
+11/13/2018,14:04:20,T03_030,T01,8.406667,28.739167,T03_030T01_9000002512,:,:,AGC 102983,uvit1
+11/14/2018,17:39:28,T03_013,T01,147.37625,55.579719999999995,T03_013T01_9000002514,:,:,Mrk22,uvit1
+11/15/2018,11:57:28,A05_182,T03,335.029167,58.12805600000001,A05_182T03_9000002516,:,:,NGC 7261,uvit1
+11/15/2018,14:56:52,A05_206,T01,138.010125,-64.8684,A05_206T01_9000002518,:,:,MAXI J0911-655,laxpc1
+11/16/2018,18:43:52,A05_188,T01,128.836062,-45.176432,A05_188T01_9000002520,:,:,Vela  Pulsar,laxpc1
+11/18/2018,0:50:50,T03_058,T01,12.913333,-72.28433299999999,T03_058T01_9000002522,:,:,Swift J005139.2-721704,uvit1
+11/18/2018,17:44:18,A05_143,T01,140.3958,-31.445,A05_143T01_9000002524,:,:,4U 0923-31,sxt
+11/20/2018,2:20:20,A05_225,T02,85.127083,69.37844399999999,A05_225T02_9000002526,:,:,NGC 1961,uvit1
+11/20/2018,8:37:46,A05_206,T01,138.010125,-64.8684,A05_206T01_9000002528,:,:,MAXI J0911-655,laxpc1
+11/21/2018,12:12:00,T03_038,T01,237.391917,70.348089,T03_038T01_9000002530,:,:,Blank Sky-8,laxpc2
+11/22/2018,20:59:40,T03_004,T01,350.049167,22.401944,T03_004T01_9000002532,:,:,AGC 334315 (originallyT0,uvit1
+11/24/2018,18:01:08,A05_004,T04,10.510083,40.557781,A05_004T04_9000002534,:,:,M31 Field No. 16,uvit1
+11/25/2018,17:01:44,A05_004,T06,9.476917,40.683486,A05_004T06_9000002536,:,:,M31 Field No. 18,uvit1
+11/26/2018,15:46:32,A05_004,T03,9.801542,40.288367,A05_004T03_9000002538,:,:,M31 Field No. 15,uvit1
+11/27/2018,14:30:30,A05_056,T01,53.458332999999996,-27.966666999999998,A05_056T01_9000002540,:,:,CDFS03,uvit2
+11/29/2018,0:20:00,C04_004,T01,304.924083,28.5588,C04_004T01_9000002542,:,:,SSM1_Crab,ssm
+11/29/2018,11:02:16,A05_194,T03,7.4875419999999995,32.893678,A05_194T03_9000002544,:,:,MRK 950,uvit1
+11/30/2018,0:20:00,T03_059,T01,53.123692000000005,-27.735364,T03_059T01_9000002546,:,:,AUDISGOODSS,uvit1
+12/1/2018,0:20:00,A05_185,T04,20.786033,34.346821999999996,A05_185T04_9000002548,:,:,1es 0120+340,sxt
+12/5/2018,9:50:00,T03_063,T01,178.342971,-11.08683,T03_063T01_9000002550,:,:,PKS J1153-1105,uvit1
+12/6/2018,7:59:24,A05_185,T04,20.786033,34.346821999999996,A05_185T04_9000002552,:,:,1es 0120+340,sxt
+12/7/2018,3:04:58,T03_059,T01,53.123692000000005,-27.735364,T03_059T01_9000002554,:,:,AUDISGOODSS,uvit1
+12/8/2018,23:17:44,A05_010,T02,53.25,-28.257778000000002,A05_010T02_9000002556,:,:,DEVILS-CDFS2,uvit1
+12/11/2018,9:55:16,A05_169,T01,94.092042,-21.372722,A05_169T01_9000002558,:,:,NGC 2207,uvit1
+12/12/2018,18:13:48,A05_025,T16,102.24754200000001,-36.005306,A05_025T16_9000002560,:,:,NGC 2298,uvit1
+12/13/2018,0:54:16,A05_165,T12,119.92425,-38.732222,A05_165T12_9000002562,:,:,Swift J0759.8-3844,uvit1
+12/14/2018,9:20:12,T03_032,T01,139.470458,-22.354670000000002,T03_032T01_9000002564,:,:,NGC2835,uvit1
+12/14/2018,14:01:02,A05_012,T02,147.177558,50.49198,A05_012T02_9000002566,:,:,Mrk 124,uvit2
+12/14/2018,20:20:48,T03_033,T01,170.06235,12.991539999999999,T03_033T01_9000002568,:,:,NGC 3627,uvit1
+12/15/2018,9:38:32,A05_225,T02,85.127083,69.37844399999999,A05_225T02_9000002570,:,:,NGC 1961,uvit1
+12/15/2018,12:39:16,A05_074,T02,9.421279,-33.716331,A05_074T02_9000002572,:,:,Cartwheel,uvit1
+12/15/2018,22:34:26,T03_030,T01,8.406667,28.739167,T03_030T01_9000002574,:,:,AGC 102983,uvit1
+12/17/2018,10:10:20,A05_182,T03,335.029167,58.12805600000001,A05_182T03_9000002576,:,:,NGC 7261,uvit1
+12/17/2018,14:54:22,A05_198,T01,346.181158,-8.68573,A05_198T01_9000002578,:,:,MCG-2-58-22,sxt
+12/19/2018,5:57:02,A05_068,T01,132.825,11.8,A05_068T01_9000002580,:,:,M67,uvit1
+12/19/2018,20:50:48,T03_067,T01,186.6565,-62.77035,T03_067T01_9000002582,:,:,GX 301-2,laxpc2
+12/21/2018,9:06:56,A05_196,T01,139.00620800000002,-36.627056,A05_196T01_9000002584,:,:,NGC 2818,uvit1
+12/21/2018,16:30:30,A05_198,T01,346.181158,-8.68573,A05_198T01_9000002586,:,:,MCG-2-58-22,sxt
+12/22/2018,2:03:38,T03_051,T01,168.437083,-30.713333000000002,T03_051T01_9000002588,:,:,HE 1111-3026,uvit1
+12/22/2018,12:00:52,A05_149,T03,168.72,55.033333,A05_149T03_9000002590,:,:,NGC 3587,uvit1
+12/22/2018,16:57:08,A05_194,T05,192.063458,17.774010999999998,A05_194T05_9000002592,:,:,SDSS J124815+174626,uvit1
+12/23/2018,10:52:10,T03_068,T01,350.85,58.815,T03_068T01_9000002594,:,:,Cas A,sxt
+12/24/2018,12:35:38,A05_140,T01,135.528583,-40.554694,A05_140T01_9000002596,:,:,Vela X-1,laxpc1
+12/25/2018,11:26:25,A04_174,T01,83.63308,22.0145,XXXXXXXXXXXXXXXXXXXXX,:,:,Crab,czt1
+12/25/2018,15:06:48,T03_013,T01,147.37625,55.579719999999995,T03_013T01_9000002598,:,:,Mrk22,uvit1
+12/25/2018,21:05:40,T03_066,T01,183.88720800000002,36.283611,T03_066T01_9000002600,:,:,NGC 4228,uvit1
+12/27/2018,10:34:30,A05_012,T02,147.177558,50.49198,A05_012T02_9000002602,:,:,Mrk 124,uvit2
+12/28/2018,9:15:30,A05_056,T01,53.458332999999996,-27.966666999999998,A05_056T01_9000002604,:,:,CDFS03,uvit2
+12/30/2018,16:45:20,T03_012,T01,149.386908,33.61973,T03_012T01_9000002606,:,:,IC2524,uvit1
+12/30/2018,23:10:16,T03_027,T01,7.4875419999999995,32.893722,T03_027T01_9000002608,:,:,MRK 950,uvit1
+12/31/2018,10:10:22,T03_071,T01,140.409708,33.360647,T03_071T01_9000002610,:,:,A779,uvit2
+1/1/2019,7:17:21,A05_118,T02,160.879583,24.922222,A05_118T02_9000002612,:,:,NGC3344,uvit1
+1/3/2019,8:12:11,A05_208,T01,196.05991699999998,-10.3396,A05_208T01_9000002614,:,:,NGC 4939,uvit1
+1/4/2019,15:11:47,T03_053,T01,172.200942,58.128331,T03_053T01_9000002616,:,:,SDSS J112848.22+580741.9,uvit1
+1/4/2019,17:37:59,C04_009,T02,12.08,85.223917,C04_009T02_9000002618,:,:,NGC 188,uvit1
+1/4/2019,19:22:59,T03_050,T01,153.722833,-15.931444,T03_050T01_9000002620,:,:,HE 1012-1540,uvit1
+1/4/2019,21:00:04,T03_050,T01,153.722833,-15.931444,T03_050T01_9000002620,:,:,HE 1012-1540,uvit1
+1/4/2019,22:15:45,T03_052,T01,171.11465800000002,36.841338,T03_052T01_9000002622,:,:,BPS BS,16545-0089
+1/4/2019,23:21:39,T03_052,T01,171.11465800000002,36.841338,T03_052T01_9000002622,:,:,BPS BS,16545-0089
+1/5/2019,2:40:52,A05_186,T02,149.191917,28.8288,A05_186T02_9000002624,:,:,DDO 68,uvit1
+1/5/2019,16:56:15,A05_084,T06,53.819120999999996,-35.22625,A05_084T06_9000002626,:,:,NGC 1374,uvit1
+1/5/2019,20:25:10,T03_040,T01,192.270833,43.095,T03_040T01_9000002628,:,:,KISSR1381,uvit1
+1/6/2019,19:07:58,T03_042,T01,208.258333,42.970556,T03_042T01_9000002630,:,:,KISSR1667/1671*,uvit1
+1/8/2019,10:03:29,T03_070,T01,51.17125,34.179444000000004,T03_070T01_9000002632,:,:,1h0323+342_1,uvit1
+1/8/2019,13:14:50,T03_070,T02,51.038458,34.069371999999994,T03_070T02_9000002634,:,:,1h0323+342_2,uvit1
+1/8/2019,16:30:05,T03_070,T03,51.304208,34.179372,T03_070T03_9000002636,:,:,1h0323+342_3,uvit1
+1/8/2019,19:44:55,T03_070,T04,51.038292,34.179372,T03_070T04_9000002638,:,:,1h0323+342_4,uvit1
+1/9/2019,0:53:17,T03_070,T05,51.304375,34.289372,T03_070T05_9000002640,:,:,1h0323+342_5,uvit1
+1/9/2019,8:43:21,T03_070,T06,51.038125,34.289372,T03_070T06_9000002642,:,:,1h0323+342_6,uvit1
+1/9/2019,13:30:35,T03_070,T07,51.17125,34.069444,T03_070T07_9000002644,:,:,1h0323+342_7,uvit1
+1/9/2019,18:22:55,T03_070,T08,51.17125,34.289444,T03_070T08_9000002646,:,:,1h0323+342_8,uvit1
+1/10/2019,1:08:21,T03_070,T09,51.304041999999995,34.069371999999994,T03_070T09_9000002648,:,:,1h0323+342_9,uvit1
+1/10/2019,7:22:50,A05_015,T01,166.11375,38.208889,A05_015T01_9000002650,:,:,Mkn 421,sxt
+1/14/2019,18:54:12,A05_025,T04,78.52816700000001,-40.046556,A05_025T04_9000002652,:,:,NGC 1851,uvit1
+1/15/2019,4:13:11,T03_061,T01,86.757871,-34.250609999999995,T03_061T01_9000002654,:,:,ngc2090,uvit1
+1/15/2019,12:39:49,A05_101,T06,18.593871,-55.398709999999994,A05_101T06_9000002656,:,:,NGC 454,uvit1
+1/15/2019,18:49:57,A05_085,T01,90.19976700000001,-39.918583,A05_085T01_9000002658,:,:,JW108,uvit1
+1/17/2019,18:07:43,T03_075,T01,185.341421,30.176975,T03_075T01_9000002660,:,:,1ES 1218+304,sxt
+1/19/2019,7:37:32,A05_109,T01,169.2275,18.051667000000002,A05_109T01_9000002662,:,:,NGC3607,uvit1
+1/19/2019,17:20:35,C04_011,T01,25.36975,83.583028,C04_011T01_9000002664,:,:,GD419,uvit1
+1/19/2019,20:26:43,A05_227,T07,74.69275,29.843583000000002,A05_227T07_9000002666,:,:,HD 31648,uvit1
+1/19/2019,23:46:11,A05_096,T06,84.429171,-70.57083,A05_096T06_9000002668,:,:,RX J0537.7-7034,uvit1
+1/20/2019,20:39:32,T03_025,T01,148.888221,69.06529,T03_025T01_9000002670,:,:,M81,uvit1
+1/23/2019,8:55:44,A05_019,T01,51.17125,34.179444000000004,A05_019T01_9000002672,:,:,1H 0323+342,sxt
+1/24/2019,15:33:25,C04_009,T03,12.08,85.223917,C04_009T03_9000002674,:,:,NGC 188,uvit1
+1/24/2019,18:18:25,A05_108,T02,194.268,-30.375053,A05_108T02_9000002676,:,:,Abell3530,uvit1
+1/26/2019,6:43:43,A05_159,T01,83.633083,22.0145,A05_159T01_9000002678,:,:,Crab,czt1
+1/29/2019,1:20:00,A05_101,T02,52.669957999999994,-50.30961,A05_101T02_9000002680,:,:,NGC1356,uvit1
+1/29/2019,7:45:04,A06_003,T04,36.820329,33.57917,A06_003T04_9000002682,:,:,NGC 925,uvit1
+1/31/2019,0:50:00,A06_006,T01,53.12370799999999,-27.735364,A06_006T01_9000002684,:,:,AUDFLs,uvit1
+2/1/2019,0:50:00,T03_080,T01,237.391917,70.348089,T03_080T01_9000002686,:,:,Blank Sky-8,laxpc1
+2/1/2019,20:59:41,A05_019,T01,51.17125,34.179444000000004,A05_019T01_9000002688,:,:,1H 0323+342,sxt
+2/3/2019,12:42:30,A05_097,T01,211.82299999999998,6.446000000000001,A05_097T01_9000002690,:,:,SGW_d_01,uvit1
+2/3/2019,19:20:40,A05_186,T01,106.5585,30.233444,A05_186T01_9000002692,:,:,UGC 3672,uvit1
+2/4/2019,11:45:45,A05_084,T04,51.571878999999996,-21.33522,A05_084T04_9000002694,:,:,NGC 1332,uvit1
+2/4/2019,14:46:08,T03_035,T01,188.584621,8.19775,T03_035T01_9000002696,:,:,NGC 4535,uvit1
+2/4/2019,19:35:20,A05_082,T08,188.46505,19.8866,A05_082T08_9000002698,:,:,SDSS J123351.61+195311.8,uvit1
+2/5/2019,8:32:06,A05_103,T01,181.039125,20.347806,A05_103T01_9000002700,:,:,NGC 4066,uvit1
+2/5/2019,15:04:45,A05_194,T05,192.063458,17.774010999999998,A05_194T05_9000002702,:,:,SDSS J124815+174626,uvit1
+2/5/2019,20:07:13,T03_014,T01,217.04525,13.55158,T03_014T01_9000002704,:,:,UGC9273,uvit1
+2/6/2019,12:24:00,A05_176,T05,214.584258,7.592528999999999,A05_176T05_9000002706,:,:,NGC5546offset,uvit1
+2/6/2019,15:39:30,A05_063,T02,175.712375,20.442181,A05_063T02_9000002708,:,:,A1367b,uvit2
+2/7/2019,10:57:18,A05_160,T02,186.22625,21.382278,A05_160T02_9000002710,:,:,PKS 1222+216,sxt
+2/8/2019,19:14:12,T03_003,T01,186.668708,19.754389,T03_003T01_9000002712,:,:,AGC 229361 (original T02),uvit1
+2/9/2019,21:35:30,C04_009,T03,12.08,85.223917,C04_009T03_9000002714,:,:,NGC 188,uvit1
+2/10/2019,5:25:27,C04_001,T01,237.391917,70.348089,C04_001T01_9000002716,:,:,Blank Sky-8,laxpc1
+2/11/2019,6:20:00,A05_019,T01,51.17125,34.179444000000004,A05_019T01_9000002718,:,:,1H 0323+342,sxt
+2/13/2019,9:55:04,A06_006,T01,53.12370799999999,-27.735364,A06_006T01_9000002720,:,:,AUDFLs,uvit1
+2/19/2019,21:50:00,T03_083,T01,207.053042,-63.274111,T03_083T01_9000002722,:,:,MAXI J1348-630,laxpc1
+2/20/2019,1:20:00,A06_006,T01,53.12370799999999,-27.735364,A06_006T01_9000002724,:,:,AUDFLs,uvit1
+2/21/2019,11:00:22,A05_094,T01,118.8554,39.18615,A05_094T01_9000002726,:,:,mrk 382,uvit1
+2/22/2019,11:48:37,T03_083,T01,207.053042,-63.274111,T03_083T01_9000002728,:,:,MAXI J1348-630,laxpc1
+2/22/2019,21:14:41,A05_227,T06,54.75233299999999,29.695999999999998,A05_227T06_9000002730,:,:,V1185 Tau,uvit1
+2/23/2019,5:16:18,A05_199,T01,180.79005800000002,44.53133,A05_199T01_9000002732,:,:,NGC 4051,uvit1
+2/26/2019,0:37:15,A05_144,T02,100.72975,55.474233,A05_144T02_9000002734,:,:,SU Lyn,uvit1
+2/26/2019,14:26:46,A05_072,T02,198.230417,18.169167,A05_072T02_9000002736,:,:,NGC 5024,uvit2
+2/27/2019,9:58:45,A05_082,T12,216.84514199999998,20.09704,A05_082T12_9000002738,:,:,SDSS J142722.83+200549.4,uvit1
+2/27/2019,16:30:11,A05_075,T09,230.4125,29.125,A05_075T09_9000002740,:,:,KISSR692/698*,uvit2
+2/28/2019,9:02:23,T03_083,T01,207.053042,-63.274111,T03_083T01_9000002742,:,:,MAXI J1348-630,laxpc1
+2/28/2019,18:41:12,A05_075,T08,225.5375,29.746111,A05_075T08_9000002744,:,:,KISSR615,uvit2
+3/1/2019,10:58:59,A05_212,T07,208.457083,-17.610556,A05_212T07_9000002746,:,:,HE 1351-1721,uvit2
+3/1/2019,17:34:08,A05_187,T03,128.127208,15.823942,A05_187T03_9000002748,:,:,FR Cnc,sxt
+3/3/2019,6:26:18,A05_103,T02,115.60375,-14.591806,A05_103T02_9000002750,:,:,OH 231.8 4.2,uvit1
+3/3/2019,12:55:22,A05_104,T02,122.81125,25.19306,A05_104T02_9000002752,:,:,arp82,uvit1
+3/3/2019,18:03:12,A05_082,T12,216.84514199999998,20.09704,A05_082T12_9000002754,:,:,SDSS J142722.83+200549.4,uvit1
+3/4/2019,1:11:40,A05_188,T01,128.836062,-45.176432,A05_188T01_9000002756,:,:,Vela Pulsar,laxpc1
+3/5/2019,7:15:15,A05_167,T01,237.321667,21.828332999999997,A05_167T01_9000002758,:,:,HCG77,uvit1
+3/5/2019,22:10:02,A05_075,T07,219.620833,33.335278,A05_075T07_9000002760,:,:,KISSR2407,uvit2
+3/6/2019,10:58:14,A05_072,T02,198.230417,18.169167,A05_072T02_9000002762,:,:,NGC 5024,uvit2
+3/7/2019,3:04:42,A05_075,T05,218.475,42.653611,A05_075T05_9000002764,:,:,KISSR1814*,uvit2
+3/7/2019,11:26:16,A05_075,T06,216.6375,43.854167,A05_075T06_9000002766,:,:,KISSR1786,uvit2
+3/7/2019,17:54:54,A05_075,T01,188.933333,42.856667,A05_075T01_9000002768,:,:,KISSR1347*,uvit2
+3/7/2019,22:45:12,A05_104,T03,209.649171,37.43889,A05_104T03_9000002770,:,:,arp84,uvit1
+3/8/2019,8:21:26,A05_083,T01,205.54677900000002,28.37545,A05_083T01_9000002772,:,:,M3,uvit1
+3/8/2019,14:48:22,A05_082,T10,204.15977900000001,20.542479999999998,A05_082T10_9000002774,:,:,SDSS J133638.35+203232.9,uvit1
+3/8/2019,19:53:01,A05_212,T06,196.47008300000002,-38.516667,A05_212T06_9000002776,:,:,HD 113679,uvit2
+3/8/2019,22:06:01,A05_176,T03,194.300865,28.492365999999997,A05_176T03_9000002778,:,:,NGC4841Aoffset,uvit1
+3/9/2019,10:23:10,A05_118,T04,183.913333,36.326944,A05_118T04_9000002782,:,:,NGC4214,uvit1
+3/9/2019,16:47:17,C04_001,T01,237.391917,70.348089,C04_001T01_9000002784,:,:,Blank Sky-8,laxpc1
+3/10/2019,15:20:00,A06_003,T01,187.046258,44.09363,A06_003T01_9000002786,:,:,NGC 4449,uvit1
+3/11/2019,15:50:31,A06_005,T01,154.403417,-46.412471999999994,A06_005T01_9000002788,:,:,NGC 3201,uvit1
+3/11/2019,20:48:37,A06_005,T01,154.403417,-46.412471999999994,A06_005T01_9000002788,:,:,NGC 3201,uvit1
+3/12/2019,16:19:10,T03_091,T01,135.528583,-40.554691999999996,T03_091T01_9000002790,:,:,Vela X1,laxpc2
+3/13/2019,6:23:17,A05_226,T06,154.10215,37.91277,A05_226T06_9000002792,:,:,KUG1013+381,uvit1
+3/13/2019,13:16:42,A05_072,T04,250.445208,36.543611,A05_072T04_9000002794,:,:,NGC 6205,uvit2
+3/14/2019,13:45:59,A05_165,T07,203.974167,-34.295494,A05_165T07_9000002796,:,:,SWIFT J1335.8-3416,uvit1
+3/15/2019,14:24:03,T03_091,T01,135.528583,-40.554691999999996,T03_091T01_9000002798,:,:,Vela X1,laxpc2
+3/16/2019,3:25:05,A05_226,T06,154.10215,37.91277,A05_226T06_9000002800,:,:,KUG1013+381,uvit1
+3/16/2019,11:15:23,A05_072,T04,250.445208,36.543611,A05_072T04_9000002802,:,:,NGC 6205,uvit2
+3/17/2019,11:40:00,A05_156,T01,212.633917,39.819878,A05_156T01_9000002804,:,:,Target 1,uvit1
+3/18/2019,12:06:34,A05_115,T03,195.040167,27.21375,A05_115T03_9000002806,:,:,Coma1,uvit1
+3/19/2019,7:27:29,A05_088,T03,240.181667,31.17075,A05_088T03_9000002808,:,:,GC50+48,uvit1
+3/19/2019,20:33:44,A05_024,T01,212.280829,-45.28781,A05_024T01_9000002810,:,:,V834 Cen,sxt
+3/21/2019,16:13:34,A05_173,T01,288.799121,10.946019999999999,A05_173T01_9000002812,:,:,GRS 1915+105,laxpc1
+3/24/2019,1:01:22,A05_194,T13,152.388083,23.382167000000003,A05_194T13_9000002814,:,:,SDSS J100933+232255,uvit1
+3/24/2019,11:09:12,T03_094,T01,292.065042,19.555978,T03_094T01_9000002816,:,:,WR 125,sxt
+3/26/2019,11:53:57,A06_003,T07,170.261979,53.16956999999999,A06_003T07_9000002818,:,:,NGC 3631,uvit1
+3/27/2019,23:26:53,A05_163,T01,265.990969,19.585838,A05_163T01_9000002820,:,:,1ES 1741+196,sxt
+3/30/2019,18:13:10,T03_090,T01,105.048125,-66.040028,T03_090T01_9000002822,:,:,AT2019ahk,uvit1
+3/31/2019,11:37:29,A05_205,T01,255.203683,-41.655961,A05_205T01_9000002824,:,:,OAO 1657-415,laxpc1
+4/1/2019,22:18:32,A05_166,T04,254.757,-15.257981,A05_166T04_9000002826,:,:,MAXI J1659-152,laxpc1
+4/2/2019,17:25:32,A05_132,T01,267.383083,-28.134944,A05_132T01_9000002828,:,:,Swift J1749.4-2807,laxpc1
+4/3/2019,18:02:22,A06_003,T05,143.042121,21.50083,A06_003T05_9000002830,:,:,NGC 2903,uvit1
+4/5/2019,13:44:26,A05_022,T03,160.990421,11.70381,A05_022T03_9000002832,:,:,NGC 3351,uvit2
+4/5/2019,18:17:23,A05_046,T01,262.082921,-14.26556,A05_046T01_9000002834,:,:,PDS 456,sxt
+4/10/2019,1:50:00,T03_098,T01,314.69807099999997,41.776994,T03_098T01_9000002836,:,:,GRO J2058+42,laxpc2
+4/11/2019,15:54:46,A05_046,T01,262.082921,-14.26556,A05_046T01_9000002838,:,:,PDS 456,sxt
+4/18/2019,1:34:46,A05_063,T03,247.46266699999998,39.766528,A05_063T03_9000002840,:,:,UGC10420,uvit2
+4/18/2019,15:17:43,A05_075,T10,235.879167,44.0525,A05_075T10_9000002842,:,:,KISSR2010,uvit2
+4/18/2019,18:41:12,A05_007,T06,252.320833,59.919167,A05_007T06_9000002844,:,:,draco_f1,uvit1
+4/19/2019,10:52:55,C04_001,T01,237.391917,70.348089,C04_001T01_9000002846,:,:,Blank Sky-8,laxpc1
+4/20/2019,14:11:39,A05_115,T01,194.49879199999998,27.995972,A05_115T01_9000002848,:,:,Coma6,uvit1
+4/21/2019,9:57:20,A05_088,T02,249.432875,29.727694,A05_088T02_9000002850,:,:,GC50+40,uvit1
+4/21/2019,21:04:44,A05_107,T01,253.467571,39.760169,A05_107T01_9000002852,:,:,Mrk 501,sxt
+4/23/2019,4:12:39,T03_099,T03,105.048083,-66.040028,T03_099T03_9000002854,:,:,AT2019ahk,uvit1
+4/23/2019,20:26:11,A05_204,T01,166.113808,38.20883,A05_204T01_9000002856,:,:,Mrk421,sxt
+4/28/2019,7:26:31,A05_025,T17,246.608292,-72.268861,A05_025T17_9000002858,:,:,NGC 6101,uvit1
+4/28/2019,12:45:26,A05_104,T05,233.738558,23.50314,A05_104T05_9000002860,:,:,arp220,uvit1
+4/28/2019,17:36:12,A05_227,T03,195.839542,-62.223943999999996,A05_227T03_9000002862,:,:,PDS 361S,uvit1
+4/28/2019,19:32:21,A05_226,T06,154.10215,37.91277,A05_226T06_9000002864,:,:,KUG1013+381,uvit1
+4/29/2019,7:41:35,C04_009,T04,12.08,85.223917,C04_009T04_9000002866,:,:,NGC 188,uvit1
+4/29/2019,11:09:26,A05_025,T17,246.608292,-72.268861,A05_025T17_9000002868,:,:,NGC 6101,uvit1
+4/29/2019,16:16:15,A05_104,T05,233.738558,23.50314,A05_104T05_9000002870,:,:,arp220,uvit1
+4/29/2019,21:15:17,A05_227,T03,195.839542,-62.223943999999996,A05_227T03_9000002872,:,:,PDS 361S,uvit1
+4/29/2019,22:55:39,A05_208,T03,192.7215,41.1202,A05_208T03_9000002874,:,:,NGC 4736,uvit1
+4/30/2019,17:58:24,T03_105,T01,308.107417,40.95775,T03_105T01_9000002876,:,:,Cyg X-3,sxt
+5/1/2019,1:00:15,A05_104,T06,180.472079,-18.87694,A05_104T06_9000002878,:,:,arp244,uvit1
+5/1/2019,10:27:50,T03_028,T01,309.78825,-30.755583,T03_028T01_9000002880,:,:,2MASX J20390918-3045201,uvit1
+5/1/2019,16:55:48,A06_009,T02,251.44875,-45.611111,A06_009T02_9000002882,:,:,GX 340+0,laxpc2
+5/1/2019,19:57:30,A05_226,T09,179.3668,-19.62406,A05_226T09_9000002884,:,:,ISZ59,uvit1
+5/2/2019,7:21:25,A05_212,T09,340.611792,-50.066917,A05_212T09_9000002886,:,:,HE 2239-5019,uvit2
+5/2/2019,12:28:36,A05_221,T01,270.38457900000003,-20.52889,A05_221T01_9000002888,:,:,GX 9+1,sxt
+5/4/2019,11:14:54,A05_229,T02,262.991671,-33.83528,A05_229T02_9000002890,:,:,4U 1728-34,laxpc1
+5/6/2019,20:35:41,A05_062,T01,264.742921,-44.45,A05_062T01_9000002892,:,:,4U 1735-44,laxpc1
+5/7/2019,12:37:43,A05_175,T01,220.530833,35.439721999999996,A05_175T01_9000002894,:,:,Mkn 478,sxt
+5/8/2019,19:25:01,T03_112,T01,207.0535,-63.274611,T03_112T01_9000002896,:,:,MAXI J1348-630,laxpc1
+5/9/2019,5:31:01,T03_108,T01,275.091167,7.185639,T03_108T01_9000002898,:,:,MAXI J1820+070,uvit2
+5/9/2019,16:18:07,T03_056,T01,332.88072900000003,18.092822,T03_056T01_9000002900,:,:,BD+17 4708,uvit1
+5/9/2019,19:06:26,A05_101,T05,341.835079,-65.05872,A05_101T05_9000002902,:,:,IC 5250,uvit1
+5/10/2019,1:36:12,A05_142,T01,275.091417,7.1853,A05_142T01_9000002904,:,:,MAXI J1820+070,laxpc1
+5/10/2019,19:49:13,A05_115,T02,194.28591699999998,28.362416999999997,A05_115T02_9000002906,:,:,Coma3,uvit1
+5/11/2019,17:09:31,T03_005,T01,185.0625,25.5,T03_005T01_9000002908,:,:,AGC229101 (originallyT0),uvit1
+5/12/2019,17:20:25,A05_104,T08,189.136292,11.258,A05_104T08_9000002910,:,:,ngc4567,uvit1
+5/12/2019,23:19:24,T03_037,T01,287.442079,-63.857530000000004,T03_037T01_9000002912,:,:,NGC 6744,uvit1
+5/15/2019,2:05:17,T03_116,T01,288.798125,10.945767,T03_116T01_9000002916,:,:,GRS 1915+105,sxt
+5/16/2019,7:38:35,A05_012,T01,141.513721,12.73434,A05_012T01_9000002918,:,:,Mrk 705,uvit2
+5/16/2019,15:49:14,A05_101,T03,310.307792,-38.19342,A05_101T03_9000002920,:,:,ESO341-IG004,uvit1
+5/16/2019,20:20:46,A05_101,T08,305.74902099999997,-44.27153,A05_101T08_9000002922,:,:,NGC 6902A,uvit1
+5/17/2019,7:40:31,A05_101,T10,304.23875,-70.75833,A05_101T10_9000002924,:,:,VV 297,uvit1
+5/17/2019,11:25:04,A06_003,T02,186.453592,33.546929999999996,A06_003T02_9000002926,:,:,NGC 4395,uvit1
+5/18/2019,0:32:50,T03_005,T01,185.0625,25.5,T03_005T01_9000002928,:,:,AGC  229101(originallyT0),uvit1
+5/19/2019,0:52:20,T03_037,T01,287.442079,-63.857530000000004,T03_037T01_9000002930,:,:,NGC 6744,uvit1
+5/19/2019,10:02:45,A05_025,T18,274.65666699999997,-52.215778,A05_025T18_9000002932,:,:,NGC 6584,uvit1
+5/19/2019,15:10:06,A05_212,T08,332.880708,18.092833,A05_212T08_9000002934,:,:,BD+17 4708,uvit2
+5/19/2019,18:23:16,A05_221,T01,270.38457900000003,-20.52889,A05_221T01_9000002936,:,:,GX 9+1,sxt
+5/20/2019,5:34:51,A05_101,T05,341.835079,-65.05872,A05_101T05_9000002938,:,:,IC 5250,uvit1
+5/20/2019,11:02:01,A05_075,T03,197.175,44.098333000000004,A05_075T03_9000002940,:,:,KISSR1462,uvit2
+5/20/2019,15:13:52,A05_176,T04,211.18010800000002,54.892630000000004,A05_176T04_9000002942,:,:,NGC5473,uvit1
+5/20/2019,18:37:35,A05_013,T01,201.245833,-43.126111,A05_013T01_9000002944,:,:,CenA south middle lobe,uvit1
+5/23/2019,12:02:51,C04_009,T05,12.08,85.223917,C04_009T05_9000002946,:,:,NGC 188,uvit1
+5/23/2019,13:52:25,C04_001,T01,237.391917,70.348089,C04_001T01_9000002948,:,:,Blank Sky-8,laxpc1
+6/21/2019,15:58:03,C04_001,T01,237.391917,70.348089,C04_001T01_9000002994,:,:,Blank Sky-8,laxpc1
+6/23/2019,16:13:38,A06_005,T02,236.5125,-37.786417,A06_005T02_9000002996,:,:,NGC 5986,uvit1
+6/26/2019,1:57:25,T03_123,T01,288.798121,10.945766,T03_123T01_9000003000,:,:,V1487 Aql,sxt
+6/27/2019,6:10:29,A05_117,T01,329.71693799999997,-30.225588000000002,A05_117T01_9000003002,:,:,PKS 2155-304,sxt
+6/28/2019,1:06:08,A05_175,T01,220.530833,35.439721999999996,A05_175T01_9000003004,:,:,Mkn 478,sxt
+6/29/2019,0:53:40,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003006,:,:,GX 340+0,laxpc2
+6/29/2019,6:32:17,A05_174,T01,359.782958,-30.627969,A05_174T01_9000003008,:,:,1H 2354-315,sxt
+7/3/2019,2:15:05,A05_163,T01,265.990969,19.585838,A05_163T01_9000003010,:,:,1ES 1741+196,sxt
+7/4/2019,20:23:31,A05_205,T01,255.203683,-41.655961,A05_205T01_9000003012,:,:,OAO 1657-415,laxpc1
+7/6/2019,12:59:25,A05_198,T01,346.181158,-8.68573,A05_198T01_9000003014,:,:,MCG-2-58-22,sxt
+7/7/2019,14:51:35,A05_140,T01,135.528583,-40.554694,A05_140T01_9000003016,:,:,Vela X-1,laxpc1
+7/8/2019,16:26:13,A05_188,T01,128.836062,-45.176432,A05_188T01_9000003018,:,:,Vela Pulsar,laxpc1
+7/10/2019,2:53:22,C04_009,T06,12.08,85.223917,C04_009T06_9000003020,:,:,NGC 188,uvit1
+7/10/2019,7:33:40,A05_160,T02,186.22625,21.382278,A05_160T02_9000003022,:,:,PKS 1222+216,sxt
+7/11/2019,3:20:46,A05_198,T01,346.181158,-8.68573,A05_198T01_9000003024,:,:,MCG-2-58-22,sxt
+7/12/2019,2:17:27,A05_208,T03,192.7215,41.1202,A05_208T03_9000003026,:,:,NGC 4736,uvit1
+7/13/2019,8:37:48,A05_176,T03,194.300865,28.492365999999997,A05_176T03_9000003028,:,:,NGC4841Aoffset,uvit1
+7/13/2019,13:20:49,A05_115,T01,194.49879199999998,27.995972,A05_115T01_9000003030,:,:,Coma6,uvit1
+7/14/2019,22:00:16,A05_115,T03,195.040167,27.21375,A05_115T03_9000003032,:,:,Coma1,uvit1
+7/16/2019,11:17:37,A05_176,T04,211.18010800000002,54.892630000000004,A05_176T04_9000003034,:,:,NGC5473,uvit1
+7/16/2019,14:43:48,A05_022,T08,199.728371,-21.03911,A05_022T08_9000003036,:,:,NGC 5068,uvit2
+7/17/2019,3:46:09,A05_069,T02,312.258667,30.404971999999997,A05_069T02_9000003038,:,:,NGC 6960-iv,uvit1
+7/17/2019,16:53:18,A05_072,T04,250.445208,36.543611,A05_072T04_9000003040,:,:,NGC 6205,uvit2
+7/18/2019,11:57:48,A05_088,T03,240.181667,31.17075,A05_088T03_9000003042,:,:,GC50+48,uvit1
+7/19/2019,4:28:55,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003044,:,:,GX 340+0,laxpc2
+7/19/2019,7:44:32,A06_003,T04,36.820329,33.57917,A06_003T04_9000003046,:,:,NGC 925,uvit1
+7/21/2019,21:47:03,A06_005,T02,236.5125,-37.786417,A06_005T02_9000003048,:,:,NGC 5986,uvit1
+7/22/2019,20:18:57,A05_007,T06,252.320833,59.919167,A05_007T06_9000003050,:,:,draco_f1,uvit1
+7/23/2019,15:34:03,A05_103,T05,244.28970800000002,-51.882556,A05_103T05_9000003052,:,:,PN MZ 3,uvit1
+7/23/2019,22:15:57,A05_082,T09,194.421042,20.39661,A05_082T09_9000003054,:,:,SDSS J125741.05+202347.8,uvit1
+7/24/2019,14:17:11,A05_103,T06,258.385917,-37.023333,A05_103T06_9000003056,:,:,NGC 6302,uvit1
+7/24/2019,19:19:49,A05_022,T09,287.442079,-63.857530000000004,A05_022T09_9000003058,:,:,NGC 6744,uvit2
+7/25/2019,3:08:48,A05_229,T02,262.991671,-33.83528,A05_229T02_9000003060,:,:,4U 1728-34,laxpc1
+7/27/2019,8:55:19,A05_165,T07,203.974167,-34.295494,A05_165T07_9000003062,:,:,SWIFT J1335.8-3416,uvit1
+7/29/2019,16:08:02,A06_002,T02,326.171475,38.321407,A06_002T02_9000003064,:,:,Cyg X-2,laxpc2
+7/30/2019,0:38:42,A05_063,T03,247.46266699999998,39.766528,A05_063T03_9000003066,:,:,UGC10420,uvit2
+7/30/2019,19:47:30,A05_101,T10,304.23875,-70.75833,A05_101T10_9000003068,:,:,VV 297,uvit1
+7/31/2019,1:17:12,A05_013,T01,201.245833,-43.126111,A05_013T01_9000003070,:,:,CenA south  middle lobe,uvit1
+8/6/2019,0:55:21,C04_001,T01,237.391917,70.348089,C04_001T01_9000003074,:,:,Blank Sky-8,laxpc1
+8/6/2019,21:39:35,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003076,:,:,GX 340+0,laxpc2
+8/7/2019,1:43:22,A05_160,T01,338.139167,11.720278,A05_160T01_9000003078,:,:,CTA 102,sxt
+8/8/2019,13:25:31,A06_002,T03,256.563808,-43.035747,A06_002T03_9000003080,:,:,4U 1702-429,laxpc2
+8/10/2019,20:17:58,C04_001,T01,237.391917,70.348089,C04_001T01_9000003082,:,:,Blank Sky-8,laxpc1
+8/12/2019,1:18:38,A05_025,T17,246.608292,-72.268861,A05_025T17_9000003084,:,:,NGC 6101,uvit1
+8/12/2019,13:03:01,A05_227,T03,195.839542,-62.223943999999996,A05_227T03_9000003086,:,:,PDS 361S,uvit1
+8/12/2019,17:50:44,A05_088,T05,216.000333,31.568361,A05_088T05_9000003088,:,:,GC50+69,uvit1
+8/14/2019,1:11:45,T03_131,T01,272.11475,-36.978972,T03_131T01_9000003090,:,:,SAX J1808-3658,laxpc2
+8/15/2019,10:45:49,T03_133,T01,288.717,17.367,T03_133T01_9000003092,:,:,Unknown,laxpc2
+8/15/2019,23:12:11,A05_072,T04,250.445208,36.543611,A05_072T04_9000003094,:,:,NGC 6205,uvit2
+8/17/2019,6:40:58,A05_025,T18,274.65666699999997,-52.215778,A05_025T18_9000003096,:,:,NGC 6584,uvit1
+8/17/2019,11:43:03,A06_009,T03,270.290542,-25.078925,A06_009T03_9000003098,:,:,GX 05-Jan,laxpc2
+8/17/2019,14:47:28,A05_225,T02,85.127083,69.37844399999999,A05_225T02_9000003100,:,:,NGC 1961,uvit1
+8/17/2019,20:05:30,A05_101,T08,305.74902099999997,-44.27153,A05_101T08_9000003102,:,:,NGC 9602A,uvit1
+8/18/2019,1:07:36,A05_075,T06,216.6375,43.854167,A05_075T06_9000003104,:,:,KISSR1786,uvit2
+8/18/2019,19:51:39,A05_088,T02,249.432875,29.727694,A05_088T02_9000003106,:,:,GC50+40,uvit1
+8/19/2019,18:44:41,A05_104,T04,356.757079,29.471109999999996,A05_104T04_9000003108,:,:,arp86,uvit1
+8/20/2019,6:06:21,A05_025,T04,78.52816700000001,-40.046556,A05_025T04_9000003110,:,:,NGC 1851,uvit1
+8/20/2019,19:26:55,A05_101,T03,310.307792,-38.19342,A05_101T03_9000003112,:,:,ESO341-IG004,uvit1
+8/21/2019,2:00:07,A05_155,T04,220.10882900000001,33.98911,A05_155T04_9000003114,:,:,ngc5727,uvit1
+8/21/2019,15:58:16,A05_075,T05,218.475,42.653611,A05_075T05_9000003116,:,:,KISSR1814*,uvit2
+8/22/2019,14:46:30,A05_163,T01,265.990969,19.585838,A05_163T01_9000003118,:,:,1ES 1741+196,sxt
+8/24/2019,16:59:07,A05_104,T05,233.738558,23.50314,A05_104T05_9000003120,:,:,arp220,uvit1
+8/25/2019,9:25:49,A06_009,T03,270.290542,-25.078925,A06_009T03_9000003122,:,:,GX 05-Jan,laxpc2
+8/26/2019,0:53:20,T03_136,T01,272.11475,-36.978972,T03_136T01_9000003124,:,:,SAX J1808-3658,laxpc2
+8/27/2019,8:27:47,C04_001,T01,237.391917,70.348089,C04_001T01_9000003126,:,:,Blank Sky-8,laxpc1
+8/28/2019,9:00:54,A06_009,T03,270.290542,-25.078925,A06_009T03_9000003128,:,:,GX 05-Jan,laxpc2
+8/28/2019,11:52:35,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003130,:,:,GX 340+0,laxpc2
+8/28/2019,15:05:23,A05_062,T01,264.742921,-44.45,A05_062T01_9000003132,:,:,4U 1735-44,laxpc1
+8/29/2019,5:54:29,A06_002,T01,262.990542,-33.834028,A06_002T01_9000003134,:,:,4U 1728-34,laxpc2
+8/31/2019,10:04:10,A06_005,T05,284.888125,-36.631417,A06_005T05_9000003136,:,:,NGC 3723,uvit1
+9/1/2019,7:11:34,A05_062,T02,274.005787,-14.036283,A05_062T02_9000003138,:,:,GX 17+2,laxpc1
+9/1/2019,18:27:42,A05_037,T01,295.669067,-10.32375,A05_037T01_9000003140,:,:,NGC 6814,sxt
+9/5/2019,1:03:56,T03_140,T01,277.680367,-24.019153,T03_140T01_9000003142,:,:,V3890 Sgr,sxt
+9/6/2019,20:28:22,A05_037,T01,295.669067,-10.32375,A05_037T01_9000003144,:,:,NGC 6814,sxt
+9/8/2019,4:41:22,A05_108,T01,359.253083,-34.680539,A05_108T01_9000003146,:,:,Abell4059,uvit1
+9/9/2019,3:37:32,A05_226,T05,100.56472099999999,75.62573,A05_226T05_9000003148,:,:,UGCA130,uvit1
+9/9/2019,11:39:01,A05_041,T01,8.406667,28.739167,A05_041T01_9000003150,:,:,AGC 102983,uvit1
+9/10/2019,12:21:26,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003152,:,:,GX 340+0,laxpc2
+9/10/2019,15:09:33,A06_009,T05,256.435375,-36.423069,A06_009T05_9000003154,:,:,GX 349+2,laxpc2
+9/11/2019,0:56:19,C04_001,T01,237.391917,70.348089,C04_001T01_9000003156,:,:,Blank Sky-8,laxpc1
+9/12/2019,7:55:49,C04_010,T01,58.841625,9.788333,C04_010T01_9000003158,:,:,HZ4,uvit1
+9/12/2019,17:56:07,T03_140,T01,277.680367,-24.019153,T03_140T01_9000003160,:,:,V3890 Sgr,sxt
+9/17/2019,1:37:03,A06_005,T09,325.092167,-23.179861,A06_005T09_9000003168,:,:,NGC 7099,uvit1
+9/17/2019,20:55:52,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003170,:,:,GX 340+0,laxpc2
+9/18/2019,1:12:45,T03_138,T02,340.537375,29.6153,T03_138T02_9000003172,:,:,Akn564_2,uvit1
+9/18/2019,3:28:01,T03_141,T01,284.146292,-37.908471999999996,T03_141T01_9000003174,:,:,RXJ1856.6-3754,sxt
+9/20/2019,20:28:46,A05_144,T02,100.72975,55.474233,A05_144T02_9000003176,:,:,SU Lyn,uvit1
+9/22/2019,1:13:22,T03_138,T03,340.790583,29.7253,T03_138T03_9000003178,:,:,Akn564_3,uvit1
+9/22/2019,6:17:39,T03_138,T04,340.53725,29.7253,T03_138T04_9000003180,:,:,Akn564_4,uvit1
+9/22/2019,8:16:02,T03_138,T05,340.790708,29.8353,T03_138T05_9000003182,:,:,Akn564_5,uvit1
+9/22/2019,10:00:59,T03_138,T06,340.537083,29.8353,T03_138T06_9000003184,:,:,Akn564_6,uvit1
+9/22/2019,11:45:54,T03_138,T07,340.66391699999997,29.615361,T03_138T07_9000003186,:,:,Akn564_7,uvit1
+9/22/2019,13:24:16,T03_138,T08,340.66391699999997,29.835361,T03_138T08_9000003188,:,:,Akn564_8,uvit1
+9/22/2019,15:02:34,T03_138,T09,340.790417,29.6153,T03_138T09_9000003190,:,:,Akn564_9,uvit1
+9/22/2019,16:55:40,A05_166,T01,255.705667,-48.789667,A05_166T01_9000003192,:,:,GX339-4,laxpc1
+9/23/2019,13:23:11,A06_009,T02,251.44875,-45.611111,A06_009T02_9000003194,:,:,GX 340+0,laxpc2
+9/23/2019,19:06:01,A06_009,T05,256.435375,-36.423069,A06_009T05_9000003196,:,:,GX 349+2,laxpc2
+9/24/2019,2:05:15,A06_009,T03,270.290542,-25.078925,A06_009T03_9000003198,:,:,GX 05-Jan,laxpc2
+9/24/2019,5:41:36,A05_155,T02,86.757871,-34.250609999999995,A05_155T02_9000003200,:,:,NGC2090,uvit3
+9/24/2019,19:03:13,A05_182,T02,26.012292000000002,61.888971999999995,A05_182T02_9000003202,:,:,NGC 654(2),uvit1
+9/25/2019,1:21:45,A05_094,T01,118.8554,39.18615,A05_094T01_9000003204,:,:,mrk 382,uvit1
+9/28/2019,10:43:36,A06_002,T02,326.171475,38.321407,A06_002T02_9000003206,:,:,Cyg X-2,laxpc2
+10/1/2019,1:12:04,T03_143,T01,264.974792,-28.496333,T03_143T01_9000003208,:,:,XTE J1739-285,laxpc2
+10/2/2019,4:45:57,A07_006,T04,7.26275,59.571943999999995,A07_006T04_9000003210,:,:,IGR J00291+5934,laxpc1
+10/2/2019,20:19:39,A07_039,T02,31.792958000000002,-74.1175,A07_039T02_9000003212,:,:,MBfield3,uvit1
+10/3/2019,12:13:57,A07_039,T03,30.309041999999998,-74.164333,A07_039T03_9000003214,:,:,MBfield4,uvit1
+10/3/2019,23:30:44,A07_039,T01,33.286375,-74.170172,A07_039T01_9000003216,:,:,MBfield2,uvit1
+10/4/2019,14:33:39,A07_059,T01,25.582042,51.575472,A07_059T01_9000003218,:,:,NGC 650,uvit1
+10/4/2019,19:18:18,A07_010,T04,62.223957999999996,-55.98956,A07_010T04_9000003220,:,:,IC 2038,uvit1
+10/5/2019,8:04:29,A07_027,T16,347.44699999999995,-43.4279,A07_027T16_9000003222,:,:,NGC7496,uvit1
+10/5/2019,11:37:41,A07_005,T01,120.004167,-10.77,A07_005T01_9000003224,:,:,NGC 2506,uvit1
+10/10/2019,11:08:58,A07_004,T01,272.11475,-36.978972,A07_004T01_9000003230,:,:,SAX J1808.4-3658,sxt
+10/13/2019,18:50:22,A07_118,T01,296.254167,-14.815278,A07_118T01_9000003232,:,:,NGC6822,uvit1
+10/15/2019,5:06:21,A07_041,T01,302.355792,-48.831583,A07_041T01_9000003234,:,:,PKS 2005-489,sxt
+10/16/2019,8:32:54,A07_010,T05,62.466,-56.11844,A07_010T05_9000003236,:,:,NGC1533,uvit1
+10/16/2019,15:12:07,A07_010,T06,62.749421,-56.48044,A07_010T06_9000003238,:,:,NGC 1536,uvit1
+10/16/2019,21:51:30,A07_010,T11,63.65225,-56.06080600000001,A07_010T11_9000003240,:,:,NGC 1546,uvit1
+10/17/2019,9:18:58,A07_100,T03,93.90125,71.0375,A07_100T03_9000003242,:,:,mrk 382,sxt
+10/19/2019,9:38:08,A07_007,T02,11.363333,41.883025,A07_007T02_9000003244,:,:,M31 Field No. 8,uvit1
+10/20/2019,18:12:41,A07_130,T01,9.260667,39.972361,A07_130T01_9000003246,:,:,M31-I,uvit1
+10/21/2019,13:35:25,A07_094,T01,352.967412,19.937264000000003,A07_094T01_9000003248,:,:,EQ Peg,sxt
+10/23/2019,6:13:49,A07_153,T02,67.0,-47.91275,A07_153T02_9000003250,:,:,ESO,sxt
+10/24/2019,16:40:18,A07_059,T05,323.28461200000004,39.635978,A07_059T05_9000003252,:,:,PN Hu1-2,uvit1
+10/25/2019,3:41:30,A07_091,T07,117.086125,47.203953000000006,A07_091T07_9000003254,:,:,SDSSJ074820+471214,uvit1
+10/25/2019,15:25:33,A07_134,T01,337.759125,-20.797992,A07_134T01_9000003256,:,:,NGC 7293,uvit1
+10/26/2019,8:48:05,A07_027,T02,353.6145,-36.1011,A07_027T02_9000003258,:,:,IC5332,uvit1
+10/26/2019,12:29:29,A07_047,T09,19.255417,-71.733639,A07_047T09_9000003260,:,:,SMC_Shell_9,uvit1
+10/26/2019,15:29:23,A07_047,T08,18.79625,-71.3655,A07_047T08_9000003262,:,:,SMC_Shell_8,uvit1
+10/26/2019,18:46:43,A07_167,T01,81.70796700000001,-66.095275,A07_167T01_9000003264,:,:,N49 N49B,uvit1
+10/27/2019,12:44:24,A07_149,T01,49.566666999999995,-66.498333,A07_149T01_9000003266,:,:,NGC 1313,uvit1
+10/29/2019,0:45:23,T03_146,T01,292.482931,18.310617999999998,T03_146T01_9000003272,:,:,IGR J19294+1816,laxpc1
+10/29/2019,18:01:15,A07_007,T05,11.037,41.557347,A07_007T05_9000003274,:,:,M31 Field No. 2,uvit1
+10/30/2019,10:33:29,A07_007,T04,10.710708,41.250228,A07_007T04_9000003276,:,:,M31 Field No. 1,uvit1
+11/1/2019,0:44:52,T03_145,T01,351.350779,-38.446996999999996,T03_145T01_9000003278,:,:,IRAS 23226-384,sxt
+11/3/2019,18:30:05,A07_007,T03,11.719583,42.203444,A07_007T03_9000003280,:,:,M31 Field No. 9,uvit1
+11/4/2019,12:20:32,A07_134,T02,112.26125,13.246777999999999,A07_134T02_9000003282,:,:,PN A66 21,uvit1
+11/4/2019,20:32:36,A07_065,T01,147.593333,31.487778000000002,A07_065T01_9000003284,:,:,UGC 5272,uvit1
+11/6/2019,13:08:40,A07_054,T01,124.87075,70.70536,A07_054T01_9000003286,:,:,Holmber II X-1,uvit1
+11/7/2019,21:36:33,A07_018,T02,312.122167,29.723278000000004,A07_018T02_9000003288,:,:,Cygnus S-III,uvit1
+11/8/2019,2:20:17,T03_147,T01,99.098292,-42.867806,T03_147T01_9000003290,:,:,MAXI J0637-430,laxpc2
+11/9/2019,3:33:52,A07_018,T02,312.122167,29.723278000000004,A07_018T02_9000003292,:,:,Cygnus S-III,uvit1
+11/9/2019,12:10:38,A07_018,T07,313.13183300000003,29.681721999999997,A07_018T07_9000003294,:,:,Cygnus S-VIII,uvit1
+11/10/2019,19:10:05,A07_018,T08,312.58325,29.697583,A07_018T08_9000003296,:,:,Cygnus S-IX,uvit1
+11/12/2019,11:37:52,A07_049,T01,331.968305,31.359346000000002,A07_049T01_9000003298,:,:,NGC7217,uvit1
+11/13/2019,9:11:00,A07_047,T09,19.255417,-71.733639,A07_047T09_9000003300,:,:,SMC_Shell_9,uvit1
+11/13/2019,12:06:21,A07_047,T08,18.79625,-71.3655,A07_047T08_9000003302,:,:,SMC_Shell_8,uvit1
+11/13/2019,15:22:48,A07_149,T01,49.566666999999995,-66.498333,A07_149T01_9000003304,:,:,NGC 1313,uvit1
+11/15/2019,1:47:06,T03_147,T01,99.098292,-42.867806,T03_147T01_9000003306,:,:,MAXI J0637-430,laxpc2
+11/19/2019,17:36:44,T03_156,T01,11.37,41.902806,T03_156T01_9000003312,:,:,M31N 2008-12a,uvit1
+11/20/2019,8:39:34,T03_149,T01,99.098292,-42.867806,T03_149T01_9000003314,:,:,MAXIJ0637-430_1,uvit1
+11/20/2019,10:11:25,T03_149,T02,98.947958,-42.977708,T03_149T02_9000003316,:,:,MAXIJ0637-430_2,uvit1
+11/20/2019,11:56:29,T03_149,T03,99.248375,-42.867708,T03_149T03_9000003318,:,:,MAXIJ0637-430_3,uvit1
+11/20/2019,14:01:18,A07_007,T03,11.719583,42.203444,A07_007T03_9000003320,:,:,M31 Field No. 9,uvit1
+11/20/2019,23:20:19,T03_149,T04,98.948208,-42.867708,T03_149T04_9000003322,:,:,MAXIJ0637-430_4,uvit1
+11/21/2019,1:06:34,T03_149,T05,99.248125,-42.757708,T03_149T05_9000003324,:,:,MAXIJ0637-430_5,uvit1
+11/21/2019,5:02:42,T03_149,T06,98.948458,-42.757708,T03_149T06_9000003326,:,:,MAXIJ0637-430_6,uvit1
+11/21/2019,6:45:04,T03_159,T01,99.098292,-42.867806,T03_159T01_9000003328,:,:,MAXI J0637-430,sxt
+11/21/2019,23:35:05,A07_056,T01,237.391917,70.348089,A07_056T01_9000003330,:,:,Blank Sky-8,laxpc2
+11/23/2019,4:59:40,T03_149,T07,99.098292,-42.977806,T03_149T07_9000003332,:,:,MAXIJ0637-430_7,uvit1
+11/23/2019,6:06:33,T03_149,T08,99.098292,-42.757806,T03_149T08_9000003334,:,:,MAXIJ0637-430_8,uvit1
+11/23/2019,7:27:39,T03_149,T09,99.248625,-42.977708,T03_149T09_9000003336,:,:,MAXIJ0637-430_9,uvit1
+11/23/2019,9:16:43,A07_065,T01,147.593333,31.487778000000002,A07_065T01_9000003338,:,:,UGC 5272,uvit1
+11/24/2019,2:25:24,A07_144,T02,183.47958300000002,22.8,A07_144T02_9000003340,:,:,Blank Sky,czt1
+11/26/2019,20:21:48,A08_003,T01,186.356325,16.470006,A08_003T01_9000003342,:,:,VCC801,uvit1
+11/28/2019,8:11:23,A07_049,T01,331.968305,31.359346000000002,A07_049T01_9000003344,:,:,NGC7217,uvit1
+11/29/2019,5:00:34,A07_148,T05,174.12125,21.59639,A07_148T05_9000003346,:,:,ngc 3758,uvit1
+11/30/2019,20:05:48,A07_054,T01,124.87075,70.70536,A07_054T01_9000003348,:,:,Holmber II X-1,uvit1
+12/1/2019,18:41:10,C05_013,T01,12.08,85.223917,C05_013T01_9000003350,:,:,NGC 188,uvit1
+12/1/2019,21:30:04,C05_002,T01,203.654167,37.912222,C05_002T01_9000003352,:,:,XRBBlankF1T1,sxt
+12/2/2019,2:28:25,C05_001,T01,16.005,-72.0312,C05_001T01_9000003354,:,:,1E0102-72.3,sxt
+12/2/2019,20:44:45,C05_006,T01,311.799708,22.026,C05_006T01_9000003356,:,:,SSM1CrabDec2019,ssm
+12/3/2019,10:40:16,A07_049,T01,331.968305,31.359346000000002,A07_049T01_9000003358,:,:,NGC7217,uvit1
+12/4/2019,9:55:33,A07_112,T01,182.32375,29.9275,A07_112T01_9000003360,:,:,NGC4136,uvit1
+12/5/2019,15:32:20,A08_007,T01,161.264733,-59.684459,A08_007T01_9000003362,:,:,eta carina,sxt
+12/13/2019,13:25:06,C05_013,T02,12.08,85.223917,C05_013T02_9000003364,:,:,NGC 188,uvit1
+12/13/2019,15:50:34,C05_001,T01,16.005,-72.0312,C05_001T01_9000003366,:,:,1E0102-72.3,sxt
+12/14/2019,13:40:57,T03_168,T01,32.393904,-74.453283,T03_168T01_9000003368,:,:,RX J0209.6-7427,sxt
+12/16/2019,11:33:11,A07_054,T01,124.87075,70.70536,A07_054T01_9000003370,:,:,Holmber II X-1,uvit1
+12/17/2019,13:11:31,C05_012,T02,237.391917,70.348089,C05_012T02_9000003372,:,:,Blank Sky-8,laxpc2
+12/18/2019,21:09:00,C05_001,T01,16.005,-72.0312,C05_001T01_9000003374,:,:,1E0102-72.3,sxt
+12/19/2019,20:23:48,C05_013,T03,12.08,85.223917,C05_013T03_9000003376,:,:,NGC 188,uvit1
+12/19/2019,23:12:20,A07_054,T01,124.87075,70.70536,A07_054T01_9000003378,:,:,Holmber II X-1,uvit1
+12/21/2019,8:00:04,A07_049,T01,331.968305,31.359346000000002,A07_049T01_9000003380,:,:,NGC7217,uvit1
+12/22/2019,0:41:04,A08_009,T01,189.2125,62.294075,A08_009T01_9000003382,:,:,GOODS-North,uvit1
+12/24/2019,11:10:53,A07_047,T08,18.79625,-71.3655,A07_047T08_9000003384,:,:,SMC_Shell_8,uvit1
+12/24/2019,13:48:57,A07_047,T09,19.255417,-71.733639,A07_047T09_9000003386,:,:,SMC_Shell_9,uvit1
+12/24/2019,17:05:57,T03_170,T01,32.692502000000005,-51.017192,T03_170T01_9000003388,:,:,PKS 0208-512,uvit1
+12/25/2019,16:21:33,A08_009,T01,189.2125,62.294075,A08_009T01_9000003390,:,:,GOODS-North,uvit1
+12/27/2019,15:12:05,A07_062,T01,29.420833000000002,37.785,A07_062T01_9000003392,:,:,NGC 752,uvit1
+12/28/2019,10:44:02,A07_091,T04,197.079667,43.757111,A07_091T04_9000003394,:,:,SDSSJ130819+434525,uvit1
+12/28/2019,20:32:34,A07_047,T09,19.255417,-71.733639,A07_047T09_9000003396,:,:,SMC_Shell_9,uvit1
+12/29/2019,6:02:54,C05_013,T01,12.08,85.223917,C05_013T01_9000003398,:,:,NGC 188,uvit1
+12/29/2019,9:21:48,A08_004,T03,4.958022,21.947824,A08_004T03_9000003400,:,:,RX J0019.8+2156,sxt
+1/2/2020,0:37:08,A07_054,T01,124.87075,70.70536,A07_054T01_9000003406,:,:,Holmber II X-1,uvit1
+1/2/2020,23:10:25,A07_049,T01,331.968305,31.359346000000002,A07_049T01_9000003408,:,:,NGC7217,uvit1
+1/5/2020,19:47:15,A07_138,T05,216.239708,24.25495,A07_138T05_9000003410,:,:,J142457.53+241517.82,uvit1
+1/6/2020,9:03:53,A07_138,T03,182.348458,62.165544,A07_138T03_9000003412,:,:,J120923.63+620955.96,uvit1
+1/6/2020,13:56:04,A08_008,T01,84.911788,-69.743204,A08_008T01_9000003414,:,:,LMC X-1,sxt
+1/7/2020,15:40:05,T03_173,T01,162.115083,71.726639,T03_173T01_9000003416,:,:,S5 1044+71,sxt
+1/8/2020,20:42:16,C05_002,T03,203.654167,37.912222,C05_002T03_9000003418,:,:,XRBBlankF1T3,sxt
+1/8/2020,23:25:03,T03_175,T01,215.626583,32.3862,T03_175T01_9000003420,:,:,OQ 334,sxt
+1/9/2020,0:35:16,A08_009,T01,189.2125,62.294075,A08_009T01_9000003422,:,:,GOODS-North,uvit1
+1/10/2020,7:02:42,A07_148,T05,174.12125,21.59639,A07_148T05_9000003424,:,:,ngc 3758,uvit1
+1/11/2020,1:36:53,A08_003,T05,185.728883,15.822304,A08_003T05_9000003426,:,:,VCC596,uvit1
+1/11/2020,15:34:32,T03_175,T01,215.626583,32.3862,T03_175T01_9000003428,:,:,OQ 334,sxt
+1/12/2020,20:53:45,A08_008,T02,84.73457900000001,-64.084168,A08_008T02_9000003430,:,:,LMC X-3,sxt
+1/13/2020,21:25:37,C05_002,T02,203.654167,37.912222,C05_002T02_9000003432,:,:,XRBBlankF1T2,sxt
+1/14/2020,1:10:00,A08_009,T01,189.2125,62.294075,A08_009T01_9000003434,:,:,GOODS-North,uvit1
+1/15/2020,2:49:34,A08_004,T02,69.95683299999999,-68.150389,A08_004T02_9000003436,:,:,RX J0439.8-6809,sxt
+1/15/2020,13:31:32,A08_004,T03,4.958022,21.947824,A08_004T03_9000003438,:,:,RX J0019.8+2156,sxt
+1/17/2020,9:22:11,C05_005,T01,163.183333,57.483056000000005,C05_005T01_9000003440,:,:,XMMBLANKF3,sxt
+1/18/2020,4:46:17,C05_012,T03,237.391917,70.348089,C05_012T03_9000003442,:,:,Blank Sky-8,laxpc2
+1/21/2020,12:48:37,C05_002,T03,203.654167,37.912222,C05_002T03_9000003448,:,:,XRBBlankF1T3,sxt
+1/21/2020,15:42:03,A07_135,T02,245.731375,15.76971,A07_135T02_9000003450,:,:,dg_02,uvit1
+1/22/2020,23:00:04,A07_135,T01,162.418733,9.006449,A07_135T01_9000003452,:,:,dg_01,uvit1
+1/23/2020,11:44:11,C05_002,T04,203.654167,37.912222,C05_002T04_9000003454,:,:,XRBBlankF1T4,sxt
+1/23/2020,13:29:33,A07_138,T06,217.62995800000002,52.707178000000006,A07_138T06_9000003456,:,:,J143031.19+524225.84,uvit1
+1/23/2020,19:45:19,A07_138,T09,251.97875,44.562514,A07_138T09_9000003458,:,:,J164754.90+443345.05,uvit1
+1/25/2020,15:55:48,A07_127,T02,9.016667,23.957778,A07_127T02_9000003460,:,:,NGC 160,uvit1
+1/27/2020,11:25:32,A07_138,T04,201.768167,48.326756,A07_138T04_9000003462,:,:,J132704.36+481936.32,uvit1
+1/27/2020,16:25:27,A07_138,T02,166.767375,45.822117,A07_138T02_9000003464,:,:,J110704.17+454919.62,uvit1
+1/27/2020,22:50:49,A07_138,T01,165.638958,22.753811,A07_138T01_9000003466,:,:,J110233.35+224513.71,uvit1
+1/28/2020,8:36:38,A07_127,T01,192.095417,8.4875,A07_127T01_9000003468,:,:,NGC 4698,uvit1
+1/28/2020,21:34:11,A07_100,T02,213.29125,-65.339167,A07_100T02_9000003470,:,:,Circinus Galaxy,sxt
+1/30/2020,13:23:46,C05_002,T05,203.654167,37.912222,C05_002T05_9000003472,:,:,XRBBlankF1T5,sxt
+1/30/2020,15:03:49,A07_148,T02,203.669875,-23.445889,A07_148T02_9000003474,:,:,ESO 509-IG  66 NED 2,uvit1
+1/31/2020,17:53:34,A07_100,T02,213.29125,-65.339167,A07_100T02_9000003476,:,:,Circinus Galaxy,sxt
+2/1/2020,21:39:10,A07_112,T01,182.32375,29.9275,A07_112T01_9000003478,:,:,NGC4136,uvit1
+2/2/2020,15:21:04,A07_112,T02,187.184167,43.224167,A07_112T02_9000003480,:,:,UGC7608,uvit1
+2/3/2020,9:06:27,A07_011,T01,217.26666699999998,52.87,A07_011T01_9000003482,:,:,EGS,uvit1
+2/7/2020,13:50:30,A07_024,T04,190.927625,16.393389000000003,A07_024T04_9000003484,:,:,NGC 4651,uvit1
+2/7/2020,17:19:17,A07_054,T01,124.87075,70.70536,A07_054T01_9000003486,:,:,Holmber II X-1,uvit1
+2/8/2020,19:14:23,T03_178,T01,130.170042,-35.273666999999996,T03_178T01_9000003488,:,:,Swift J0840.7-3516,laxpc2
+2/11/2020,20:16:39,A07_091,T04,197.079667,43.757111,A07_091T04_9000003492,:,:,SDSSJ130819+434525,uvit1
+2/12/2020,9:02:04,A07_160,T07,184.6105,29.812917,A07_160T07_9000003494,:,:,Mrk766,uvit1
+2/12/2020,18:50:52,A08_004,T02,69.95683299999999,-68.150389,A08_004T02_9000003496,:,:,RX J0439.8-6809,sxt
+2/13/2020,11:18:20,A07_046,T01,199.112875,17.70025,A07_046T01_9000003498,:,:,NGC5053,uvit1
+2/13/2020,22:28:50,C05_012,T03,237.391917,70.348089,C05_012T03_9000003500,:,:,Blank Sky-8,laxpc2
+2/15/2020,6:55:16,C05_013,T02,12.08,85.223917,C05_013T02_9000003502,:,:,NGC 188,uvit1
+2/15/2020,8:59:48,A07_054,T01,124.87075,70.70536,A07_054T01_9000003504,:,:,Holmber II X-1,uvit1
+2/16/2020,8:53:13,A07_027,T05,49.92100000000001,-19.4112,A07_027T05_9000003506,:,:,NGC1300,uvit1
+2/16/2020,16:45:45,A07_027,T06,54.368,-24.5013,A07_027T06_9000003508,:,:,NGC1385,uvit1
+2/17/2020,6:14:52,A07_027,T14,194.182083,21.6827,A07_027T14_9000003510,:,:,NGC4826,uvit1
+2/17/2020,10:58:50,A07_027,T09,76.31020799999999,-37.9808,A07_027T09_9000003512,:,:,NGC1792,uvit1
+2/17/2020,15:45:33,A07_027,T08,64.399,-62.7837,A07_027T08_9000003514,:,:,NGC1559,uvit1
+2/17/2020,22:27:19,A08_009,T01,189.2125,62.294075,A08_009T01_9000003516,:,:,GOODS-North,uvit1
+2/18/2020,22:50:20,C05_007,T01,214.773292,-14.0129,C05_007T01_9000003518,:,:,SSM1CrabMar2020,ssm
+2/19/2020,14:48:32,A07_091,T10,204.404708,20.397694,A07_091T10_9000003520,:,:,SDSSJ133737+202351,uvit1
+2/19/2020,19:38:15,C05_002,T06,203.654167,37.912222,C05_002T06_9000003522,:,:,XRBBlankF1T6,sxt
+2/19/2020,22:19:04,T03_180,T01,264.974792,-28.496333,T03_180T01_9000003524,:,:,XTE J1739-285,laxpc2
+2/20/2020,23:33:48,A07_113,T01,254.457542,35.342333,A07_113T01_9000003526,:,:,Her X-1,uvit1
+2/24/2020,15:23:10,A07_027,T03,52.88079200000001,-51.9049,A07_027T03_9000003528,:,:,IC1954,uvit1
+2/25/2020,3:51:14,A07_001,T06,73.920833,-71.413333,A07_001T06_9000003530,:,:,LMCSouth_6,uvit1
+2/25/2020,9:07:37,A07_091,T10,204.404708,20.397694,A07_091T10_9000003532,:,:,SDSSJ133737+202351,uvit1
+2/25/2020,13:48:40,A07_149,T01,49.566666999999995,-66.498333,A07_149T01_9000003534,:,:,NGC 1313,uvit1
+2/26/2020,15:50:38,C05_002,T07,203.654167,37.912222,C05_002T07_9000003536,:,:,XRBBlankF1T7,sxt
+2/26/2020,18:25:00,A07_001,T01,77.18820799999999,-71.186444,A07_001T01_9000003538,:,:,LMCSouth_1,uvit1
+2/27/2020,3:01:10,A07_142,T01,262.3,-36.686667,A07_142T01_9000003540,:,:,G351.7-1.2,sxt
+3/4/2020,1:31:35,A07_001,T02,77.28133299999999,-71.503917,A07_001T02_9000003546,:,:,LMCSouth_2,uvit1
+3/4/2020,8:15:56,A07_001,T03,76.06179200000001,-71.756639,A07_001T03_9000003548,:,:,LMCSouth_3,uvit1
+3/4/2020,11:44:31,A07_001,T05,78.333875,-72.078,A07_001T05_9000003550,:,:,LMCSouth_5,uvit1
+3/4/2020,14:54:36,A07_001,T04,77.11908299999999,-71.897972,A07_001T04_9000003552,:,:,LMCSouth_4,uvit1
+3/4/2020,18:26:03,A07_065,T01,147.593333,31.487778000000002,A07_065T01_9000003554,:,:,UGC 5272,uvit1
+3/5/2020,10:25:12,C05_002,T08,203.654167,37.912222,C05_002T08_9000003556,:,:,XRBBlankF1T8,sxt
+3/5/2020,12:38:25,A07_165,T01,236.72,-78.21419399999999,A07_165T01_9000003558,:,:,Sunburst Arc,uvit1
+3/11/2020,22:29:16,T03_182,T01,272.5,-22.2,T03_182T01_9000003560,:,:,MAXI J1810-222,laxpc2
+3/13/2020,0:40:12,A07_027,T15,204.38358300000002,8.8851,A07_027T15_9000003562,:,:,NGC5248,uvit1
+3/13/2020,10:04:56,C05_012,T04,237.391917,70.348089,C05_012T04_9000003564,:,:,Blank Sky-8,laxpc2
+3/14/2020,13:34:37,C05_002,T09,203.654167,37.912222,C05_002T09_9000003566,:,:,XRBBlankF1T9,sxt
+3/14/2020,16:06:29,A07_134,T02,112.26125,13.246777999999999,A07_134T02_9000003568,:,:,PN A66 21,uvit1
+3/14/2020,23:31:46,A07_069,T01,132.825,11.8,A07_069T01_9000003570,:,:,M67,uvit1
+3/16/2020,9:14:56,A07_047,T01,14.553332999999999,-70.763278,A07_047T01_9000003572,:,:,SMC_Shell_1,uvit1
+3/16/2020,14:15:06,A07_047,T02,14.948332999999998,-71.12055600000001,A07_047T02_9000003574,:,:,SMC_Shell_2,uvit1
+3/16/2020,19:00:57,A07_047,T06,17.870417,-70.667889,A07_047T06_9000003576,:,:,SMC_Shell_6,uvit1
+3/17/2020,8:18:32,A07_067,T01,239.790083,35.029878000000004,A07_067T01_9000003578,:,:,Mrk 493,sxt
+3/19/2020,23:39:04,A07_160,T05,141.303542,52.286221999999995,A07_160T05_9000003580,:,:,Mrk110,uvit1
+3/20/2020,15:57:35,A07_010,T12,66.908792,-55.027806000000005,A07_010T12_9000003582,:,:,NGC 1596,uvit1
+3/21/2020,12:57:47,A07_091,T05,167.167167,34.097842,A07_091T05_9000003584,:,:,SDSSJ110840+340552,uvit1
+3/21/2020,18:04:33,A07_118,T01,296.254167,-14.815278,A07_118T01_9000003586,:,:,NGC6822,uvit1
+3/24/2020,22:25:37,C05_007,T01,214.773292,-14.0129,C05_007T01_9000003588,:,:,SSM1CrabMar2020,ssm
+3/25/2020,16:15:49,A07_047,T08,18.79625,-71.3655,A07_047T08_9000003590,:,:,SMC_Shell_8,uvit1
+3/26/2020,8:11:20,A07_027,T10,137.583792,7.0379,A07_027T10_9000003592,:,:,NGC2775,uvit1
+3/26/2020,13:04:46,A07_145,T01,253.467571,39.760169,A07_145T01_9000003594,:,:,Mrk 501,sxt
+3/31/2020,18:37:00,A08_008,T01,84.911788,-69.743204,A08_008T01_9000003596,:,:,LMC X-1,sxt
+4/2/2020,15:14:21,A07_001,T01,77.18820799999999,-71.186444,A07_001T01_9000003598,:,:,LMCSouth_1,uvit1
+4/2/2020,20:21:21,A07_001,T02,77.28133299999999,-71.503917,A07_001T02_9000003600,:,:,LMCSouth_2,uvit1
+4/3/2020,7:40:11,A07_001,T03,76.06179200000001,-71.756639,A07_001T03_9000003602,:,:,LMCSouth_3,uvit1
+4/3/2020,12:51:29,A07_054,T01,124.87075,70.70536,A07_054T01_9000003604,:,:,Holmber II X-1,uvit1
+4/4/2020,11:55:36,T03_183,T01,190.709442,-63.058624,T03_183T01_9000003606,:,:,HD 110432,sxt
+4/12/2020,12:15:48,T03_187,T01,13.639292000000001,-73.68369399999999,T03_187T01_9000003608,:,:,SMC X-2,laxpc2
+4/15/2020,2:06:18,T03_188,T01,248.554583,-47.090306,T03_188T01_9000003612,:,:,4U 1630-472,laxpc2
+4/15/2020,15:56:02,T03_189,T01,200.324221,42.587606,T03_189T01_9000003614,:,:,3C 285,uvit1
+4/18/2020,2:03:51,C05_012,T06,237.391917,70.348089,C05_012T06_9000003616,:,:,Blank Sky-8,laxpc2
+4/19/2020,9:01:00,T03_191,T01,80.116833,-71.96480600000001,T03_191T01_9000003618,:,:,LMC X-2,sxt
+4/23/2020,11:40:34,T03_194,T01,179.8825,29.245556,T03_194T01_9000003620,:,:,TON 599,sxt
+4/25/2020,15:44:10,A07_018,T08,312.58325,29.697583,A07_018T08_9000003622,:,:,Cygnus S-IX,uvit1
+4/26/2020,22:48:46,A07_147,T01,190.99,16.381667,A07_147T01_9000003624,:,:,3C 275.1,uvit1
+4/28/2020,16:41:10,T03_197,T01,254.457542,35.342333,T03_197T01_9000003626,:,:,Hercules X-1,uvit1
+4/30/2020,20:48:10,A07_045,T01,186.939974,13.008826,A07_045T01_9000003628,:,:,NGC 4438,uvit1
+5/1/2020,14:25:16,A08_003,T02,188.33238300000002,12.853547,A08_003T02_9000003630,:,:,VCC1499,uvit1
+5/1/2020,22:47:02,A08_003,T03,186.860433,11.107662,A08_003T03_9000003632,:,:,VCC1003,uvit1
+5/2/2020,13:21:33,A08_003,T04,184.706771,14.416489000000002,A08_003T04_9000003634,:,:,VCC307,uvit1
+5/2/2020,21:22:13,A08_003,T06,189.20756699999998,13.162869,A08_003T06_9000003636,:,:,VCC1690,uvit1
+5/3/2020,12:12:41,A08_003,T08,190.895833,13.12635,A08_003T08_9000003638,:,:,VCC1987,uvit1
+5/3/2020,20:22:10,A07_027,T02,353.6145,-36.1011,A07_027T02_9000003640,:,:,IC5332,uvit1
+5/7/2020,13:49:32,T03_205,T01,13.639292000000001,-73.68369399999999,T03_205T01_9000003652,:,:,SMC X-2,sxt
+5/8/2020,20:32:55,T03_200,T01,166.697917,72.568611,T03_200T01_9000003654,:,:,NGC 3516,sxt
+5/11/2020,8:10:13,A08_003,T17,187.737967,11.483531,A08_003T17_9000003656,:,:,VCC1326,uvit1
+5/11/2020,16:22:18,A08_003,T18,190.35587900000002,13.729414000000002,A08_003T18_9000003658,:,:,VCC1878,uvit1
+5/12/2020,7:04:12,C05_013,T04,12.08,85.223917,C05_013T04_9000003660,:,:,NGC 188,uvit1
+5/12/2020,9:32:06,A07_127,T03,341.515417,-11.001111,A07_127T03_9000003662,:,:,NGC 7371,uvit1
+5/13/2020,17:44:40,A07_027,T12,190.986,13.1264,A07_027T12_9000003664,:,:,NGC4654,uvit1
+5/13/2020,22:19:26,A07_027,T16,347.44699999999995,-43.4279,A07_027T16_9000003666,:,:,NGC7496,uvit1
+5/14/2020,16:23:07,A07_027,T11,189.207583,13.1629,A07_027T11_9000003668,:,:,NGC4569,uvit1
+5/14/2020,19:41:25,A07_134,T03,307.888333,-7.088333,A07_134T03_9000003670,:,:,PN A66 70,uvit1
+5/15/2020,8:31:29,T03_206,T01,133.703625,20.108511,T03_206T01_9000003672,:,:,OJ 287,sxt
+5/20/2020,3:22:23,C05_012,T06,237.391917,70.348089,C05_012T06_9000003674,:,:,Blank Sky-8,laxpc2
+5/21/2020,11:42:41,A08_003,T16,188.173933,14.051614,A08_003T16_9000003676,:,:,VCC1450,uvit1
+5/21/2020,20:29:54,A07_091,T03,325.73325,-30.132753000000005,A07_091T03_9000003678,:,:,6dFGSgJ214256-300758,uvit1
+5/22/2020,7:42:59,A07_018,T07,313.13183300000003,29.681721999999997,A07_018T07_9000003680,:,:,Cygnus S-VIII,uvit1
+5/23/2020,4:30:12,A07_018,T09,311.704458,31.477833,A07_018T09_9000003682,:,:,NGC6960-VIII,uvit1
+5/23/2020,21:00:20,A07_018,T02,312.122167,29.723278000000004,A07_018T02_9000003684,:,:,Cygnus S-III,uvit1
+5/24/2020,21:22:36,A07_171,T02,201.392,-54.245314,A07_171T02_9000003686,:,:,DY Cen,uvit1
+5/27/2020,2:21:36,A07_097,T01,345.815308,8.873689,A07_097T01_9000003692,:,:,NGC7469,sxt
+5/30/2020,0:44:11,A09_027,T01,150.751458,68.824064,A09_027T01_9000003694,:,:,NGC3077,uvit1
+5/30/2020,20:06:19,A09_027,T02,149.97579199999998,68.638019,A09_027T02_9000003696,:,:,SES,uvit1
+5/31/2020,20:15:47,C05_002,T10,203.654167,37.912222,C05_002T10_9000003698,:,:,XRBBlankF1T10,sxt
+5/31/2020,22:06:15,A09_006,T01,211.108021,-17.227930999999998,A09_006T01_9000003700,:,:,PN G326.7+42.2,uvit1
+6/1/2020,9:42:48,A09_022,T01,219.750875,64.291661,A09_022T01_9000003702,:,:,EK Draconis,sxt
+6/3/2020,8:31:58,A07_059,T07,305.0365,16.731664000000002,A07_059T07_9000003704,:,:,IC 4997,uvit1
+6/3/2020,14:58:24,A09_059,T01,214.76666699999998,52.87,A09_059T01_9000003706,:,:,EGS,uvit1
+6/6/2020,8:11:22,A09_061,T02,204.896083,-67.38104399999999,A09_061T02_9000003708,:,:,PN MyCn18,uvit1
+6/6/2020,16:15:06,A09_104,T01,305.378054,40.446121999999995,A09_104T01_9000003710,:,:,PSR J2021+4026,laxpc2
+6/7/2020,22:01:28,A09_057,T04,348.702083,-43.599944,A09_057T04_9000003712,:,:,NGC 7531,uvit1
+6/9/2020,15:53:46,A09_047,T01,139.00620800000002,-36.627056,A09_047T01_9000003714,:,:,NGC 2818,uvit1
+6/11/2020,16:02:50,A09_085,T02,129.3125,-29.955,A09_085T02_9000003716,:,:,NGC 2627,uvit1
+6/14/2020,9:14:09,C05_012,T07,237.391917,70.348089,C05_012T07_9000003718,:,:,Blank Sky-8,laxpc2
+6/16/2020,8:11:20,A07_147,T01,190.99,16.381667,A07_147T01_9000003722,:,:,3C 275.1,uvit1
+6/18/2020,16:55:20,A09_008,T05,226.005004,10.43782,A09_008T05_9000003724,:,:,Mrk 841,uvit1
+6/19/2020,20:50:10,A09_043,T02,160.99041699999998,11.703806,A09_043T02_9000003726,:,:,NGC 3351,uvit1
+6/22/2020,11:54:59,A07_148,T02,203.669875,-23.445889,A07_148T02_9000003728,:,:,ESO 509-IG 66 NED 2,uvit1
+6/23/2020,14:01:27,A09_081,T01,200.324221,42.587606,A09_081T01_9000003730,:,:,3C 285,uvit1
+6/24/2020,0:47:53,A07_127,T03,341.515417,-11.001111,A07_127T03_9000003732,:,:,NGC 7371,uvit1
+6/24/2020,19:22:04,A09_013,T02,241.8875,54.641943999999995,A09_013T02_9000003734,:,:,P_02,uvit1
+6/26/2020,12:12:04,A09_006,T05,178.25366699999998,-42.234389,A09_006T05_9000003736,:,:,PN G291.4+19.2,uvit1
+6/26/2020,18:11:35,A09_006,T04,158.742542,-29.094471999999996,A09_006T04_9000003738,:,:,PN G270.1+24.8,uvit1
+6/27/2020,0:38:42,A09_016,T03,209.22341699999998,10.525225,A09_016T03_9000003740,:,:,J1356+1026,uvit1
+6/27/2020,10:22:58,A09_016,T04,217.625,13.653332999999998,A09_016T04_9000003742,:,:,J1430+1339,uvit1
+6/27/2020,13:43:34,A09_043,T01,204.25375,-29.865416999999997,A09_043T01_9000003744,:,:,NGC 5236,uvit1
+6/28/2020,15:46:21,A09_008,T03,214.843417,-26.644721999999998,A09_008T03_9000003746,:,:,ESO 511-G030,uvit1
+6/29/2020,23:02:50,A09_008,T06,14.972000000000001,31.826909000000004,A09_008T06_9000003748,:,:,Mrk 352,uvit1
+7/2/2020,1:10:00,A09_033,T01,315.757692,-14.260025,A09_033T01_9000003750,:,:,PGC065981,uvit1
+7/3/2020,2:15:57,A07_027,T11,189.207583,13.1629,A07_027T11_9000003752,:,:,NGC4569,uvit1
+7/3/2020,9:44:31,A09_147,T01,351.2,-40.66,A09_147T01_9000003754,:,:,1ES 2322-409,sxt
+7/5/2020,12:11:05,A07_068,T01,203.975,-34.295556,A07_068T01_9000003756,:,:,meg-6-30-15,sxt
+7/14/2020,1:35:03,T03_214,T01,243.179167,-52.423056,T03_214T01_9000003758,:,:,4U 1608-52,sxt
+7/15/2020,10:22:05,A07_068,T01,203.975,-34.295556,A07_068T01_9000003760,:,:,meg-6-30-15,sxt
+7/21/2020,8:02:42,A09_033,T02,12.196421,31.956968,A09_033T02_9000003762,:,:,NGC262,uvit1
+7/22/2020,16:25:06,A09_085,T03,33.679208,59.485,A09_085T03_9000003764,:,:,Stock 2,uvit1
+7/23/2020,15:08:40,A09_142,T01,210.19091699999998,59.3287,A09_142T01_9000003766,:,:,MRK799,uvit1
+7/24/2020,13:47:21,A09_113,T01,248.69958300000002,-47.3,A09_113T01_9000003768,:,:,4U 1630-472,laxpc2
+7/25/2020,3:07:55,T03_218,T01,259.358333,51.216111,T03_218T01_9000003770,:,:,C/2017 K2,uvit1
+7/25/2020,9:13:22,A09_126,T01,257.636042,-36.017146999999994,A09_126T01_9000003772,:,:,IGR J17091-3624,laxpc2
+7/25/2020,20:38:37,A09_018,T01,262.934042,-16.961361,A09_018T01_9000003774,:,:,GX 9+9,laxpc2
+7/31/2020,19:43:42,A09_012,T01,37.15875,-73.874139,A09_012T01_9000003778,:,:,MB_tile_1,uvit1
+7/31/2020,22:52:51,A09_012,T02,33.2625,-74.081028,A09_012T02_9000003780,:,:,MB_tile_2,uvit1
+8/1/2020,8:19:13,A09_012,T03,29.504167,-74.237472,A09_012T03_9000003782,:,:,MB_tile_3,uvit1
+8/1/2020,11:39:07,A09_012,T04,27.872083,-74.240472,A09_012T04_9000003784,:,:,MB_tile_4,uvit1
+8/1/2020,15:04:29,C05_007,T01,214.773292,-14.0129,C05_007T01_9000003786,:,:,SSM1CrabMar2020,ssm
+8/2/2020,13:27:30,C05_019,T04,237.391917,70.348089,C05_019T04_9000003788,:,:,Blank Sky-8,laxpc2
+8/4/2020,1:20:42,A09_079,T03,52.8,43.904278000000005,A09_079T03_9000003790,:,:,GK Per,sxt
+8/7/2020,23:22:58,A09_044,T01,257.226958,-44.102042,A09_044T01_9000003792,:,:,4U 1705-44,laxpc2
+8/8/2020,12:24:17,A09_143,T03,45.414916999999996,-8.112556,A09_143T03_9000003794,:,:,T03,uvit1
+8/9/2020,8:09:44,A09_008,T02,66.503017,-57.200269999999996,A09_008T02_9000003796,:,:,1H 0419-577,uvit1
+8/12/2020,2:04:26,A09_038,T02,10.4706,-73.382918,A09_038T02_9000003798,:,:,SMC-02,uvit1
+8/12/2020,5:47:13,A09_038,T03,10.841592,-73.030698,A09_038T03_9000003800,:,:,SMC-03,uvit1
+8/12/2020,7:48:53,A09_038,T04,11.4887,-72.731306,A09_038T04_9000003802,:,:,SMC-04,uvit1
+8/12/2020,9:50:54,A09_143,T05,238.818375,35.723514,A09_143T05_9000003804,:,:,T05,uvit1
+8/12/2020,15:38:20,A09_143,T08,244.17766699999999,20.955586,A09_143T08_9000003806,:,:,T08,uvit1
+8/12/2020,17:39:16,A09_088,T01,48.067541999999996,-55.216221999999995,A09_088T01_9000003808,:,:,NGC 1261,uvit1
+8/14/2020,21:32:02,A09_044,T02,274.005787,-14.036283,A09_044T02_9000003814,:,:,GX 17+2,laxpc2
+8/15/2020,11:33:05,A09_127,T01,217.1505,46.12,A09_127T01_9000003816,:,:,Fil_01,uvit1
+8/16/2020,7:09:29,A09_127,T02,216.6,46.8,A09_127T02_9000003818,:,:,Fil_02,uvit1
+8/16/2020,20:14:24,A09_127,T03,215.85,46.1,A09_127T03_9000003820,:,:,Fil_03,uvit1
+8/18/2020,11:18:47,A09_056,T01,277.382421,48.746155,A09_056T01_9000003824,:,:,3C 380,uvit1
+8/19/2020,20:05:49,A09_104,T02,273.349021,-12.766952999999999,A09_104T02_9000003826,:,:,PSR J1813-1246,laxpc2
+8/21/2020,5:53:50,A07_146,T01,57.346582999999995,-11.990833,A07_146T01_9000003828,:,:,1ES 0347-121,uvit1
+8/21/2020,13:58:53,A09_038,T05,12.114308,-72.429906,A09_038T05_9000003830,:,:,SMC-05,uvit1
+8/21/2020,16:25:52,A09_038,T06,12.719367,-72.12659599999999,A09_038T06_9000003832,:,:,SMC-06,uvit1
+8/21/2020,23:33:53,A09_120,T02,83.633083,22.0145,A09_120T02_9000003834,:,:,Crab,laxpc1
+8/22/2020,0:31:12,C05_017,T01,83.633083,22.0145,C05_017T01_9000003836,:,:,Crab,czt1
+8/23/2020,9:15:30,C05_019,T04,237.391917,70.348089,C05_019T04_9000003838,:,:,Blank Sky-8,laxpc2
+8/24/2020,15:30:23,A09_095,T02,80.116833,-71.96480600000001,A09_095T02_9000003840,:,:,LMC X-2,sxt
+8/26/2020,4:35:07,T03_220,T01,68.847,55.376000000000005,T03_220T01_9000003842,:,:,AT2019wey,laxpc2
+8/26/2020,22:44:22,A09_038,T10,12.07785,-73.04092,A09_038T10_9000003844,:,:,SMC-10,uvit1
+8/27/2020,1:42:53,A09_095,T02,80.116833,-71.96480600000001,A09_095T02_9000003846,:,:,LMC X-2,sxt
+8/29/2020,20:10:01,A09_145,T01,83.633083,22.0145,A09_145T01_9000003848,:,:,Crab,czt1
+9/6/2020,0:34:46,T03_223,T01,51.17125,34.179444000000004,T03_223T01_9000003850,:,:,1H 0323+34203,sxt
+9/8/2020,20:45:40,A09_044,T02,274.005787,-14.036283,A09_044T02_9000003852,:,:,GX 17+2,laxpc2
+9/9/2020,10:43:24,A09_145,T01,83.633083,22.0145,A09_145T01_9000003854,:,:,Crab,czt1
+9/9/2020,16:25:39,A09_038,T08,10.757621,-73.64133199999999,A09_038T08_9000003856,:,:,SMC-08,uvit1
+9/9/2020,18:15:00,A09_038,T07,13.3048,-71.821469,A09_038T07_9000003858,:,:,SMC-07,uvit1
+9/9/2020,19:59:55,A09_038,T09,11.429308,-73.342168,A09_038T09_9000003860,:,:,SMC-09,uvit1
+9/10/2020,0:33:54,A07_027,T01,26.9285,-52.7619,A07_027T01_9000003862,:,:,NGC0685,uvit1
+9/10/2020,9:51:11,A09_079,T01,85.889583,-68.373056,A09_079T01_9000003864,:,:,CAL83,sxt
+9/13/2020,2:10:49,A09_145,T01,83.633083,22.0145,A09_145T01_9000003866,:,:,Crab,czt1
+9/14/2020,18:40:59,T03_224,T01,284.146292,-37.908471999999996,T03_224T01_9000003868,:,:,RX J1856.6-3754,sxt
+9/15/2020,23:30:59,A09_145,T01,83.633083,22.0145,A09_145T01_9000003870,:,:,Crab,czt1
+9/16/2020,4:11:00,T03_224,T01,284.146292,-37.908471999999996,T03_224T01_9000003872,:,:,RX J1856.6-3754,sxt
+9/17/2020,12:06:46,T03_230,T01,329.4195,-80.358,T03_230T01_9000003874,:,:,FRB190711,uvit1
+9/17/2020,15:39:00,A09_038,T10,12.07785,-73.04092,A09_038T10_9000003876,:,:,SMC-10,uvit1
+9/17/2020,17:55:36,A09_038,T11,12.704317,-72.73769399999999,A09_038T11_9000003878,:,:,SMC-11,uvit1
+9/17/2020,19:23:56,A09_038,T12,13.309729,-72.43259,A09_038T12_9000003880,:,:,SMC-12,uvit1
+9/17/2020,21:09:05,A09_038,T21,15.070170999999998,-72.11774100000001,A09_038T21_9000003882,:,:,SMC-21,uvit1
+9/17/2020,22:37:38,A09_038,T17,12.688158,-73.348788,A09_038T17_9000003884,:,:,SMC-17,uvit1
+9/18/2020,12:03:05,T03_232,T01,329.4195,-80.358,T03_232T01_9000003886,:,:,FRB190711,uvit1
+9/18/2020,15:02:38,A09_044,T01,257.226958,-44.102042,A09_044T01_9000003888,:,:,4U 1705-44,laxpc2
+9/19/2020,5:56:07,A09_038,T18,13.315017000000001,-73.0437,A09_038T18_9000003890,:,:,SMC-18,uvit1
+9/19/2020,8:01:31,A09_038,T19,13.920304000000002,-72.736767,A09_038T19_9000003892,:,:,SMC-19,uvit1
+9/19/2020,12:03:07,T03_233,T01,329.4195,-80.358,T03_233T01_9000003894,:,:,FRB190711,uvit1
+9/19/2020,15:25:40,A09_134,T01,251.44875,-45.611111,A09_134T01_9000003896,:,:,GX 340+0,laxpc2
+9/22/2020,8:42:27,C05_019,T03,237.391917,70.348089,C05_019T03_9000003898,:,:,Blank Sky-8,laxpc2
+9/23/2020,12:29:21,A09_145,T01,83.633083,22.0145,A09_145T01_9000003900,:,:,Crab,czt1
+9/26/2020,13:29:13,T03_241,T01,12.08,85.223917,T03_241T01_9000003902,:,:,NGC 188,uvit1
+9/26/2020,17:03:06,A09_120,T02,83.633083,22.0145,A09_120T02_9000003904,:,:,Crab,laxpc1
+9/30/2020,7:09:17,T03_240,T01,12.08,85.223917,T03_240T01_9000003906,:,:,NGC 188,uvit1
+9/30/2020,9:12:49,T03_236,T01,51.17125,34.179444000000004,T03_236T01_9000003908,:,:,1H 0323+34203,sxt
+10/1/2020,1:16:47,T03_231,T01,288.798125,10.945767,T03_231T01_9000003910,:,:,GRS 1915+105,laxpc2
+10/2/2020,13:32:02,T03_244,T01,308.063642,37.637456,T03_244T01_9000003912,:,:,EXO 2030+375,sxt
+10/5/2020,1:37:26,T03_247,T01,12.08,85.223917,T03_247T01_9000003914,:,:,NGC 188,uvit1
+10/5/2020,7:29:44,T03_245,T01,264.495,-37.772,T03_245T01_9000003916,:,:,IGR J17379-3747,laxpc2
+10/7/2020,1:05:46,T03_243,T01,295.66935,-10.323492,T03_243T01_9000003918,:,:,NGC 6814,sxt
+10/15/2020,20:37:43,C05_013,T06,12.08,85.223917,C05_013T06_9000003920,:,:,NGC 188,uvit1
+10/16/2020,3:08:43,T03_255,T01,277.673792,-6.754861,T03_255T01_9000003922,:,:,SGR 1830-0645,laxpc2
+10/31/2020,8:43:17,A09_038,T15,15.009020999999999,-71.506913,A09_038T15_9000003936,:,:,SMC-15,uvit1
+10/31/2020,10:31:18,A09_038,T16,12.038654,-73.651933,A09_038T16_9000003938,:,:,SMC-16,uvit1
+10/31/2020,12:16:08,A09_038,T20,14.505033,-72.428086,A09_038T20_9000003940,:,:,SMC-20,uvit1
+10/31/2020,14:00:57,A09_038,T22,15.616629000000001,-71.805817,A09_038T22_9000003942,:,:,SMC-22,uvit1
+10/31/2020,15:29:34,A09_038,T23,13.320704000000001,-73.654816,A09_038T23_9000003944,:,:,SMC-23,uvit1
+10/31/2020,17:14:17,A09_038,T25,14.552054,-73.039034,A09_038T25_9000003946,:,:,SMC-25,uvit1
+10/31/2020,18:42:29,A09_038,T26,15.135670999999999,-72.728528,A09_038T26_9000003948,:,:,SMC-26,uvit1
+10/31/2020,19:54:09,A09_038,T27,15.699283,-72.416398,A09_038T27_9000003950,:,:,SMC-27,uvit1
+10/31/2020,21:35:08,A09_038,T28,16.243854000000002,-72.102726,A09_038T28_9000003952,:,:,SMC-28,uvit1
+10/31/2020,23:20:08,A09_038,T29,16.770275,-71.787588,A09_038T29_9000003954,:,:,SMC-29,uvit1
+11/1/2020,5:42:53,C05_019,T04,237.391917,70.348089,C05_019T04_9000003956,:,:,Blank Sky-8,laxpc2
+11/2/2020,13:16:38,A09_038,T30,14.602604000000001,-73.649978,A09_038T30_9000003958,:,:,SMC-30,uvit1
+11/2/2020,14:41:29,A09_038,T31,15.205995999999999,-73.33928900000001,A09_038T31_9000003960,:,:,SMC-31,uvit1
+11/2/2020,16:09:49,A09_038,T32,15.787917000000002,-73.02692900000001,A09_038T32_9000003962,:,:,SMC-32,uvit1
+11/2/2020,17:55:09,A09_038,T14,14.461186999999999,-71.817115,A09_038T14_9000003964,:,:,SMC-14,uvit1
+11/2/2020,19:23:09,A09_038,T13,13.89505,-72.125701,A09_038T13_9000003966,:,:,SMC-13,uvit1
+11/2/2020,20:36:55,A09_038,T24,13.947420999999999,-73.347828,A09_038T24_9000003968,:,:,SMC-24,uvit1
+11/2/2020,22:21:51,A09_038,T33,16.349438,-72.712987,A09_038T33_9000003970,:,:,SMC-33,uvit1
+11/3/2020,1:53:31,T03_259,T01,11.37,41.902806,T03_259T01_9000003972,:,:,M31N 2008-12a,uvit1
+11/3/2020,12:41:11,C05_019,T04,237.391917,70.348089,C05_019T04_9000003974,:,:,Blank Sky-8,laxpc2
+11/4/2020,4:27:31,T03_257,T01,340.726697,29.712317,T03_257T01_9000003976,:,:,Akn564,uvit1
+11/10/2020,8:55:11,A09_038,T36,15.883196,-73.637423,A09_038T36_9000003978,:,:,SMC-36,uvit1
+11/10/2020,11:00:29,A09_038,T37,16.462782999999998,-73.32318199999999,A09_038T37_9000003980,:,:,SMC-37,uvit1
+11/10/2020,12:28:49,A09_038,T38,16.371613,-72.98356899999999,A09_038T38_9000003982,:,:,SMC-38,uvit1
+11/10/2020,14:13:53,A09_038,T39,17.543858,-72.622015,A09_038T39_9000003984,:,:,SMC-39,uvit1
+11/10/2020,15:42:17,A09_038,T41,17.7167,-73.29952800000001,A09_038T41_9000003986,:,:,SMC-41,uvit1
+11/10/2020,17:43:11,T03_262,T01,11.37,41.902806,T03_262T01_9000003988,:,:,M31N 2008-12a,sxt
+11/12/2020,19:11:21,T03_263,T01,84.727393,26.315789000000002,T03_263T01_9000003990,:,:,A0535+262,laxpc1
+11/14/2020,2:31:29,A09_038,T42,18.966675,-73.26835799999999,A09_038T42_9000003992,:,:,SMC-42,uvit1
+11/14/2020,5:15:35,A09_038,T43,19.70565,-73.55369300000001,A09_038T43_9000003994,:,:,SMC-43,uvit1
+11/14/2020,7:02:42,A09_038,T44,20.211654,-73.229714,A09_038T44_9000003996,:,:,SMC-44,uvit1
+11/14/2020,9:04:25,A09_038,T45,20.969629,-73.510553,A09_038T45_9000003998,:,:,SMC-45,uvit1
+11/14/2020,11:05:13,A10_002,T05,11.037,41.557347,A10_002T05_9000004000,:,:,M31 Field No. 2,uvit1
+11/15/2020,18:50:54,A09_038,T46,21.450617,-73.183644,A09_038T46_9000004002,:,:,SMC-46,uvit1
+11/15/2020,20:24:01,A09_038,T47,22.226725,-73.459887,A09_038T47_9000004004,:,:,SMC-47,uvit1
+11/15/2020,22:06:43,A09_038,T35,17.415212,-72.08067199999999,A09_038T35_9000004006,:,:,SMC-35,uvit1
+11/16/2020,1:21:33,A09_038,T34,16.891554,-72.397542,A09_038T34_9000004008,:,:,SMC-34,uvit1
+11/16/2020,4:27:40,A10_024,T01,334.9625,-48.711110999999995,A10_024T01_9000004010,:,:,GW Candidate Transient,uvit1
+11/16/2020,11:00:03,A09_038,T40,18.080917000000003,-72.371539,A09_038T40_9000004012,:,:,SMC-40,uvit1
+11/16/2020,13:02:55,A10_009,T02,21.742062,-32.543177,A10_009T02_9000004014,:,:,R Scl,uvit1
+11/16/2020,21:10:56,A10_016,T01,174.81196699999998,17.143669,A10_016T01_9000004016,:,:,UGC6614,uvit1
+11/18/2020,13:43:30,A10_016,T02,40.099863,-8.433544,A10_016T02_9000004018,:,:,NGC1042,uvit1
+11/19/2020,2:11:28,A10_048,T08,334.12125,-21.430694,A10_048T08_9000004020,:,:,IC 1438,uvit1
+11/20/2020,12:22:14,A10_002,T04,10.710708,41.250228,A10_002T04_9000004022,:,:,M31 Field No. 1,uvit1
+11/21/2020,21:01:51,A10_002,T05,11.037,41.557347,A10_002T05_9000004024,:,:,M31 Field No. 2,uvit1
+11/23/2020,11:53:18,A10_024,T01,334.9625,-48.711110999999995,A10_024T01_9000004026,:,:,GW Candidate Transient,uvit1
+11/23/2020,19:53:41,A10_048,T01,23.575833,-29.4185,A10_048T01_9000004028,:,:,NGC 613,uvit1
+11/24/2020,20:07:50,A10_048,T06,356.965417,-30.522,A10_048T06_9000004030,:,:,NGC 7755,uvit1
+11/26/2020,6:17:25,A10_049,T01,66.50295799999999,-57.200492000000004,A10_049T01_9000004032,:,:,1H 0419-577,sxt
+11/27/2020,12:02:58,A10_016,T01,174.81196699999998,17.143669,A10_016T01_9000004034,:,:,UGC6614,uvit1
+11/28/2020,20:24:38,A10_021,T02,71.427083,-59.247181000000005,A10_021T02_9000004036,:,:,NGC 1672,uvit1
+11/29/2020,4:17:42,A10_021,T03,160.99041699999998,11.703806,A10_021T03_9000004038,:,:,NGC 3351,uvit1
+11/29/2020,15:54:21,A10_065,T03,46.01,-12.07,A10_065T03_9000004040,:,:,Cluster 3,sxt
+12/2/2020,17:08:34,A10_021,T01,41.579375,-30.274889,A10_021T01_9000004044,:,:,NGC 1097,uvit1
+12/3/2020,0:38:21,A10_045,T01,25.76,13.645056,A10_045T01_9000004046,:,:,NGC 660,uvit1
+12/3/2020,8:59:17,A10_045,T02,37.083791999999995,-31.881028000000004,A10_045T02_9000004048,:,:,MCG-05-07-001,uvit1
+12/3/2020,15:19:24,A10_048,T02,41.579583,-30.274889,A10_048T02_9000004050,:,:,NGC 1097,uvit1
+12/4/2020,17:44:22,A10_045,T03,159.862042,47.947111,A10_045T03_9000004052,:,:,UGC 5791,uvit1
+12/5/2020,9:45:01,A10_057,T02,110.75583300000001,36.35475,A10_057T02_9000004054,:,:,J0723+3621,uvit1
+12/6/2020,11:47:26,A10_073,T01,96.3175,73.577472,A10_073T01_9000004056,:,:,MU Cam,sxt
+12/7/2020,19:55:27,A10_073,T04,175.909583,71.688806,A10_073T04_9000004058,:,:,YY Dra,sxt
+12/8/2020,0:37:58,A10_057,T05,135.100417,25.614806,A10_057T05_9000004060,:,:,UGC 4722,uvit1
+12/9/2020,11:17:43,A10_024,T01,334.9625,-48.711110999999995,A10_024T01_9000004062,:,:,GW Candidate Transient,uvit1
+12/9/2020,19:14:50,A10_090,T14,351.473333,42.535,A10_090T14_9000004064,:,:,NGC7662,uvit1
+12/10/2020,11:24:55,A10_045,T04,177.900192,16.664285999999997,A10_045T04_9000004066,:,:,LEDA 37112,uvit2
+12/12/2020,18:50:28,A10_073,T05,129.54458300000002,48.634444,A10_073T05_9000004068,:,:,EI UMa,sxt
+12/14/2020,11:10:27,A10_090,T16,269.639183,66.632986,A10_090T16_9000004070,:,:,NGC6543,uvit1
+12/15/2020,0:36:06,A10_045,T09,222.81004199999998,35.542269,A10_045T09_9000004072,:,:,UGC 9562,uvit1
+12/16/2020,20:21:14,C05_019,T04,237.391917,70.348089,C05_019T04_9000004074,:,:,Blank Sky-8,laxpc2
+12/18/2020,3:21:48,A10_067,T01,133.703646,20.108511,A10_067T01_9000004076,:,:,oj287,sxt
+12/20/2020,12:01:50,A10_102,T06,170.889833,67.186083,A10_102T06_9000004078,:,:,J112333d56p671109d9,uvit1
+12/23/2020,13:08:10,A10_116,T01,41.579375,-30.274889,A10_116T01_9000004082,:,:,NGC 1097,uvit1
+12/25/2020,18:32:25,A10_101,T02,13.395554,12.693313,A10_101T02_9000004084,:,:,PG 0050+124,uvit1
+12/27/2020,12:41:31,A10_045,T05,197.524333,34.181111,A10_045T05_9000004086,:,:,SDSSCGB 6435.1,uvit1
+12/28/2020,13:25:00,A10_058,T13,17.033625,-15.511869,A10_058T13_9000004088,:,:,JO23,uvit1
+12/30/2020,5:41:14,A10_101,T21,243.488246,65.719432,A10_101T21_9000004090,:,:,PG1613+658,uvit1
+1/2/2021,16:42:25,A10_050,T06,124.59583300000001,-11.19415,A10_050T06_9000004092,:,:,UCAC227827162,uvit1
+1/3/2021,8:50:56,A10_110,T04,161.325,35.320278,A10_110T04_9000004094,:,:,SDSS J104518.43+351913.5,uvit1
+1/4/2021,2:42:02,A10_123,T03,168.950208,29.18825,A10_123T03_9000004096,:,:,BCD_T3,uvit1
+1/4/2021,17:20:52,A10_110,T05,166.805,65.10194399999999,A10_110T05_9000004098,:,:,SDSS J110713.22+650606.6,uvit1
+1/5/2021,12:46:43,A10_058,T09,10.520912,-9.534464,A10_058T09_9000004100,:,:,JO200,uvit1
+1/7/2021,11:28:24,A10_102,T07,37.206292,-9.031611,A10_102T07_9000004102,:,:,J022849d51m090153d8,uvit1
+1/8/2021,20:17:12,A10_110,T01,155.88583300000002,10.959722,A10_110T01_9000004104,:,:,MRK 721,uvit1
+1/9/2021,17:13:21,A10_102,T03,166.880125,13.786889000000002,A10_102T03_9000004106,:,:,J110731d23p134712d8,uvit1
+1/10/2021,21:02:50,A10_045,T06,211.228042,12.704689,A10_045T06_9000004108,:,:,Mrk 803,uvit1
+1/13/2021,12:15:36,A10_045,T07,211.223833,12.721694,A10_045T07_9000004110,:,:,UGC 9002,uvit1
+1/14/2021,14:31:20,A10_073,T08,81.34375,24.2255,A10_073T08_9000004112,:,:,J0525+24,sxt
+1/15/2021,21:20:21,A10_110,T03,174.55375,12.111944,A10_110T03_9000004114,:,:,MRK 743,uvit1
+1/16/2021,21:24:53,A10_021,T04,185.3865,14.606167000000001,A10_021T04_9000004116,:,:,NGC 4298,uvit1
+1/18/2021,0:57:20,A10_021,T08,191.8,13.900356,A10_021T08_9000004118,:,:,NGC 4689,uvit1
+1/18/2021,13:59:28,A10_123,T03,168.950208,29.18825,A10_123T03_9000004120,:,:,BCD_T3,uvit1
+1/19/2021,9:17:26,A10_123,T06,172.54725,44.25525,A10_123T06_9000004122,:,:,BCD_T6,uvit1
+1/19/2021,21:00:20,A10_123,T07,182.681792,42.264225,A10_123T07_9000004124,:,:,BCD_T7,uvit1
+1/20/2021,17:53:21,A10_123,T08,197.749458,51.487233,A10_123T08_9000004126,:,:,BCD_T8,uvit1
+1/21/2021,18:26:58,A10_093,T01,80.48575,43.989444,A10_093T01_9000004128,:,:,2MASSJ05215658+4359220,uvit1
+1/22/2021,15:33:42,C05_019,T04,237.391917,70.348089,C05_019T04_9000004130,:,:,Blank Sky-8,laxpc2
+1/23/2021,22:33:00,A10_103,T01,201.696833,-47.479583,A10_103T01_9000004132,:,:,NGC 5139,uvit1
+1/25/2021,1:10:07,A10_121,T01,215.303333,-62.698333,A10_121T01_9000004134,:,:,2S 1417-624,sxt
+1/27/2021,18:45:40,A10_103,T08,225.076875,-82.21369399999999,A10_103T08_9000004136,:,:,IC 4499,uvit1
+1/28/2021,22:37:19,A10_123,T06,172.54725,44.25525,A10_123T06_9000004138,:,:,BCD_T6,uvit1
+1/29/2021,16:30:02,A10_123,T07,182.681792,42.264225,A10_123T07_9000004140,:,:,BCD_T7,uvit1
+1/30/2021,10:17:35,A10_115,T03,191.28258300000002,45.44025,A10_115T03_9000004142,:,:,Y CVn,uvit1
+1/30/2021,17:02:52,A10_064,T01,35.3775,39.366111,A10_064T01_9000004144,:,:,arp 273,uvit1
+2/2/2021,21:11:43,A10_082,T04,241.110625,40.683042,A10_082T04_9000004150,:,:,NGC 6058,uvit1
+2/3/2021,16:39:35,A10_123,T08,197.749458,51.487233,A10_123T08_9000004152,:,:,BCD_T8,uvit1
+2/4/2021,11:55:28,A10_048,T03,197.20291699999999,-6.7775,A10_048T03_9000004154,:,:,NGC 4981,uvit1
+2/5/2021,15:40:41,A10_073,T06,99.135417,35.595361,A10_073T06_9000004156,:,:,V647 Aur,sxt
+2/6/2021,6:21:53,A10_073,T06,99.135417,35.595361,A10_073T06_9000004156,:,:,V647 Aur,sxt
+2/7/2021,12:56:35,A10_103,T04,114.535292,38.882444,A10_103T04_9000004158,:,:,NGC 2419,uvit1
+2/8/2021,13:18:01,A10_123,T02,129.684375,43.372275,A10_123T02_9000004160,:,:,BCD_T2,uvit1
+2/10/2021,1:17:22,C05_019,T04,237.391917,70.348089,C05_019T04_9000004162,:,:,Blank Sky-8,laxpc2
+2/11/2021,9:39:06,A10_094,T20,84.395425,-70.194733,A10_094T20_9000004164,:,:,LMC-20,uvit1
+2/11/2021,11:36:03,A10_094,T21,85.45755600000001,-70.170906,A10_094T21_9000004166,:,:,LMC-21,uvit1
+2/11/2021,13:04:23,A10_094,T22,86.516968,-70.140823,A10_094T22_9000004168,:,:,LMC-22,uvit1
+2/11/2021,14:56:52,A10_097,T04,162.097917,-25.162056,A10_097T04_9000004170,:,:,NGC 3393,uvit1
+2/12/2021,11:28:05,A10_094,T19,83.331199,-70.212284,A10_094T19_9000004172,:,:,LMC-19,uvit1
+2/12/2021,13:22:09,A10_094,T18,82.265509,-70.223543,A10_094T18_9000004174,:,:,LMC-18,uvit1
+2/12/2021,15:07:09,A10_094,T17,81.198998,-70.228499,A10_094T17_9000004176,:,:,LMC-17,uvit1
+2/12/2021,16:42:43,A10_115,T01,94.992575,-10.637417,A10_115T01_9000004178,:,:,HD44179,uvit1
+2/13/2021,0:55:21,T03_275,T01,255.705667,-48.789667,T03_275T01_9000004180,:,:,GX339-4,laxpc1
+2/13/2021,20:41:58,A10_063,T01,211.591208,22.396254000000003,A10_063T01_9000004182,:,:,PG 1404+226,sxt
+2/15/2021,12:38:56,A10_099,T01,193.051921,-13.41472,A10_099T01_9000004184,:,:,NGC 4748,uvit1
+2/19/2021,12:26:51,A10_021,T08,191.8,13.900356,A10_021T08_9000004186,:,:,NGC 4689,uvit1
+2/19/2021,17:05:36,A10_048,T07,186.481667,18.213889,A10_048T07_9000004188,:,:,NGC 4394,uvit1
+2/20/2021,16:34:08,A10_053,T19,49.897333,-32.846167,A10_053T19_9000004190,:,:,BMP19,uvit1
+2/20/2021,19:08:39,A10_053,T34,48.724083,-14.731889,A10_053T34_9000004192,:,:,BMP40,uvit1
+2/21/2021,4:53:23,A10_053,T41,112.67270800000001,24.085167000000002,A10_053T41_9000004194,:,:,BMP49,uvit1
+2/21/2021,8:14:46,A10_094,T71,87.203075,-68.88940799999999,A10_094T71_9000004196,:,:,LMC-71,uvit1
+2/21/2021,10:23:24,A10_053,T43,205.43575,47.690694,A10_053T43_9000004198,:,:,BMP51,uvit1
+2/21/2021,13:05:04,A10_102,T02,258.537667,58.818389,A10_102T02_9000004200,:,:,J171409d04p584906d2,uvit1
+2/23/2021,4:06:40,T03_272,T01,239.45416699999998,-54.415,T03_272T01_9000004204,:,:,2S 1553-542,laxpc2
+2/24/2021,5:13:31,A10_115,T01,94.992575,-10.637417,A10_115T01_9000004206,:,:,HD44179,uvit1
+2/24/2021,14:31:05,A10_045,T08,220.329917,7.792994,A10_045T08_9000004208,:,:,LEDA 84268,uvit1
+2/26/2021,6:53:20,A10_021,T10,287.442083,-63.857528,A10_021T10_9000004210,:,:,NGC 6744,uvit1
+2/26/2021,18:20:25,A10_050,T01,272.68275,-27.963917,A10_050T01_9000004212,:,:,AS281,uvit1
+2/28/2021,9:13:48,A10_083,T01,274.281375,-56.02335600000001,A10_083T01_9000004214,:,:,QV Tel (HR 6819),laxpc2
+2/28/2021,17:31:31,A10_050,T03,272.462708,-27.766858000000003,A10_050T03_9000004216,:,:,IRAS 18067-2746,uvit1
+3/2/2021,1:04:04,T03_279,T01,255.705754,-48.789767,T03_279T01_9000004218,:,:,GX339-4,sxt
+3/4/2021,20:37:17,A10_102,T11,246.416125,40.801167,A10_102T11_9000004220,:,:,J162539d87p404804d2,uvit1
+3/5/2021,1:12:00,T03_280,T01,255.75426099999999,-48.604031,T03_280T01_9000004222,:,:,gx339-4_1,uvit1
+3/5/2021,9:11:30,T03_281,T01,255.98133199999998,-48.73965,T03_281T01_9000004224,:,:,gx339-4_2,uvit1
+3/5/2021,10:53:36,T03_282,T01,255.899417,-48.972778999999996,T03_282T01_9000004226,:,:,gx339-4_3,uvit1
+3/5/2021,12:39:46,A10_101,T19,226.004975,10.437716,A10_101T19_9000004228,:,:,PG 1501+106,uvit1
+3/6/2021,16:05:34,A10_102,T11,246.416125,40.801167,A10_102T11_9000004230,:,:,J162539d87p404804d2,uvit1
+3/7/2021,18:11:13,A10_102,T05,241.382667,17.80725,A10_102T05_9000004232,:,:,J160531d84p174826d1,uvit1
+3/8/2021,23:29:58,A10_110,T02,203.100833,11.106389,A10_110T02_9000004234,:,:,MRK 789,uvit1
+3/9/2021,20:31:16,A10_094,T01,76.339345,-70.477508,A10_094T01_9000004236,:,:,LMC-01,uvit1
+3/9/2021,22:10:38,A10_094,T02,77.41749899999999,-70.50125,A10_094T02_9000004238,:,:,LMC-02,uvit1
+3/10/2021,1:39:41,A10_102,T08,138.603125,11.940417,A10_102T08_9000004240,:,:,J091424d75p115625d5,uvit1
+3/10/2021,20:46:22,A10_102,T09,120.99983300000001,9.979667,A10_102T09_9000004242,:,:,J080359d96p095846d8,uvit1
+3/11/2021,19:50:13,A10_094,T05,80.66219,-70.53416899999999,A10_094T05_9000004244,:,:,LMC-05,uvit1
+3/11/2021,21:17:12,A10_064,T03,289.625,-60.498889,A10_064T03_9000004246,:,:,VV 304,uvit1
+3/13/2021,1:50:16,A10_094,T06,81.744937,-70.53233900000001,A10_094T06_9000004248,:,:,LMC-06,uvit1
