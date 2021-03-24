@@ -1,14 +1,5 @@
 '''Inter IIT Mid-Prep Problem Statement
-    Copyright (C) 2021  IIT Gandhinagar Team of Avengers
-    Team Members:
-    1)Paarth Madan
-    2)Mann Jain
-    3)Aditi Agarwal
-    4)Eesha Kulkarni
-    5)Lipika Rajpal
-    6)Shreya Shukla
-    7)Inderjeet Singh
-    8)Mukul Raj
+    Copyright (C) 2021  AstroAnalyzer
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -30,7 +21,7 @@ import pandas as pd
 from branca.element import Figure
 
 #create a title on web
-st.markdown("<h1 style='text-align: center; color: white;'>IITGN'S   ASTROANALYZER </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'>ASTROANALYZER </h1>", unsafe_allow_html=True)
 
 #create a base map
 fig3=Figure(width=550,height=350)
