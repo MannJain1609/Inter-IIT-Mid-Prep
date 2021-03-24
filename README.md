@@ -13,3 +13,4 @@ publications.csv
 Pub.csv
 
 Main.py is the main code
+The file requirement.txt contains the libraries required.
