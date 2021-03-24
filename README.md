@@ -9,3 +9,5 @@ loc_low.csv
 Catalog_B.csv
 publications.csv
 Pub.csv
+
+Main.py is the main code
