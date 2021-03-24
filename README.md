@@ -1,6 +1,8 @@
 #Inter IIT Mid_Prep Problem
 A data-visualization tool for astrosat detectable sources and publications list
 
+This programme is under GPL license.
+
 Change all the CSV files path corresponding to the files which can be downloaded from here.
 The files are:
 Catalog_A.csv
