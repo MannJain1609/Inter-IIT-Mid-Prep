@@ -1,5 +1,3 @@
-Libraries required:
-
 branca 		0.4.2
 folium		0.12.1
 pandas		1.2.3
