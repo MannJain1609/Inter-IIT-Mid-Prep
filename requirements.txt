@@ -1,5 +1,5 @@
-branca 		0.4.2
-folium		0.12.1
-pandas		1.2.3
-streamlit		0.79.0
-streamlit_folium	0.3.0
+branc==0.4.2
+folium==0.12.1
+pandas==1.2.3
+streamlit==0.79.0
+streamlit_folium==0.3.0
