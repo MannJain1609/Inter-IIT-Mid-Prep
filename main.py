@@ -44,7 +44,7 @@ r=st.sidebar.slider(label='Slide this-',min_value=1,max_value=15,value=5)
 
 
 #reading catalog B csv file
-f1=pd.read_csv(r'C:\Users\Eesha\InterIIT Tech Meet 2021\catalog_B.csv')
+f1=pd.read_csv('catalog_B.csv')
 #making the list of all columns in catalog B
 f1_ra=list(f1['RA'])
 f1_dec=list(f1['Dec'])
@@ -60,7 +60,7 @@ f1_prime_instrument=list(f1['Prime_instrument'])
 
 
 #reading csv file of low mass binary containg GLAN, GLOT,RA and Dec in hour format
-df_l=pd.read_csv(r'C:\Users\Eesha\InterIIT Tech Meet 2021\loc_low.csv',index_col=0)
+df_l=pd.read_csv('loc_low.csv',index_col=0)
 #making the lists of columns in the file
 glat_l=list(df_l['GLAT'])
 glong_l=list(df_l['GLON'])
@@ -70,7 +70,7 @@ df_l_dec=list(df_l['DE_sign']*(df_l['DEd']+(df_l['DEm']/60)+(df_l['DEs']/3600)))
 
 
 #read csv file of high mass binary containing GLAN, GLOT, RA and Dec in hour format
-df_h=pd.read_csv(r'C:\Users\Eesha\InterIIT Tech Meet 2021\loc_high.csv')
+df_h=pd.read_csv('loc_high.csv')
 #making list of columns in file
 glat_h=list(df_h['GLAT'])
 glong_h=list(df_h['GLON'])
@@ -118,7 +118,7 @@ for lt, ln, ra, dec in zip(glat_h,glong_h,df_h_ra,df_h_dec):
 
 
 #reading the publications of astrosat data
-publication_file=pd.read_csv(r'C:\Users\Eesha\InterIIT Tech Meet 2021\publications.csv')
+publication_file=pd.read_csv('publications.csv')
 #making the lists of all columns in publication_file
 Title=list(publication_file['Title'])
 Abstract=list(publication_file['Abstract'])
