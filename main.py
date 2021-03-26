@@ -151,8 +151,8 @@ for lt, ln in zip(glat_l,glong_l):
                                      tooltip='<strong>Click here for more information</strong>'))
             for values in pub_list:
                 if(csr[9] in values[0] or csr[9] in values[1]):
-                    demo = pd.DataFrame([[values[0], values[1], values[2], values[3], values[4]]])
-                    demo.to_csv('Pub.csv', mode='a', header=False)
+                    #demo = pd.DataFrame([[values[0], values[1], values[2], values[3], values[4]]])
+                    #demo.to_csv('Pub.csv', mode='a', header=False)
                     fg.add_child(folium.CircleMarker(location=[lt, ln], radius=r,tooltip='<strong>Click here for publication details</strong>', popup='<a href="https://drive.google.com/file/d/1PyE1N4c2bFMiOtHL0s6Hoe5CfWYKEcD0/view?usp=sharing" target="blank">Click Here</a>'))
                     break
         else:
@@ -176,8 +176,8 @@ for lt, ln in zip(glat_h,glong_h):
                                              tooltip='<strong>Click here for more information</strong>'))
             for values in pub_list:
                 if (csr[9] in values[0] or csr[9] in values[1]):
-                    demo = pd.DataFrame([[values[0], values[1], values[2], values[3], values[4]]])
-                    demo.to_csv('Pub.csv', mode='a', header=False)
+                    #demo = pd.DataFrame([[values[0], values[1], values[2], values[3], values[4]]])
+                    #demo.to_csv('Pub.csv', mode='a', header=False)
                     fg.add_child(folium.CircleMarker(location=[lt, ln], radius=12,tooltip='<strong>Click here for publication details</strong>',
                                                      popup='<a href="https://drive.google.com/file/d/1PyE1N4c2bFMiOtHL0s6Hoe5CfWYKEcD0/view?usp=sharing" target="blank">Click here</a>'))
                     break
