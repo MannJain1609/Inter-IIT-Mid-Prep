@@ -24,3 +24,5 @@ The file requirement.txt contains the libraries required.
 #You can access our web-app from here:
 
 https://share.streamlit.io/mannjain1609/inter-iit-mid-prep/main/main.py
+
+Make sure you copy and paste the link after closing this repository!!!
