@@ -21,7 +21,7 @@ import pandas as pd
 from branca.element import Figure
 
 #create a title on web
-st.markdown("<h1 style='text-align: center; color: white;'>ASTROANALYZER </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>ASTROANALYZER </h1>", unsafe_allow_html=True)
 
 #create a base map
 fig3=Figure(width=550,height=350)
