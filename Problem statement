@@ -1,0 +1,86 @@
+
+
+AstroSat works on a proposal-based observatory and all the data is made available to the public after a lock-in period (if any). The problem involves developing a visualization tool for identifying the characteristics of a given cosmic source. The Catalog shared would be of AstroSat observation products and the same would be applicable to other wavelengths.
+
+Please find attached two catalog files:
+
+J_A+AS_147_25.tar is the catalog needs to be plotted (A).    The tar file contains two catalog files lmxbcat.dat and hmxbcat.dat both of them needs to combined to form (A). The structure of the catalogs are given in the ReadMe file.
+
+Cat_IIT_AS_srcs.txt    This is the observations carried over from October 2020 by AstroSat. This is a CSV file with, Serial Number, Observation_start_date, Observation_start_time, Proposal_ID, Target_ID, RA, Dec, Observation_ID, Proposal_Title, Abstract, Source_Name, Prime_instrument
+
+AstroSat publication list. This is again an ascii file with each record separated by two new lines. Each record has a Title, Authors, Bibliogrphic code, Keywords and abstract. The source name may have to be searched from either title or abstract for generating publication list (again in properly formatted PDF/Ascii).
+
+Note that the source name from (2) may not match with the source name from (1).You might need to use Simbad or NED to resolve the names.
+
+
+
+AstroSat works on a proposal-based observatory and all the data is made available to the public after a
+lock-in period (if any).
+
+The problem involves developing a visualization tool for identifying the characteristics of a given cosmic
+source. The Catalog shared would be of AstroSat observation products and the same would be applicable
+to other wavelengths.
+
+Basic Requirements for the visualization tool :
+
+1. Catalogs of cosmic sources (A) will be provided along with the catalogs containing AstroSat data (B).
+This would be accompanied with the publications that have utilized AstroSat data (C).
+
+2. The tool should be able to generate a map showing the position of the sources from (A). When
+hovered/clicked on a particular target, the tool should be able to
+- Determine whether the source is observed by AstroSat or not (using B).
+- If observed, generate a list of products available for download in machine readable ascii/csv/pdf
+formats.
+- Generate list of publications corresponding to the source of interest (from C).
+
+3. The tool should be designed such that it can be extended to any other catalog with minimal
+modification.
+
+4. The tool should be developed completely using open source (python/perl etc) software.
+
+Additionally, the teams must use the available data from one of the thoroughly observed sources to
+derive meaningful results based on the type of astronomical object being observed.
+
+Should be deployed as a Web-based tool and also as a stand-alone application.
+
+The tool should be distributed under GPL or any other open source license.
+
+Should use only open source, python desirable.
+
+SOFTWARE SPECIFICATIONS:
+
+EVALUATION CRITERIA:
+
+Speed of Execution: The tool should be able to quickly switch between different modes of
+operation with minimum computation time.
+
+Observations, Conclusions, and accuracy of results obtained from the analysis.
+
+Compatibility: The tool should have minimum system requirements to be compatible with a
+larger number of systems.
+
+The ease with which the tool can be extended to various other catalogs.
+
+Concise and clear documentation and presentation
+
+Aesthetics
+
+Usability or ease of use.
+
+
+The event will take place in two stages:
+
+Code and Demo Video Submission: Properly documented code must be submitted along with a demonstration video showing the detailed working of the web tool.
+
+Proper documentation of code is essential. Hence, all instructions should be properly mentioned in an easily readable format.
+
+A video showing the proper working of the web tool should be made and submitted.
+The limit to video length is 5 min.
+
+The deadline for submission of the final code and demonstration video is 24th March 2021 11:59 PM.
+
+QnA & Presentation Round: Top 10 teams would be announced on the 26th March Morning who would then be invited for the PPT round on 27th March 2021.
+A presentation has to be made which will be of 10 mins.
+The judge would then ask questions pertaining to the submission (5 mins).
+PPTs for this round have to be submitted by 8 AM on 27th March. 
+Results will be declared on 28th March.
